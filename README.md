@@ -1,0 +1,123 @@
+# Wellnis Review — ระบบติดตามรีวิว Google Maps 9 สาขา
+
+ระบบอัตโนมัติที่ดึงรีวิว Google Maps ของทุกสาขาทุกวัน, ให้ AI (Claude) สรุปว่าลูกค้าชื่นชมอะไรบ่อยๆ,
+แจ้งเตือนทาง Telegram ทุกวัน 21:00 น. (และแจ้งด่วนถ้ามีรีวิว ≤ 3 ดาว), พร้อมหน้าเว็บแดชบอร์ดให้ทีมกดดูได้ทุกที่
+
+> หมายเหตุ: ลิงก์ที่ให้มามี **9 สาขา** (บางปู, สะพานควาย, บางใหญ่, รังสิต, พัทยา, เชียงใหม่, พระราม 9, บางนา, ปิ่นเกล้า)
+> ระบบนี้รองรับครบทั้ง 9 สาขาตามลิงก์ — ถ้าจริงๆ มีแค่ 8 สาขา ให้ลบรายการที่ไม่ต้องการออกจาก `branches.json`
+
+## ระบบทำอะไรให้บ้าง
+
+- 🔄 ดึงคะแนน + รีวิวล่าสุดของทุกสาขาจาก Google Places API ทุกวัน
+- 🤖 ให้ Claude สรุปเป็นภาษาไทยว่าลูกค้าชื่นชมเรื่องอะไรบ่อย (สะสมข้อมูลรีวิวไว้ในระบบ เพิ่มความแม่นยำขึ้นเรื่อยๆ)
+- 📝 นับ "รีวิวใหม่วันนี้" ต่อสาขา ถ้าไม่มีรีวิวใหม่จะโชว์ว่ารีวิวล่าสุดคือวันที่เท่าไหร่ (ไว้ตามน้องๆ ที่สาขา)
+- ⚠️ แจ้งเตือนทันทีในข้อความประจำวัน หากมีรีวิวใหม่ที่ได้ 3 ดาวหรือน้อยกว่า
+- 📲 ส่งสรุปเข้า Telegram ทุกวัน 21:00 น. (เวลาไทย) ผ่าน GitHub Actions
+- 🌐 หน้าเว็บแดชบอร์ด (`docs/index.html`) ให้ทีมกดดูรายละเอียดแต่ละสาขาได้ทุกเมื่อ ผ่าน GitHub Pages
+
+## ข้อจำกัดที่ควรรู้ (สำคัญ)
+
+Google **ไม่มี API ทางการที่ดึงรีวิวได้ครบทุกรีวิว** — Places API (New) ให้ดึงได้แค่ **รีวิวล่าสุดสูงสุด 5 รายการ**
+ต่อการเรียก 1 ครั้ง (ไม่มีการแบ่งหน้า/pagination) ระบบนี้แก้ปัญหาด้วยการ**เทียบรีวิวใหม่กับที่เคยเห็นแล้วทุกวัน**
+และสะสมเป็นประวัติไว้ในสาขานั้นๆ (`data/state.json`) ดังนั้น:
+
+- นับ "รีวิวใหม่วันนี้" แม่นยำ **ตราบใดที่สาขานั้นไม่ได้รับรีวิวใหม่เกิน 5 รายการในวันเดียว** (กรณีปกติของคลินิกไม่น่าเกิน)
+- AI สรุปคำชมจะแม่นยำขึ้นเรื่อยๆ ตามจำนวนวันที่ระบบรันสะสมข้อมูล ไม่ใช่ดึงรีวิวเก่าย้อนหลังทั้งหมดได้ทันที
+
+## โครงสร้างโปรเจกต์
+
+```
+branches.json                 รายชื่อ 9 สาขา + place_id ของแต่ละสาขา
+src/wellnis_review/           โค้ดหลัก (ดึงรีวิว, สรุป AI, ส่ง Telegram, สร้างข้อมูลแดชบอร์ด)
+scripts/resolve_place_ids.py  สคริปต์รันครั้งเดียว: แปลงลิงก์ Google Maps -> place_id
+data/state.json               ฐานข้อมูลรีวิวสะสม (คอมมิตกลับเข้า repo ทุกวันโดย Action)
+docs/                          หน้าเว็บแดชบอร์ด (GitHub Pages เสิร์ฟจากโฟลเดอร์นี้)
+.github/workflows/            งานอัตโนมัติบน GitHub Actions
+```
+
+## ขั้นตอนติดตั้ง (ทำครั้งเดียว)
+
+### 1) สร้าง Telegram Bot
+
+1. เปิดแชทกับ [@BotFather](https://t.me/BotFather) ใน Telegram
+2. พิมพ์ `/newbot` ตั้งชื่อบอท จะได้ **Bot Token** (รูปแบบ `123456789:AAxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx`)
+3. หา **Chat ID** ที่จะให้บอทส่งข้อความไปหา:
+   - ถ้าจะส่งเข้า **กลุ่ม**: เพิ่มบอทเข้ากลุ่ม, ส่งข้อความอะไรก็ได้ในกลุ่ม, แล้วเปิด
+     `https://api.telegram.org/bot<TOKEN>/getUpdates` ในเบราว์เซอร์ — จะเห็น `"chat":{"id": -100xxxxxxxxxx, ...}`
+   - ถ้าจะส่งหา **ตัวเอง/แชทเดี่ยว**: ส่งข้อความหาบอทก่อน 1 ครั้ง แล้วเปิดลิงก์เดียวกันด้านบน จะเห็น `"chat":{"id": xxxxxxxx}`
+   - หรือใช้บอทช่วยเช่น [@userinfobot](https://t.me/userinfobot) เพื่อดู chat id ของตัวเอง/กลุ่มได้ง่ายขึ้น
+
+### 2) เปิดใช้งาน Google Places API
+
+1. ไปที่ [Google Cloud Console](https://console.cloud.google.com/) สร้างโปรเจกต์ (หรือใช้โปรเจกต์เดิม)
+2. เปิดใช้ **Places API (New)** ที่เมนู APIs & Services → Library
+3. ผูก Billing account (Google ให้เครดิตใช้ฟรีรายเดือน — เพียงพอสำหรับ 9 สาขา ดึงวันละครั้ง)
+4. สร้าง API Key ที่ Credentials → Create Credentials → API Key
+   - แนะนำจำกัดสิทธิ์ Key ให้ใช้ได้เฉพาะ Places API (New) เพื่อความปลอดภัย
+
+### 3) สร้าง Anthropic API Key
+
+ไปที่ [console.anthropic.com](https://console.anthropic.com/) → API Keys → Create Key
+
+### 4) ตั้งค่า GitHub Secrets
+
+ไปที่ repo → **Settings → Secrets and variables → Actions → New repository secret** เพิ่ม 4 ตัวนี้:
+
+| Secret name | ค่า |
+|---|---|
+| `GOOGLE_MAPS_API_KEY` | API key จากขั้นตอนที่ 2 |
+| `ANTHROPIC_API_KEY` | API key จากขั้นตอนที่ 3 |
+| `TELEGRAM_BOT_TOKEN` | Bot token จากขั้นตอนที่ 1 |
+| `TELEGRAM_CHAT_ID` | Chat id จากขั้นตอนที่ 1 |
+
+### 5) ผูก place_id ให้แต่ละสาขา (รันครั้งเดียว)
+
+ไปที่ repo → tab **Actions** → เลือก workflow **"Resolve place IDs (one-time setup)"** → **Run workflow**
+
+รอสักครู่ ระบบจะ:
+1. ตามลิงก์ Google Maps ของแต่ละสาขา
+2. ค้นหาใน Places API เพื่อหา `place_id` ที่ตรงกัน
+3. commit ค่า `place_id` กลับเข้า `branches.json` ให้อัตโนมัติ
+
+**⚠️ สำคัญ:** หลังรันเสร็จ เปิดไฟล์ `branches.json` (หรือดู Job Summary ของ workflow) ตรวจสอบว่าที่อยู่/ชื่อที่จับคู่ได้
+ตรงกับแต่ละสาขาจริง ก่อนปล่อยให้ระบบรันอัตโนมัติทุกวัน — ถ้าสาขาไหนจับคู่ผิดหรือหาไม่เจอ ให้แก้ `place_id`
+ในไฟล์ด้วยมือ (หา place_id ได้จาก [Place ID Finder](https://developers.google.com/maps/documentation/places/web-service/place-id))
+
+### 6) เปิดใช้งาน GitHub Pages (สำหรับลิงก์แดชบอร์ด)
+
+ไปที่ repo → **Settings → Pages** → Source: **Deploy from a branch** → Branch: `main` (หรือชื่อ default branch)
+โฟลเดอร์: **/docs** → Save
+
+หลังจากนั้นไม่กี่นาที จะได้ลิงก์แดชบอร์ดรูปแบบ:
+`https://<github-username-หรือ-org>.github.io/<ชื่อ-repo>/`
+
+ลิงก์นี้ **ทีมกดเข้าดูได้ทุกที่ทุกเวลา** ไม่ต้องล็อกอิน และจะอัปเดตข้อมูลอัตโนมัติทุกวันหลัง workflow รันเสร็จ
+
+### 7) ทดสอบรันจริง
+
+ไปที่ tab **Actions** → เลือก workflow **"Daily review sync"** → **Run workflow** เพื่อทดสอบทันที
+(ไม่ต้องรอถึง 21:00 น.) ตรวจสอบว่า:
+- ข้อความเข้า Telegram ครบทุกสาขา
+- `docs/data.json` และ `data/state.json` ถูกคอมมิตกลับเข้า repo
+- แดชบอร์ดที่ GitHub Pages แสดงข้อมูลถูกต้อง
+
+หลังจากนั้นระบบจะรันอัตโนมัติทุกวัน **21:00 น. เวลาไทย** ผ่าน cron ใน `.github/workflows/daily-review-sync.yml`
+
+## การดูแลรักษา
+
+- **เพิ่ม/ลบ/แก้สาขา**: แก้ `branches.json` แล้ว push จากนั้นรัน workflow "Resolve place IDs" ใหม่ถ้าเพิ่มสาขาใหม่
+- **ปรับเกณฑ์ดาวที่แจ้งเตือน**: แก้ `LOW_RATING_THRESHOLD` ใน `src/wellnis_review/config.py` (ปัจจุบัน = 3)
+- **ปรับเวลาแจ้งเตือน**: แก้ cron ใน `.github/workflows/daily-review-sync.yml`
+  (`cron: "0 14 * * *"` คือ 14:00 UTC = 21:00 ไทย — ถ้าจะเปลี่ยนเวลาต้องคำนวณเป็น UTC เอง)
+- **รันทดสอบในเครื่องตัวเอง**: `cp .env.example .env` แล้วกรอกค่า, `pip install -r requirements.txt`,
+  `export $(cat .env | xargs) && PYTHONPATH=src python -m wellnis_review.run_daily`
+
+## ค่าใช้จ่ายโดยประมาณ
+
+- **Google Places API**: เรียก Place Details วันละ 1 ครั้ง/สาขา (9 สาขา = 9 ครั้ง/วัน ≈ 270 ครั้ง/เดือน)
+  อยู่ในเครดิตฟรีรายเดือนของ Google Cloud ในเกือบทุกกรณี — ตรวจสอบราคาปัจจุบันได้ที่
+  [Places API Pricing](https://developers.google.com/maps/billing-and-pricing/pricing)
+- **Anthropic Claude API**: สรุป AI เฉพาะสาขาที่มีรีวิวใหม่ (ไม่ใช่ทุกสาขาทุกวัน) ปริมาณการใช้งานต่ำมาก
+  ตรวจสอบราคาปัจจุบันได้ที่ [anthropic.com/pricing](https://www.anthropic.com/pricing)
+- **Telegram Bot API**: ฟรี
+- **GitHub Actions + Pages**: ฟรีสำหรับ repo ปกติ (มี free minutes ต่อเดือน)

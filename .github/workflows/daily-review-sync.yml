@@ -1,0 +1,50 @@
+name: Daily review sync
+
+on:
+  schedule:
+    # 14:00 UTC = 21:00 น. เวลาไทย (Asia/Bangkok, UTC+7)
+    - cron: "0 14 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-review-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run daily sync (fetch reviews, AI summary, Telegram digest, dashboard data)
+        env:
+          PYTHONPATH: src
+          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python -m wellnis_review.run_daily
+
+      - name: Commit updated state + dashboard data
+        run: |
+          git config user.name "wellnis-review-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/state.json docs/data.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: daily review sync $(date -u +%Y-%m-%d)"
+            git push
+          fi

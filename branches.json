@@ -1,0 +1,59 @@
+{
+  "_comment": "รายชื่อสาขาทั้งหมด. place_id จะถูกเติมอัตโนมัติโดย scripts/resolve_place_ids.py — อย่าแก้ด้วยมือเว้นแต่จำเป็น",
+  "branches": [
+    {
+      "key": "bang_pu",
+      "name": "สาขาบางปู",
+      "maps_url": "https://maps.app.goo.gl/RkZGhTjopWAgEPZDA",
+      "place_id": null
+    },
+    {
+      "key": "saphan_khwai",
+      "name": "สาขาสะพานควาย",
+      "maps_url": "https://maps.app.goo.gl/dKbqCxBubmLV5uhG6",
+      "place_id": null
+    },
+    {
+      "key": "bang_yai",
+      "name": "สาขาบางใหญ่",
+      "maps_url": "https://maps.app.goo.gl/5cWsxq4fQf7jAGqw9",
+      "place_id": null
+    },
+    {
+      "key": "rangsit",
+      "name": "สาขารังสิต",
+      "maps_url": "https://maps.app.goo.gl/uj3Pvc3VCqMZJZvW9",
+      "place_id": null
+    },
+    {
+      "key": "pattaya",
+      "name": "สาขาพัทยา",
+      "maps_url": "https://maps.app.goo.gl/BKWza6347NqJyPEk7",
+      "place_id": null
+    },
+    {
+      "key": "chiang_mai",
+      "name": "สาขาเชียงใหม่",
+      "maps_url": "https://maps.app.goo.gl/4Dyp4A6Xd6TBhXDc7",
+      "place_id": null
+    },
+    {
+      "key": "phra_ram_9",
+      "name": "สาขาพระราม 9",
+      "maps_url": "https://maps.app.goo.gl/5jmP8YQ1sWqZ4uE67",
+      "place_id": null
+    },
+    {
+      "key": "bang_na",
+      "name": "สาขาบางนา",
+      "maps_url": "https://maps.app.goo.gl/NBfKGfiYPDPxkGYh8",
+      "place_id": null
+    },
+    {
+      "key": "pinklao",
+      "name": "สาขาปิ่นเกล้า",
+      "maps_url": "https://maps.app.goo.gl/oDTCRKE8FNx3c4z29",
+      "place_id": null
+    }
+  ]
+}
