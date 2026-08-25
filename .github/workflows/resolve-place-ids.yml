@@ -3,7 +3,8 @@ name: Resolve place IDs (one-time setup)
 # รันด้วยมือครั้งเดียวตอนตั้งระบบ (หรือทุกครั้งที่เพิ่ม/แก้ไขสาขาใน branches.json)
 # ไปที่ tab Actions -> เลือก workflow นี้ -> Run workflow
 on:
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs: {}
 
 permissions:
   contents: write
