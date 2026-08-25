@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T07:46:14Z",
+  "generated_at": "2026-08-25T08:04:47Z",
   "branches": [
     {
       "key": "bang_pu",
@@ -13,13 +13,13 @@
         {
           "author": "phattaravarin promjak",
           "rating": 1,
-          "text": "The queue management system is having problems. I had an appointment at 1 PM, but actually saw the doctor at 2 PM, only to be told that the schedule was full and the doctor had many cases. I'm confused why they accept appointments at 1 PM if the schedule is full. They could schedule for 2 PM so customers don't have to wait.\nRegarding the before-and-after treatment photos, I've never received them. Therefore, I don't know if there's any progress. The clinic said I have to wait 3 months before I can request the before-and-after photos (even though they are my own photos). 3 months have passed, and I've requested them again, but still haven't received them. The process is very slow; it feels like they don't care about their customers.\nI'm currently undergoing the hair regrowth program for thinning hair. Personally, I don't feel like my hair loss has decreased. The clinic won't let me see the before-and-after photos (of myself), so I don't know if there's any improvement. I can't say.",
+          "text": "ระบบจัดการคิวมีปัญหาค่ะ นัด 13.00 ได้เข้าหาหมอจริงๆ 14.00 แล้วบอกว่าคิวไม่ว่าง หมอติดเคสเยอะ แต่งงว่าแล้วจะรับนัดบ่ายโมงทำไมถ้าไม่ว่าง นัดมา 14.00 ลูกค้าจะได้ไม่ต้องรอ\nส่วนรูปเปรียบเทียบการรักษาแต่ละครั้ง ไม่เคยได้ค่ะ เลยไม่รู้ว่ามี progress ไหมตอบไม่ได้จริงๆ ทางคลินิคแจ้งว่า ต้องรอ 3 เดือนก่อน ถึงจะขอรูปเปรียบเทียบได้ (ทั้งๆที่เป็นรูปของตัวเอง) ผ่านมา 3 เดือนแล้ว ก้ขอไปใหม่ ยังไม่ได้เลยค่ะ ดำเนินการช้ามาก เหมือนไม่ค่อยใส่ใจลูกค้า\nรักษาโปรแกรม hair regrowth สำหรับผมบางอยู่ค่ะ ส่วนตัวไม่ได้รู้สึกว่าผมร่วงน้อยลง รูปเปรียบเทียบ(ของตัวเอง) ทางคลินิคก็ไม่ให้ดู เลยไม่รู้ว่าดีขึ้นไหม ตอบไม่ได้ค่ะ",
           "publish_time": "2026-05-24T04:59:00.932476041Z"
         },
         {
           "author": "สุมณี พยอมหอม",
           "rating": 3,
-          "text": "I'd like to suggest improving the scheduling. I had an appointment at 3 PM, but it was almost 4:30 PM and I still hadn't seen the doctor. I told them that if I didn't see the doctor by 4:30 PM, I might have to come back next time because I had other errands to run. That's how I finally got to see the doctor at 4:30 PM. The doctor only comes in on Fridays, Saturdays, and Sundays from 1 PM to 6 PM, which is too short and results in many cases overlapping. The consultation with the doctor was good; they gave helpful advice and understood my problem of hair thinning and loss. The staff were also very helpful. However, I haven't decided to buy a full treatment course yet because I'm worried about the scheduling, so I tried the serum first.",
+          "text": "อยากให้ปรับปรุงเรื่องจัดการเวลา นัดไว้บ่าย3 จนจะบ่าย4ครึ่งยังไม่ได้พบหมอ เลยบอกถ้า4โมงครึ่งยังไม่ได้พบหมอ อาจจะขอมาใหม่รอบหน้านะคะ พอดีมีธุระต่อค่ะ ถึงได้เข้าพบตอนบ่าย4ครึ่ง เพราะหมอจะเข้าแค่ศุกร์-อาทิตย์เวลา 13.00-18.00 น. ช่วงทำการน้อยไป เลยติดหลายๆเคสชนกัน การปรึกษาพบหมอ ให้คำแนะนำโอเครค่ะ เข้าใจปัญหาผมบางผมร่วง เจ้าหน้าที่บริการดีค่ะ แต่ยังไม่ได้ตัดสินใจซื้อคอสกังวลเรื่องเวลา เลยลองตัวเซรั่มมาใช้ก่อนค่ะ",
           "publish_time": "2026-06-19T14:54:14.166524015Z"
         }
       ],
@@ -30,31 +30,31 @@
         {
           "author": "สุมณี พยอมหอม",
           "rating": 3,
-          "text": "I'd like to suggest improving the scheduling. I had an appointment at 3 PM, but it was almost 4:30 PM and I still hadn't seen the doctor. I told them that if I didn't see the doctor by 4:30 PM, I might have to come back next time because I had other errands to run. That's how I finally got to see the doctor at 4:30 PM. The doctor only comes in on Fridays, Saturdays, and Sundays from 1 PM to 6 PM, which is too short and results in many cases overlapping. The consultation with the doctor was good; they gave helpful advice and understood my problem of hair thinning and loss. The staff were also very helpful. However, I haven't decided to buy a full treatment course yet because I'm worried about the scheduling, so I tried the serum first.",
+          "text": "อยากให้ปรับปรุงเรื่องจัดการเวลา นัดไว้บ่าย3 จนจะบ่าย4ครึ่งยังไม่ได้พบหมอ เลยบอกถ้า4โมงครึ่งยังไม่ได้พบหมอ อาจจะขอมาใหม่รอบหน้านะคะ พอดีมีธุระต่อค่ะ ถึงได้เข้าพบตอนบ่าย4ครึ่ง เพราะหมอจะเข้าแค่ศุกร์-อาทิตย์เวลา 13.00-18.00 น. ช่วงทำการน้อยไป เลยติดหลายๆเคสชนกัน การปรึกษาพบหมอ ให้คำแนะนำโอเครค่ะ เข้าใจปัญหาผมบางผมร่วง เจ้าหน้าที่บริการดีค่ะ แต่ยังไม่ได้ตัดสินใจซื้อคอสกังวลเรื่องเวลา เลยลองตัวเซรั่มมาใช้ก่อนค่ะ",
           "publish_time": "2026-06-19T14:54:14.166524015Z"
         },
         {
           "author": "phattaravarin promjak",
           "rating": 1,
-          "text": "The queue management system is having problems. I had an appointment at 1 PM, but actually saw the doctor at 2 PM, only to be told that the schedule was full and the doctor had many cases. I'm confused why they accept appointments at 1 PM if the schedule is full. They could schedule for 2 PM so customers don't have to wait.\nRegarding the before-and-after treatment photos, I've never received them. Therefore, I don't know if there's any progress. The clinic said I have to wait 3 months before I can request the before-and-after photos (even though they are my own photos). 3 months have passed, and I've requested them again, but still haven't received them. The process is very slow; it feels like they don't care about their customers.\nI'm currently undergoing the hair regrowth program for thinning hair. Personally, I don't feel like my hair loss has decreased. The clinic won't let me see the before-and-after photos (of myself), so I don't know if there's any improvement. I can't say.",
+          "text": "ระบบจัดการคิวมีปัญหาค่ะ นัด 13.00 ได้เข้าหาหมอจริงๆ 14.00 แล้วบอกว่าคิวไม่ว่าง หมอติดเคสเยอะ แต่งงว่าแล้วจะรับนัดบ่ายโมงทำไมถ้าไม่ว่าง นัดมา 14.00 ลูกค้าจะได้ไม่ต้องรอ\nส่วนรูปเปรียบเทียบการรักษาแต่ละครั้ง ไม่เคยได้ค่ะ เลยไม่รู้ว่ามี progress ไหมตอบไม่ได้จริงๆ ทางคลินิคแจ้งว่า ต้องรอ 3 เดือนก่อน ถึงจะขอรูปเปรียบเทียบได้ (ทั้งๆที่เป็นรูปของตัวเอง) ผ่านมา 3 เดือนแล้ว ก้ขอไปใหม่ ยังไม่ได้เลยค่ะ ดำเนินการช้ามาก เหมือนไม่ค่อยใส่ใจลูกค้า\nรักษาโปรแกรม hair regrowth สำหรับผมบางอยู่ค่ะ ส่วนตัวไม่ได้รู้สึกว่าผมร่วงน้อยลง รูปเปรียบเทียบ(ของตัวเอง) ทางคลินิคก็ไม่ให้ดู เลยไม่รู้ว่าดีขึ้นไหม ตอบไม่ได้ค่ะ",
           "publish_time": "2026-05-24T04:59:00.932476041Z"
         },
         {
           "author": "asiya matiwat",
           "rating": 5,
-          "text": "The doctor gave excellent advice, and the staff provided great service.\nThe clinic area is beautiful and clean.\nThe treatment bed was incredibly comfortable; I fell asleep as soon as I sat down.",
+          "text": "คุณหมอให้คำแนะนำดีมาก พนักงานบริการดี\nพื้นที่คลินิค สวย สะอาด\nเตียงที่นั่งระหว่างทำหัตการดีมากก นั่งปุ๊บหลับปั๊บ",
           "publish_time": "2026-05-09T15:59:04.360708120Z"
         },
         {
           "author": "Aomaom Benaompiyamanee",
           "rating": 5,
-          "text": "Excellent service, appointments were scheduled on time.",
+          "text": "บริการดีเยี่ยมนัดหมายตรงตามเวลา",
           "publish_time": "2026-04-27T07:24:45.336123812Z"
         },
         {
           "author": "Wichit Ruanchai",
           "rating": 5,
-          "text": "The staff provided excellent care, regularly following up on treatment and calling to remind/schedule appointments to confirm before treatment. It was a great help in reminding clients who might forget.",
+          "text": "เจ้าหน้าที่ดูแลดี ถามติดตามการรักษา เป็นประจำ และ โทรแจ้งเตือน/นัดหมาย เพื่อยืนยัน ก่อนเข้ารักษา เพื่อนกันลูกค้าลืม ช่วยเตือนความจำดีครับ",
           "publish_time": "2025-11-13T11:49:40.941779625Z"
         }
       ],
@@ -66,7 +66,7 @@
           "user_ratings_total": 96
         }
       ],
-      "last_synced": "2026-08-25T07:46:12Z"
+      "last_synced": "2026-08-25T08:04:45Z"
     },
     {
       "key": "saphan_khwai",
@@ -78,45 +78,45 @@
       "new_reviews_today": 5,
       "low_rating_alerts_today": [
         {
-          "author": "Cheryl Weeks",
+          "author": "Pornlada Chaijaroen",
           "rating": 1,
-          "text": "Horrible time keeping and care.\nFirst appointment got postponed a few hours before arrival.\n2nd appointment I arrived on time and after 30 mins of waiting they said to wait another 15 minutes. After waiting 15 minutes they once again told me to wait 15 minutes- no real explanation of why my 5pm appointment  still wasn’t ready to start at 6pm.\n\nI’m sure they are good at what they do but only worth going if you don’t value your time",
-          "publish_time": "2026-01-14T10:38:55.846297863Z"
+          "text": "จริงๆอยากให้ครึ่งดาวด้วยซ้ำแต่ไม่มีให้กด\n1.ทำการทำนัดกับคลินิกแล้ว แต่พอไปถึงบอกว่าหมองานเยอะมากให้รออีก1-2ชั่วโมง เสียเวลามาก พอไปถึงก็ทำได้แค่คุยกับจ่ายยาไม่ได้รักษาอะไร เซลล์พยายามขายแลปเกินความจำเป็น ทั้งที่หมอไม่ได้สั่งแต่เซลล์ก็ยังเสนอให้ตรวจนู่นนี่\n2.พนักงานพยายามขายคอร์ส ทั้งที่ไม่จำเป็นต่อการรักษาเข้าใจว่าได้ค่าคอมมิชชั่น\n2.1 เซลล์ต่อรองว่าถ้าให้5ดาวและมีการแชร์เพจสาธารณะลงเฟสบุ๊คจะได้คอร์สอื่นๆฟรีตามตกลง อาจจะมีการรีวิวไม่เป็นไปตามจริง โปรดพิจารณา\n2.2 ไม่มีราคาที่ชัดเจน ราคาเป็นไปตามเซลล์พูดแล้วแต่สกิลการต่อรอง\n3.เกิดอาการแพ้ยารุนแรงมีการพบแพทย์ ขอเงินคืนตอนแรกคุยกับหมอว่าจะได้เงินคืนแต่สุดท้ายเซลล์มาบอกว่าไม่ได้เงินคืนและให้เปลี่ยนเป็นแบบอื่นๆแทน",
+          "publish_time": "2026-08-08T07:05:17.513278711Z"
         }
       ],
-      "last_review_time": "2026-01-25T12:02:47.897321383Z",
+      "last_review_time": "2026-08-08T07:05:17.513278711Z",
       "ai_summary": "",
       "ai_summary_updated": null,
       "recent_reviews": [
         {
-          "author": "Yuri K",
-          "rating": 5,
-          "text": "It's okay for hair regrowth",
-          "publish_time": "2026-01-25T12:02:47.897321383Z"
-        },
-        {
-          "author": "Cheryl Weeks",
+          "author": "Pornlada Chaijaroen",
           "rating": 1,
-          "text": "Horrible time keeping and care.\nFirst appointment got postponed a few hours before arrival.\n2nd appointment I arrived on time and after 30 mins of waiting they said to wait another 15 minutes. After waiting 15 minutes they once again told me to wait 15 minutes- no real explanation of why my 5pm appointment  still wasn’t ready to start at 6pm.\n\nI’m sure they are good at what they do but only worth going if you don’t value your time",
-          "publish_time": "2026-01-14T10:38:55.846297863Z"
+          "text": "จริงๆอยากให้ครึ่งดาวด้วยซ้ำแต่ไม่มีให้กด\n1.ทำการทำนัดกับคลินิกแล้ว แต่พอไปถึงบอกว่าหมองานเยอะมากให้รออีก1-2ชั่วโมง เสียเวลามาก พอไปถึงก็ทำได้แค่คุยกับจ่ายยาไม่ได้รักษาอะไร เซลล์พยายามขายแลปเกินความจำเป็น ทั้งที่หมอไม่ได้สั่งแต่เซลล์ก็ยังเสนอให้ตรวจนู่นนี่\n2.พนักงานพยายามขายคอร์ส ทั้งที่ไม่จำเป็นต่อการรักษาเข้าใจว่าได้ค่าคอมมิชชั่น\n2.1 เซลล์ต่อรองว่าถ้าให้5ดาวและมีการแชร์เพจสาธารณะลงเฟสบุ๊คจะได้คอร์สอื่นๆฟรีตามตกลง อาจจะมีการรีวิวไม่เป็นไปตามจริง โปรดพิจารณา\n2.2 ไม่มีราคาที่ชัดเจน ราคาเป็นไปตามเซลล์พูดแล้วแต่สกิลการต่อรอง\n3.เกิดอาการแพ้ยารุนแรงมีการพบแพทย์ ขอเงินคืนตอนแรกคุยกับหมอว่าจะได้เงินคืนแต่สุดท้ายเซลล์มาบอกว่าไม่ได้เงินคืนและให้เปลี่ยนเป็นแบบอื่นๆแทน",
+          "publish_time": "2026-08-08T07:05:17.513278711Z"
         },
         {
-          "author": "PAN LERTSOONGNERN",
+          "author": "Sivachaya S",
           "rating": 5,
-          "text": "My package is for 6 months. I’ve been here around 1 month. And can see the results. All staff so niceeeeeeee. Clean place. Would recommend!!!",
-          "publish_time": "2025-05-14T09:03:00.550832Z"
+          "text": "พนักงานบริการดี พูดจาเพราะ คลิกนิกกว้างขวาง สะอาด เข้ามาปรึกษาเกี่ยวกับอาการผมร่วงผมบาง คุณหมอให้คำปรึกษาดีค่ะ",
+          "publish_time": "2026-05-07T10:45:54.391073981Z"
         },
         {
-          "author": "Chatchawan Sriwiangtawat",
+          "author": "Kanchalika Treeklangdorn",
           "rating": 5,
-          "text": "Great advice, suitable location but recommend travel by skytrain or taxi since the parking is hard to find but overall service is good if you are looking for a good clinic for hair treatment",
-          "publish_time": "2025-03-31T07:56:39.342848Z"
+          "text": "สาขาสะพานควาย เดินทางสะดวกมากเลยค่ะ ติด BTS พนักงานดูแล ให้คำแนะนำดีมากเลยค่ะ คุณหมอตอบข้อสงสัย อธิบายทุกอย่างชัดเจนค่ะ สถานที่สะอาด สะดวกสบายมากเลยค่าา",
+          "publish_time": "2026-05-07T10:05:24.443351972Z"
         },
         {
-          "author": "Arisa E",
+          "author": "ธีรชน แสวงผล",
           "rating": 5,
-          "text": "The staff are very nice and welcoming. Great service and takes are of you well here !!",
-          "publish_time": "2025-03-14T09:49:35.343820Z"
+          "text": "มาใช้บริการที่คลีนิค  3 เดือน แล้ว หมอส่องกล้องเห็น ผมเส้นอ่อนๆเริ่มขึ้น  ผมร่วงก็ลดลง   กลางศรีษะเริ่ม ไม่ค่อยเห็นหนังหัว   ที่ร้านให้บริการและคำปรึกษาดีมากครับ",
+          "publish_time": "2026-05-02T08:16:25.095174961Z"
+        },
+        {
+          "author": "scruple girl",
+          "rating": 5,
+          "text": "รักษาเรื่องผมบางมาแล้ว 6 เดือน ผมดูหนาขึ้น พนักงานบริการ ดูแลและพูดจาดี คุณหมอน่ารักเป็นกันเอง ราคาไม่แพง",
+          "publish_time": "2026-04-17T13:00:28.423771482Z"
         }
       ],
       "daily_log": [
@@ -127,7 +127,7 @@
           "user_ratings_total": 185
         }
       ],
-      "last_synced": "2026-08-25T07:46:12Z"
+      "last_synced": "2026-08-25T08:04:45Z"
     },
     {
       "key": "bang_yai",
@@ -145,31 +145,31 @@
         {
           "author": "Bonz Boripat",
           "rating": 5,
-          "text": "I came here for a consultation. The staff and doctor gave excellent advice on what type of treatment was right for me and what I expected results, so the doctor could find a treatment plan that met my needs. The service was good and the clinic was very clean.",
+          "text": "ได้เข้ามาปรึกษากับที่นี่ น้องพนักงานและคุณหมอให้คำปรึกษาดีว่าเราควรต้องรักษาแบบไหน และเรามีความคาดหวังผลจะเป็นอย่างไร เพื่อที่คุณหมอจะได้หาวิธีรักษาที่ตรงกับความต้องการของเรา การให้บริการดี คลินิกสะอาดมากครับ",
           "publish_time": "2026-07-13T09:59:10.505906834Z"
         },
         {
           "author": "Narisphong",
           "rating": 5,
-          "text": "The doctor and staff provided excellent consultation. They understood the root cause and how to fix it. I highly recommend coming for a consultation. #ThickerHairWithoutHairTransplant",
+          "text": "คุณหมอและเจ้าหน้าที่ให้คำปรึกษาดีมาก รู้สาเหตุที่แท้จริงและต้องแก้ยังไง แนะนำให้มาปรึกษาเลยครับ #ผมหนาได้ไม่ง้อปลูก",
           "publish_time": "2026-06-29T09:18:40.562188747Z"
-        },
-        {
-          "author": "BabyPicks",
-          "rating": 5,
-          "text": "Very good place , doctor gives full details. Recommended",
-          "publish_time": "2026-06-29T08:21:19.815047910Z"
         },
         {
           "author": "ชฎารัตน์ เกิดท่าพระ",
           "rating": 5,
-          "text": "The staff provided excellent service; they were polite, friendly, lovely, and listened well to customers' concerns. They didn't pressure customers into buying courses, which was great and made customers feel comfortable.",
+          "text": "พนักงานบริการดีสุภาพเป็นกันเองน่ารักรับฟังปัญหาที่ลูกค้ากังวลใจได้ดีไม่เสนอขายคอร์ทจนกดดันดีมากๆๆๆให้ลูกค้ารู้สึกสบายใจ",
           "publish_time": "2026-06-24T08:57:29.924961473Z"
+        },
+        {
+          "author": "Chanchanok Supath",
+          "rating": 5,
+          "text": "ตอนแรกสิ้นหวังกะผมตัวเองละ เป็นเซปเดิร์มด้วย ซื้ออะไรใช้ก็ไม่หาย ร่วงอยู่อย่างนั้น มารักษาที่นี่มีซื้อ hair regrowth, hair repair, prp ไม่ได้คาดหวังมาก แต่สรุปดีขึ้นชัดเลย แค่สี่เดือน (ทำทุกสองอาทิตย์) พบาบาล หมอ เจ้าหน้าที่ ดีหมด ตอนนี้ก็มาน้อยลงแต่จะยังมาเช็คเป็นระยะ ประทับใจมากครับ แนะนำ",
+          "publish_time": "2026-06-20T06:30:44.664792357Z"
         },
         {
           "author": "bee วรี",
           "rating": 5,
-          "text": "All the staff were lovely. This is my first time here and I'm impressed. However, I need to see the results first. I'll update this review later once I see any improvement.",
+          "text": "พนักงานน่ารักทุกคนค่ะมาครั้งแรก ประทับใจ แต่ผลลัพธ์ต้องดูอีกทีค่ะ  เห็นผลยังไงจะมารีวิวเพิ่มเติมให้ค่ะ",
           "publish_time": "2026-04-17T09:12:32.055547681Z"
         }
       ],
@@ -181,7 +181,7 @@
           "user_ratings_total": 143
         }
       ],
-      "last_synced": "2026-08-25T07:46:13Z"
+      "last_synced": "2026-08-25T08:04:45Z"
     },
     {
       "key": "rangsit",
@@ -192,39 +192,39 @@
       "user_ratings_total": 347,
       "new_reviews_today": 5,
       "low_rating_alerts_today": [],
-      "last_review_time": "2026-05-30T12:48:34.495659012Z",
+      "last_review_time": "2026-05-07T11:38:00.785442698Z",
       "ai_summary": "",
       "ai_summary_updated": null,
       "recent_reviews": [
         {
-          "author": "Natthapong Pleethong",
+          "author": "Patcharin Jindasri",
           "rating": 5,
-          "text": "It'great!",
-          "publish_time": "2026-05-30T12:48:34.495659012Z"
+          "text": "ที่นี่บริการดีมากค่ะ สะอาด คุณหมอแนะนำดีมาก ทำมาได้สักพักแล้วค่ะ ลูกผมกำลังขึ้นรอน้องยาวค่ะ สถานที่จอดรถเยอะ",
+          "publish_time": "2026-05-07T11:38:00.785442698Z"
         },
         {
-          "author": "Kasiti Sap-Upatham",
+          "author": "กัลยา ไชยยา",
           "rating": 5,
-          "text": "Ok",
-          "publish_time": "2026-05-10T08:20:47.179453861Z"
+          "text": "คลินิกสะอาดมีที่จอดรถสะดวก พนักงานบริการดี ให้คำแนะนำและรายละเอียดดีมาก ในการเลือกรักษา\nเริ่มเปิดใจเข้ามารักษาที่นี้ไม่ผิดหวังเลย เห็นผล มีลูกผมสมาชิกใหม่ออกมาให้เห็นชัดเลย",
+          "publish_time": "2026-04-24T11:53:36.174486755Z"
         },
         {
-          "author": "บุษยพัชร์ ตั้งยุระจิตร",
+          "author": "gyb item",
           "rating": 5,
-          "text": "Ok",
-          "publish_time": "2026-03-16T10:42:32.516259194Z"
+          "text": "มารักษาผมร่วง คุณหมอแนะนำดี บริการดี ทำ prp กับ hair regrowth คอร์ส 6 เดือน ผลลัพธ์ดีตามที่คาดหวัฃผมหยุดร่วง และขึ้นใหม่ดกขึ้น แสกหนา ลูกผมขึ้นดก ผมยาวเร็วขึ้น  แนะนำเลยค่ะ กังวลอะไรคุณหมอแนะนำได้หมด น่ารัก พนักงายดูแลดีทุกคนค่ะ ค่ารักษาจ่ายตามตกลงไม่มีเก็บเพิ่มเติม",
+          "publish_time": "2026-04-23T07:36:49.477607217Z"
         },
         {
-          "author": "Teerayuth Manlah",
+          "author": "Momikasung Lovemeaw",
           "rating": 5,
-          "text": "Good service Good place Good Doctor",
-          "publish_time": "2025-10-05T09:26:08.655400513Z"
+          "text": "มารักษาปัญหาผมบาง ร่วงเยอะ ที่นี่คุณหมอและพนักงานให้บริการและคำแนะนำดีค่ะ สถานที่สะอาด ทำหัตถการ HRG ทำไป1ครั้ง รู้สึกผมร่วงลดลงค่ะ พนักงานมือเบา ไม่เจ็บเลยค่ะ พูดจาไพเราะดีค่ะ แนะนำใช้บริการที่นี่ได้ค่ะ 🥰",
+          "publish_time": "2025-11-19T06:18:49.031161862Z"
         },
         {
-          "author": "Norapon P.",
+          "author": "Duean's Crib",
           "rating": 5,
-          "text": "The Wellnis Clinic is the hair treatment clinic with quality of service. I experience in Rangsit branch. This branch is decorated with the comfy atmosphere and vast area inside the building. The service from staff is the one of the best service for the treatment clinic. They are always calm, polite and detail-oriented for every customer. The clinic and staff make me feel like home and comfortable in every time I come to access their services.",
-          "publish_time": "2025-09-19T06:18:39.178248154Z"
+          "text": "สถานที่สะอาด มีที่จอดรถเยอะ เดินทางสะดวก พนักงานทุกคนบริการดี พูดจาไพเราะ มีการตรวจโดยแพทย์เฉพาะทาง ให้คำปรึกษาดี-ชัดเจน เราทำโปรแกรม HRP กับทานยาและวิตามิน ร่วมกับทาที่ศีรษะ ทำมาได้ 2 เดือนแล้ว ผมร่วงน้อยลงและผมใหม่เริ่มงอก เห็นผลนะคะ แนะนำค่ะ",
+          "publish_time": "2025-10-20T07:49:49.618043285Z"
         }
       ],
       "daily_log": [
@@ -235,7 +235,7 @@
           "user_ratings_total": 347
         }
       ],
-      "last_synced": "2026-08-25T07:46:13Z"
+      "last_synced": "2026-08-25T08:04:46Z"
     },
     {
       "key": "pattaya",
@@ -253,31 +253,31 @@
         {
           "author": "louis Jamsai",
           "rating": 5,
-          "text": "The clinic provides excellent service, the staff are lovely and friendly, the clinic is clean and smells nice, the air conditioning is nice and cool, and the treatment is effective. I'll wait to see the overall long-term results.",
+          "text": "คลีนิคบริการดี เจ้าหน้าที่น่ารักกันเอง คลีนิคสะอาดหอม แอร์เย็นฉ่ำ รักษาได้ผลดี รอดูรวมๆผลระยะยาวอีกที",
           "publish_time": "2026-07-13T04:15:46.841665347Z"
         },
         {
           "author": "Yordpao Bhumee",
           "rating": 5,
-          "text": "The service was good and friendly. The staff provided advice and answered all my questions.",
+          "text": "บริการดีเป็นกันเอง จนท/พนง.ให้คำปรึกษา ตอบข้อสงสัยครบถ้วน",
           "publish_time": "2026-07-07T10:57:32.608435668Z"
         },
         {
           "author": "ชรินทร มาเลิศ",
           "rating": 5,
-          "text": "The clinic provides excellent service. All the staff and officers are very attentive. I've been coming here for 3 months and I already feel my hair is thicker.",
+          "text": "คลินิกบริการดี พนักงาน เจ้าหน้าที่ทุกคนดูแลดีมาก ทำมาได้ 3 เดือนรู้สึกผมหนาขึ้นแล้วครับ",
           "publish_time": "2026-07-04T04:37:27.777568605Z"
         },
         {
           "author": "Thunchanok",
           "rating": 5,
-          "text": "I've been experiencing hair loss for a while now due to various factors, and I'm very worried. I looked for a clinic with highly-rated clients and decided to come here. My first visit was great; the doctor and the staff were wonderful. I was very impressed with my first visit. This is my fifth visit, and my hair loss has improved significantly. I'm much less worried now, and new hair is growing. I highly recommend this clinic; the service is truly excellent.",
+          "text": "มีปัญหาผมร่วง มาระยะหนึ่งแล้วเกิดจากหลายปัจจัย และรู้สึกกังวัลหนักมาก แล้ว ก็หาคลินิก ที่มีลูกค้ามาใช้บริการดีมาก ก็ตัดสินใจมา ครั้งแรกก็เข้ามาพบคุณหมอ คุณหมอและน้องๆที่คลินิกน่ารักมากๆ บริการดี และ ครั้งแรก ก็ประทับใจ ครั้งที่ 1 ก็ดี ค่ะ ครั้งนี้ครั้งที่ 5 ผมที่ร่วงดรขึ้นมาก จากที่เคยกังวล ก็ดีขึ้น ผมง่วงใหม่เพิ่มขึ้น ขอแนะนำค่ะ บริการดีจริงไปค่ะ",
           "publish_time": "2026-04-27T07:32:59.937482485Z"
         },
         {
           "author": "Noeynee Jaidee",
           "rating": 5,
-          "text": "The clinic is clean and the service is good, but there's limited parking.",
+          "text": "คลินิกสะอาด ให้บริการดีค่ะ แต่ที่จอดรถน้อยไปหน่อย",
           "publish_time": "2026-04-22T11:20:58.430558514Z"
         }
       ],
@@ -289,7 +289,7 @@
           "user_ratings_total": 38
         }
       ],
-      "last_synced": "2026-08-25T07:46:13Z"
+      "last_synced": "2026-08-25T08:04:46Z"
     },
     {
       "key": "chiang_mai",
@@ -307,31 +307,31 @@
         {
           "author": "14525 m1_3_2567",
           "rating": 5,
-          "text": "The clinic provides excellent service. The staff gives great advice. I highly recommend this clinic to anyone concerned about their hair. ♥️♥️",
+          "text": "คลินิกบริการดีมากค่ะพนักงานให้คำ ปรึกษาดีมากค่ะใครที่กังวลเรื่องผมแนะนำคลินิกนี้เลยค่ะ♥️♥️",
           "publish_time": "2026-06-12T14:17:53.675719159Z"
         },
         {
           "author": "สุพิชญธิดา สะเสริม",
           "rating": 5,
-          "text": "The results were quick. The clinic is clean, the atmosphere is nice, and all the staff are lovely, friendly, and give excellent advice.",
+          "text": "ทำแล้วเห็นผลไว คลินิกสะอาด บรรยากาศดี พนักงานทุกท่านน่ารัก เป็นกันเอง ให้คำแนะนำดีมากค่ะ",
           "publish_time": "2026-05-20T13:33:37.270250486Z"
         },
         {
           "author": "Fern Puangpaka Sasroem",
           "rating": 5,
-          "text": "The clinic is easy to get to, the staff are very attentive and provide detailed advice. After the treatment, I feel my hair has improved and I can really see the results.",
+          "text": "คลินิกเดินทางง่าย พนักงานดูแลดีมาก ให้คำแนะนำละเอียด หลังทำรู้สึกผมดีขึ้น เห็นผลจริงค่ะ",
           "publish_time": "2026-03-14T04:24:08.650383564Z"
         },
         {
           "author": "Janejira Singkharath (Ploy)",
           "rating": 5,
-          "text": "The service is good. There's plenty of parking and it's easy to get there. The clinic's interior also looks very nice.",
+          "text": "บริการดีค่ะ ที่จอดรถเยอะ เดินทางสะดวก บรรยากาศภายในคลินิกดูดีมากๆค่ะ",
           "publish_time": "2026-02-12T03:02:50.485540331Z"
         },
         {
           "author": "Kim",
           "rating": 5,
-          "text": "The staff provided excellent service. The area was clean, there was plenty of parking, and the doctor gave very good consultations, focusing more on treatment than on selling treatment packages.",
+          "text": "พนักงานบริการดีมากๆค่ะ พื้นที่สะอาด ที่จอดรถก็เยอะ และคุณหมอให้คำปรึกษาดีมากๆ เน้นให้การรักษามากกว่าขายคอร์ส",
           "publish_time": "2026-02-12T02:48:12.025567512Z"
         }
       ],
@@ -343,7 +343,7 @@
           "user_ratings_total": 15
         }
       ],
-      "last_synced": "2026-08-25T07:46:14Z"
+      "last_synced": "2026-08-25T08:04:46Z"
     },
     {
       "key": "phra_ram_9",
@@ -354,38 +354,38 @@
       "user_ratings_total": 24,
       "new_reviews_today": 5,
       "low_rating_alerts_today": [],
-      "last_review_time": "2026-08-06T05:53:22.356931284Z",
+      "last_review_time": "2026-08-06T05:03:42.559095109Z",
       "ai_summary": "",
       "ai_summary_updated": null,
       "recent_reviews": [
         {
-          "author": "A Linn",
-          "rating": 5,
-          "text": "Staff is friendly",
-          "publish_time": "2026-08-06T05:53:22.356931284Z"
-        },
-        {
           "author": "Chaiwat Rod-udom",
           "rating": 5,
-          "text": "Excellent service. The reception staff were lovely. I appreciated that they weren't pushy about sales. The doctor gave good, straightforward advice and consultations. The atmosphere was like a very private spa.",
+          "text": "บริการดี น้องๆ พนักงานต้อนรับน่ารัก ชอบตรงไม่ยัดเยียดการขาย คุณหมอให้คำแนะนำปรึกษาดี ตรงไปตรงมาคับ บรรยากาศเหมือนมาสปา ส่วนตัวแบบสุดๆ",
           "publish_time": "2026-08-06T05:03:42.559095109Z"
         },
         {
-          "author": "pin",
+          "author": "Thichanan Ramo-ar",
           "rating": 5,
-          "text": "Very good experience, excellent service. My hair feels so much better!",
-          "publish_time": "2026-08-06T04:46:35.190167030Z"
+          "text": "คลินิกสะอาดมากค่ะ พี่ๆทุกคนน่ารักมาก บริการดีมากค่ะ",
+          "publish_time": "2026-05-06T10:34:36.308906123Z"
         },
         {
           "author": "Me Mi",
           "rating": 5,
-          "text": "This newly opened branch is conveniently located near the MRT Rama 9 station. It's clean, has a great view, very comfortable chairs, and the staff are incredibly lovely.",
+          "text": "สาขานี้เปิดใหม่เดินทางสะดวกใกล้ MRTพระราม9 สาขานี้สะอาดวิวดีสวยเก้าอี้นั่งสบายมากพี่ๆพนักงานน่ารักมากค่ะ",
           "publish_time": "2026-05-06T10:30:15.138771540Z"
+        },
+        {
+          "author": "025 รุสดา สาและ",
+          "rating": 5,
+          "text": "คลินิกสวย สบาย สะอาดมากก หมอให้คำแนะนำตรงจุด มารักษาผมแล้วเหมือนได้พักผ่อนไปในตัว ชอบมากก 100/10 แนะนำเลยค่ะ",
+          "publish_time": "2026-05-06T10:24:16.434050343Z"
         },
         {
           "author": "Wanunya T.",
           "rating": 5,
-          "text": "I visited their newly opened branch. It's conveniently located near Central Rama 9 and easily accessible by MRT. The clinic is beautiful, clean, and the staff provides excellent service.",
+          "text": "มาสาขาเปิดใหม่ เดินทางสะดวก ใกล้เซนทรัลพระราม9 มา mrt ได้เลย คลินิกสวยงาม สะอาด  พนักงานบริการดี",
           "publish_time": "2026-05-06T10:14:56.745235738Z"
         }
       ],
@@ -397,7 +397,7 @@
           "user_ratings_total": 24
         }
       ],
-      "last_synced": "2026-08-25T07:46:14Z"
+      "last_synced": "2026-08-25T08:04:47Z"
     },
     {
       "key": "bang_na",
@@ -420,7 +420,7 @@
           "user_ratings_total": null
         }
       ],
-      "last_synced": "2026-08-25T07:46:14Z"
+      "last_synced": "2026-08-25T08:04:47Z"
     },
     {
       "key": "pinklao",
@@ -443,7 +443,7 @@
           "user_ratings_total": null
         }
       ],
-      "last_synced": "2026-08-25T07:46:14Z"
+      "last_synced": "2026-08-25T08:04:47Z"
     }
   ]
 }
