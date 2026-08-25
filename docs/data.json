@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T08:04:47Z",
+  "generated_at": "2026-08-25T08:34:37Z",
   "branches": [
     {
       "key": "bang_pu",
@@ -8,24 +8,11 @@
       "status": "ok",
       "rating": 4.7,
       "user_ratings_total": 96,
-      "new_reviews_today": 5,
-      "low_rating_alerts_today": [
-        {
-          "author": "phattaravarin promjak",
-          "rating": 1,
-          "text": "ระบบจัดการคิวมีปัญหาค่ะ นัด 13.00 ได้เข้าหาหมอจริงๆ 14.00 แล้วบอกว่าคิวไม่ว่าง หมอติดเคสเยอะ แต่งงว่าแล้วจะรับนัดบ่ายโมงทำไมถ้าไม่ว่าง นัดมา 14.00 ลูกค้าจะได้ไม่ต้องรอ\nส่วนรูปเปรียบเทียบการรักษาแต่ละครั้ง ไม่เคยได้ค่ะ เลยไม่รู้ว่ามี progress ไหมตอบไม่ได้จริงๆ ทางคลินิคแจ้งว่า ต้องรอ 3 เดือนก่อน ถึงจะขอรูปเปรียบเทียบได้ (ทั้งๆที่เป็นรูปของตัวเอง) ผ่านมา 3 เดือนแล้ว ก้ขอไปใหม่ ยังไม่ได้เลยค่ะ ดำเนินการช้ามาก เหมือนไม่ค่อยใส่ใจลูกค้า\nรักษาโปรแกรม hair regrowth สำหรับผมบางอยู่ค่ะ ส่วนตัวไม่ได้รู้สึกว่าผมร่วงน้อยลง รูปเปรียบเทียบ(ของตัวเอง) ทางคลินิคก็ไม่ให้ดู เลยไม่รู้ว่าดีขึ้นไหม ตอบไม่ได้ค่ะ",
-          "publish_time": "2026-05-24T04:59:00.932476041Z"
-        },
-        {
-          "author": "สุมณี พยอมหอม",
-          "rating": 3,
-          "text": "อยากให้ปรับปรุงเรื่องจัดการเวลา นัดไว้บ่าย3 จนจะบ่าย4ครึ่งยังไม่ได้พบหมอ เลยบอกถ้า4โมงครึ่งยังไม่ได้พบหมอ อาจจะขอมาใหม่รอบหน้านะคะ พอดีมีธุระต่อค่ะ ถึงได้เข้าพบตอนบ่าย4ครึ่ง เพราะหมอจะเข้าแค่ศุกร์-อาทิตย์เวลา 13.00-18.00 น. ช่วงทำการน้อยไป เลยติดหลายๆเคสชนกัน การปรึกษาพบหมอ ให้คำแนะนำโอเครค่ะ เข้าใจปัญหาผมบางผมร่วง เจ้าหน้าที่บริการดีค่ะ แต่ยังไม่ได้ตัดสินใจซื้อคอสกังวลเรื่องเวลา เลยลองตัวเซรั่มมาใช้ก่อนค่ะ",
-          "publish_time": "2026-06-19T14:54:14.166524015Z"
-        }
-      ],
+      "new_reviews_today": 0,
+      "today_reviews": [],
+      "low_rating_alerts_today": [],
       "last_review_time": "2026-06-19T14:54:14.166524015Z",
-      "ai_summary": "",
-      "ai_summary_updated": null,
+      "last_review_relative": "2 เดือนที่แล้ว",
       "recent_reviews": [
         {
           "author": "สุมณี พยอมหอม",
@@ -61,12 +48,12 @@
       "daily_log": [
         {
           "date": "2026-08-25",
-          "new_reviews": 5,
+          "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 96
         }
       ],
-      "last_synced": "2026-08-25T08:04:45Z"
+      "last_synced": "2026-08-25T08:34:35Z"
     },
     {
       "key": "saphan_khwai",
@@ -75,18 +62,11 @@
       "status": "ok",
       "rating": 4.8,
       "user_ratings_total": 185,
-      "new_reviews_today": 5,
-      "low_rating_alerts_today": [
-        {
-          "author": "Pornlada Chaijaroen",
-          "rating": 1,
-          "text": "จริงๆอยากให้ครึ่งดาวด้วยซ้ำแต่ไม่มีให้กด\n1.ทำการทำนัดกับคลินิกแล้ว แต่พอไปถึงบอกว่าหมองานเยอะมากให้รออีก1-2ชั่วโมง เสียเวลามาก พอไปถึงก็ทำได้แค่คุยกับจ่ายยาไม่ได้รักษาอะไร เซลล์พยายามขายแลปเกินความจำเป็น ทั้งที่หมอไม่ได้สั่งแต่เซลล์ก็ยังเสนอให้ตรวจนู่นนี่\n2.พนักงานพยายามขายคอร์ส ทั้งที่ไม่จำเป็นต่อการรักษาเข้าใจว่าได้ค่าคอมมิชชั่น\n2.1 เซลล์ต่อรองว่าถ้าให้5ดาวและมีการแชร์เพจสาธารณะลงเฟสบุ๊คจะได้คอร์สอื่นๆฟรีตามตกลง อาจจะมีการรีวิวไม่เป็นไปตามจริง โปรดพิจารณา\n2.2 ไม่มีราคาที่ชัดเจน ราคาเป็นไปตามเซลล์พูดแล้วแต่สกิลการต่อรอง\n3.เกิดอาการแพ้ยารุนแรงมีการพบแพทย์ ขอเงินคืนตอนแรกคุยกับหมอว่าจะได้เงินคืนแต่สุดท้ายเซลล์มาบอกว่าไม่ได้เงินคืนและให้เปลี่ยนเป็นแบบอื่นๆแทน",
-          "publish_time": "2026-08-08T07:05:17.513278711Z"
-        }
-      ],
+      "new_reviews_today": 0,
+      "today_reviews": [],
+      "low_rating_alerts_today": [],
       "last_review_time": "2026-08-08T07:05:17.513278711Z",
-      "ai_summary": "",
-      "ai_summary_updated": null,
+      "last_review_relative": "2 สัปดาห์ที่แล้ว",
       "recent_reviews": [
         {
           "author": "Pornlada Chaijaroen",
@@ -122,12 +102,12 @@
       "daily_log": [
         {
           "date": "2026-08-25",
-          "new_reviews": 5,
+          "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 185
         }
       ],
-      "last_synced": "2026-08-25T08:04:45Z"
+      "last_synced": "2026-08-25T08:34:35Z"
     },
     {
       "key": "bang_yai",
@@ -136,11 +116,11 @@
       "status": "ok",
       "rating": 4.8,
       "user_ratings_total": 143,
-      "new_reviews_today": 5,
+      "new_reviews_today": 0,
+      "today_reviews": [],
       "low_rating_alerts_today": [],
       "last_review_time": "2026-07-13T09:59:10.505906834Z",
-      "ai_summary": "",
-      "ai_summary_updated": null,
+      "last_review_relative": "เดือนที่แล้ว",
       "recent_reviews": [
         {
           "author": "Bonz Boripat",
@@ -176,12 +156,12 @@
       "daily_log": [
         {
           "date": "2026-08-25",
-          "new_reviews": 5,
+          "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 143
         }
       ],
-      "last_synced": "2026-08-25T08:04:45Z"
+      "last_synced": "2026-08-25T08:34:35Z"
     },
     {
       "key": "rangsit",
@@ -190,11 +170,11 @@
       "status": "ok",
       "rating": 5,
       "user_ratings_total": 347,
-      "new_reviews_today": 5,
+      "new_reviews_today": 0,
+      "today_reviews": [],
       "low_rating_alerts_today": [],
       "last_review_time": "2026-05-07T11:38:00.785442698Z",
-      "ai_summary": "",
-      "ai_summary_updated": null,
+      "last_review_relative": "3 เดือนที่แล้ว",
       "recent_reviews": [
         {
           "author": "Patcharin Jindasri",
@@ -230,12 +210,12 @@
       "daily_log": [
         {
           "date": "2026-08-25",
-          "new_reviews": 5,
+          "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 347
         }
       ],
-      "last_synced": "2026-08-25T08:04:46Z"
+      "last_synced": "2026-08-25T08:34:36Z"
     },
     {
       "key": "pattaya",
@@ -244,11 +224,11 @@
       "status": "ok",
       "rating": 5,
       "user_ratings_total": 38,
-      "new_reviews_today": 5,
+      "new_reviews_today": 0,
+      "today_reviews": [],
       "low_rating_alerts_today": [],
       "last_review_time": "2026-07-13T04:15:46.841665347Z",
-      "ai_summary": "",
-      "ai_summary_updated": null,
+      "last_review_relative": "เดือนที่แล้ว",
       "recent_reviews": [
         {
           "author": "louis Jamsai",
@@ -284,12 +264,12 @@
       "daily_log": [
         {
           "date": "2026-08-25",
-          "new_reviews": 5,
+          "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 38
         }
       ],
-      "last_synced": "2026-08-25T08:04:46Z"
+      "last_synced": "2026-08-25T08:34:36Z"
     },
     {
       "key": "chiang_mai",
@@ -298,11 +278,11 @@
       "status": "ok",
       "rating": 5,
       "user_ratings_total": 15,
-      "new_reviews_today": 5,
+      "new_reviews_today": 0,
+      "today_reviews": [],
       "low_rating_alerts_today": [],
       "last_review_time": "2026-06-12T14:17:53.675719159Z",
-      "ai_summary": "",
-      "ai_summary_updated": null,
+      "last_review_relative": "2 เดือนที่แล้ว",
       "recent_reviews": [
         {
           "author": "14525 m1_3_2567",
@@ -338,12 +318,12 @@
       "daily_log": [
         {
           "date": "2026-08-25",
-          "new_reviews": 5,
+          "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 15
         }
       ],
-      "last_synced": "2026-08-25T08:04:46Z"
+      "last_synced": "2026-08-25T08:34:36Z"
     },
     {
       "key": "phra_ram_9",
@@ -352,11 +332,11 @@
       "status": "ok",
       "rating": 4.8,
       "user_ratings_total": 24,
-      "new_reviews_today": 5,
+      "new_reviews_today": 0,
+      "today_reviews": [],
       "low_rating_alerts_today": [],
       "last_review_time": "2026-08-06T05:03:42.559095109Z",
-      "ai_summary": "",
-      "ai_summary_updated": null,
+      "last_review_relative": "2 สัปดาห์ที่แล้ว",
       "recent_reviews": [
         {
           "author": "Chaiwat Rod-udom",
@@ -392,12 +372,12 @@
       "daily_log": [
         {
           "date": "2026-08-25",
-          "new_reviews": 5,
+          "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 24
         }
       ],
-      "last_synced": "2026-08-25T08:04:47Z"
+      "last_synced": "2026-08-25T08:34:37Z"
     },
     {
       "key": "bang_na",
@@ -407,10 +387,10 @@
       "rating": null,
       "user_ratings_total": null,
       "new_reviews_today": 0,
+      "today_reviews": [],
       "low_rating_alerts_today": [],
       "last_review_time": null,
-      "ai_summary": "",
-      "ai_summary_updated": null,
+      "last_review_relative": "",
       "recent_reviews": [],
       "daily_log": [
         {
@@ -420,7 +400,7 @@
           "user_ratings_total": null
         }
       ],
-      "last_synced": "2026-08-25T08:04:47Z"
+      "last_synced": "2026-08-25T08:34:37Z"
     },
     {
       "key": "pinklao",
@@ -430,10 +410,10 @@
       "rating": null,
       "user_ratings_total": null,
       "new_reviews_today": 0,
+      "today_reviews": [],
       "low_rating_alerts_today": [],
       "last_review_time": null,
-      "ai_summary": "",
-      "ai_summary_updated": null,
+      "last_review_relative": "",
       "recent_reviews": [],
       "daily_log": [
         {
@@ -443,7 +423,7 @@
           "user_ratings_total": null
         }
       ],
-      "last_synced": "2026-08-25T08:04:47Z"
+      "last_synced": "2026-08-25T08:34:37Z"
     }
   ]
 }
