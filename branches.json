@@ -5,55 +5,55 @@
       "key": "bang_pu",
       "name": "สาขาบางปู",
       "maps_url": "https://maps.app.goo.gl/RkZGhTjopWAgEPZDA",
-      "place_id": null
+      "place_id": "ChIJIXupDkBZHTERLnQ315RBPEI"
     },
     {
       "key": "saphan_khwai",
       "name": "สาขาสะพานควาย",
       "maps_url": "https://maps.app.goo.gl/dKbqCxBubmLV5uhG6",
-      "place_id": null
+      "place_id": "ChIJ5fkJ4U-f4jARNYReQ0lXtN4"
     },
     {
       "key": "bang_yai",
       "name": "สาขาบางใหญ่",
       "maps_url": "https://maps.app.goo.gl/5cWsxq4fQf7jAGqw9",
-      "place_id": null
+      "place_id": "ChIJCVYCJh2P4jARULSnce6iCOI"
     },
     {
       "key": "rangsit",
       "name": "สาขารังสิต",
       "maps_url": "https://maps.app.goo.gl/uj3Pvc3VCqMZJZvW9",
-      "place_id": null
+      "place_id": "ChIJ2XNaiGGB4jARGZ8GHoHf91s"
     },
     {
       "key": "pattaya",
       "name": "สาขาพัทยา",
       "maps_url": "https://maps.app.goo.gl/BKWza6347NqJyPEk7",
-      "place_id": null
+      "place_id": "ChIJNy4QM5WVAjERrMnMJY9ISLs"
     },
     {
       "key": "chiang_mai",
       "name": "สาขาเชียงใหม่",
       "maps_url": "https://maps.app.goo.gl/4Dyp4A6Xd6TBhXDc7",
-      "place_id": null
+      "place_id": "ChIJLT0rQ5Ml2jARwB6eBg7NNnQ"
     },
     {
       "key": "phra_ram_9",
       "name": "สาขาพระราม 9",
       "maps_url": "https://maps.app.goo.gl/5jmP8YQ1sWqZ4uE67",
-      "place_id": null
+      "place_id": "ChIJ7_snuiWf4jARXljgn6L-mXw"
     },
     {
       "key": "bang_na",
       "name": "สาขาบางนา",
       "maps_url": "https://maps.app.goo.gl/NBfKGfiYPDPxkGYh8",
-      "place_id": null
+      "place_id": "ChIJsfWPfxdfHTERepe0xUu0VLU"
     },
     {
       "key": "pinklao",
       "name": "สาขาปิ่นเกล้า",
       "maps_url": "https://maps.app.goo.gl/oDTCRKE8FNx3c4z29",
-      "place_id": null
+      "place_id": "ChIJp1AoVvCZ4jARPN_l_r3c_hg"
     }
   ]
 }
