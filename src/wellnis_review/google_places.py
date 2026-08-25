@@ -46,6 +46,10 @@ def get_place_details(api_key: str, place_id: str) -> dict:
             "X-Goog-Api-Key": api_key,
             "X-Goog-FieldMask": DETAILS_FIELD_MASK,
         },
+        # languageCode=th: ask Google to return reviews.text (and displayName) translated
+        # to Thai instead of its default (English). reviews.originalText is unaffected —
+        # it always carries the review's original, untranslated language.
+        params={"languageCode": "th"},
         timeout=30,
     )
     if resp.status_code != 200:
