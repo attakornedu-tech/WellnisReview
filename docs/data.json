@@ -1,4 +1,449 @@
 {
-  "generated_at": null,
-  "branches": []
+  "generated_at": "2026-08-25T07:46:14Z",
+  "branches": [
+    {
+      "key": "bang_pu",
+      "name": "สาขาบางปู",
+      "maps_url": "https://maps.app.goo.gl/RkZGhTjopWAgEPZDA",
+      "status": "ok",
+      "rating": 4.7,
+      "user_ratings_total": 96,
+      "new_reviews_today": 5,
+      "low_rating_alerts_today": [
+        {
+          "author": "phattaravarin promjak",
+          "rating": 1,
+          "text": "The queue management system is having problems. I had an appointment at 1 PM, but actually saw the doctor at 2 PM, only to be told that the schedule was full and the doctor had many cases. I'm confused why they accept appointments at 1 PM if the schedule is full. They could schedule for 2 PM so customers don't have to wait.\nRegarding the before-and-after treatment photos, I've never received them. Therefore, I don't know if there's any progress. The clinic said I have to wait 3 months before I can request the before-and-after photos (even though they are my own photos). 3 months have passed, and I've requested them again, but still haven't received them. The process is very slow; it feels like they don't care about their customers.\nI'm currently undergoing the hair regrowth program for thinning hair. Personally, I don't feel like my hair loss has decreased. The clinic won't let me see the before-and-after photos (of myself), so I don't know if there's any improvement. I can't say.",
+          "publish_time": "2026-05-24T04:59:00.932476041Z"
+        },
+        {
+          "author": "สุมณี พยอมหอม",
+          "rating": 3,
+          "text": "I'd like to suggest improving the scheduling. I had an appointment at 3 PM, but it was almost 4:30 PM and I still hadn't seen the doctor. I told them that if I didn't see the doctor by 4:30 PM, I might have to come back next time because I had other errands to run. That's how I finally got to see the doctor at 4:30 PM. The doctor only comes in on Fridays, Saturdays, and Sundays from 1 PM to 6 PM, which is too short and results in many cases overlapping. The consultation with the doctor was good; they gave helpful advice and understood my problem of hair thinning and loss. The staff were also very helpful. However, I haven't decided to buy a full treatment course yet because I'm worried about the scheduling, so I tried the serum first.",
+          "publish_time": "2026-06-19T14:54:14.166524015Z"
+        }
+      ],
+      "last_review_time": "2026-06-19T14:54:14.166524015Z",
+      "ai_summary": "",
+      "ai_summary_updated": null,
+      "recent_reviews": [
+        {
+          "author": "สุมณี พยอมหอม",
+          "rating": 3,
+          "text": "I'd like to suggest improving the scheduling. I had an appointment at 3 PM, but it was almost 4:30 PM and I still hadn't seen the doctor. I told them that if I didn't see the doctor by 4:30 PM, I might have to come back next time because I had other errands to run. That's how I finally got to see the doctor at 4:30 PM. The doctor only comes in on Fridays, Saturdays, and Sundays from 1 PM to 6 PM, which is too short and results in many cases overlapping. The consultation with the doctor was good; they gave helpful advice and understood my problem of hair thinning and loss. The staff were also very helpful. However, I haven't decided to buy a full treatment course yet because I'm worried about the scheduling, so I tried the serum first.",
+          "publish_time": "2026-06-19T14:54:14.166524015Z"
+        },
+        {
+          "author": "phattaravarin promjak",
+          "rating": 1,
+          "text": "The queue management system is having problems. I had an appointment at 1 PM, but actually saw the doctor at 2 PM, only to be told that the schedule was full and the doctor had many cases. I'm confused why they accept appointments at 1 PM if the schedule is full. They could schedule for 2 PM so customers don't have to wait.\nRegarding the before-and-after treatment photos, I've never received them. Therefore, I don't know if there's any progress. The clinic said I have to wait 3 months before I can request the before-and-after photos (even though they are my own photos). 3 months have passed, and I've requested them again, but still haven't received them. The process is very slow; it feels like they don't care about their customers.\nI'm currently undergoing the hair regrowth program for thinning hair. Personally, I don't feel like my hair loss has decreased. The clinic won't let me see the before-and-after photos (of myself), so I don't know if there's any improvement. I can't say.",
+          "publish_time": "2026-05-24T04:59:00.932476041Z"
+        },
+        {
+          "author": "asiya matiwat",
+          "rating": 5,
+          "text": "The doctor gave excellent advice, and the staff provided great service.\nThe clinic area is beautiful and clean.\nThe treatment bed was incredibly comfortable; I fell asleep as soon as I sat down.",
+          "publish_time": "2026-05-09T15:59:04.360708120Z"
+        },
+        {
+          "author": "Aomaom Benaompiyamanee",
+          "rating": 5,
+          "text": "Excellent service, appointments were scheduled on time.",
+          "publish_time": "2026-04-27T07:24:45.336123812Z"
+        },
+        {
+          "author": "Wichit Ruanchai",
+          "rating": 5,
+          "text": "The staff provided excellent care, regularly following up on treatment and calling to remind/schedule appointments to confirm before treatment. It was a great help in reminding clients who might forget.",
+          "publish_time": "2025-11-13T11:49:40.941779625Z"
+        }
+      ],
+      "daily_log": [
+        {
+          "date": "2026-08-25",
+          "new_reviews": 5,
+          "rating": 4.7,
+          "user_ratings_total": 96
+        }
+      ],
+      "last_synced": "2026-08-25T07:46:12Z"
+    },
+    {
+      "key": "saphan_khwai",
+      "name": "สาขาสะพานควาย",
+      "maps_url": "https://maps.app.goo.gl/dKbqCxBubmLV5uhG6",
+      "status": "ok",
+      "rating": 4.8,
+      "user_ratings_total": 185,
+      "new_reviews_today": 5,
+      "low_rating_alerts_today": [
+        {
+          "author": "Cheryl Weeks",
+          "rating": 1,
+          "text": "Horrible time keeping and care.\nFirst appointment got postponed a few hours before arrival.\n2nd appointment I arrived on time and after 30 mins of waiting they said to wait another 15 minutes. After waiting 15 minutes they once again told me to wait 15 minutes- no real explanation of why my 5pm appointment  still wasn’t ready to start at 6pm.\n\nI’m sure they are good at what they do but only worth going if you don’t value your time",
+          "publish_time": "2026-01-14T10:38:55.846297863Z"
+        }
+      ],
+      "last_review_time": "2026-01-25T12:02:47.897321383Z",
+      "ai_summary": "",
+      "ai_summary_updated": null,
+      "recent_reviews": [
+        {
+          "author": "Yuri K",
+          "rating": 5,
+          "text": "It's okay for hair regrowth",
+          "publish_time": "2026-01-25T12:02:47.897321383Z"
+        },
+        {
+          "author": "Cheryl Weeks",
+          "rating": 1,
+          "text": "Horrible time keeping and care.\nFirst appointment got postponed a few hours before arrival.\n2nd appointment I arrived on time and after 30 mins of waiting they said to wait another 15 minutes. After waiting 15 minutes they once again told me to wait 15 minutes- no real explanation of why my 5pm appointment  still wasn’t ready to start at 6pm.\n\nI’m sure they are good at what they do but only worth going if you don’t value your time",
+          "publish_time": "2026-01-14T10:38:55.846297863Z"
+        },
+        {
+          "author": "PAN LERTSOONGNERN",
+          "rating": 5,
+          "text": "My package is for 6 months. I’ve been here around 1 month. And can see the results. All staff so niceeeeeeee. Clean place. Would recommend!!!",
+          "publish_time": "2025-05-14T09:03:00.550832Z"
+        },
+        {
+          "author": "Chatchawan Sriwiangtawat",
+          "rating": 5,
+          "text": "Great advice, suitable location but recommend travel by skytrain or taxi since the parking is hard to find but overall service is good if you are looking for a good clinic for hair treatment",
+          "publish_time": "2025-03-31T07:56:39.342848Z"
+        },
+        {
+          "author": "Arisa E",
+          "rating": 5,
+          "text": "The staff are very nice and welcoming. Great service and takes are of you well here !!",
+          "publish_time": "2025-03-14T09:49:35.343820Z"
+        }
+      ],
+      "daily_log": [
+        {
+          "date": "2026-08-25",
+          "new_reviews": 5,
+          "rating": 4.8,
+          "user_ratings_total": 185
+        }
+      ],
+      "last_synced": "2026-08-25T07:46:12Z"
+    },
+    {
+      "key": "bang_yai",
+      "name": "สาขาบางใหญ่",
+      "maps_url": "https://maps.app.goo.gl/5cWsxq4fQf7jAGqw9",
+      "status": "ok",
+      "rating": 4.8,
+      "user_ratings_total": 143,
+      "new_reviews_today": 5,
+      "low_rating_alerts_today": [],
+      "last_review_time": "2026-07-13T09:59:10.505906834Z",
+      "ai_summary": "",
+      "ai_summary_updated": null,
+      "recent_reviews": [
+        {
+          "author": "Bonz Boripat",
+          "rating": 5,
+          "text": "I came here for a consultation. The staff and doctor gave excellent advice on what type of treatment was right for me and what I expected results, so the doctor could find a treatment plan that met my needs. The service was good and the clinic was very clean.",
+          "publish_time": "2026-07-13T09:59:10.505906834Z"
+        },
+        {
+          "author": "Narisphong",
+          "rating": 5,
+          "text": "The doctor and staff provided excellent consultation. They understood the root cause and how to fix it. I highly recommend coming for a consultation. #ThickerHairWithoutHairTransplant",
+          "publish_time": "2026-06-29T09:18:40.562188747Z"
+        },
+        {
+          "author": "BabyPicks",
+          "rating": 5,
+          "text": "Very good place , doctor gives full details. Recommended",
+          "publish_time": "2026-06-29T08:21:19.815047910Z"
+        },
+        {
+          "author": "ชฎารัตน์ เกิดท่าพระ",
+          "rating": 5,
+          "text": "The staff provided excellent service; they were polite, friendly, lovely, and listened well to customers' concerns. They didn't pressure customers into buying courses, which was great and made customers feel comfortable.",
+          "publish_time": "2026-06-24T08:57:29.924961473Z"
+        },
+        {
+          "author": "bee วรี",
+          "rating": 5,
+          "text": "All the staff were lovely. This is my first time here and I'm impressed. However, I need to see the results first. I'll update this review later once I see any improvement.",
+          "publish_time": "2026-04-17T09:12:32.055547681Z"
+        }
+      ],
+      "daily_log": [
+        {
+          "date": "2026-08-25",
+          "new_reviews": 5,
+          "rating": 4.8,
+          "user_ratings_total": 143
+        }
+      ],
+      "last_synced": "2026-08-25T07:46:13Z"
+    },
+    {
+      "key": "rangsit",
+      "name": "สาขารังสิต",
+      "maps_url": "https://maps.app.goo.gl/uj3Pvc3VCqMZJZvW9",
+      "status": "ok",
+      "rating": 5,
+      "user_ratings_total": 347,
+      "new_reviews_today": 5,
+      "low_rating_alerts_today": [],
+      "last_review_time": "2026-05-30T12:48:34.495659012Z",
+      "ai_summary": "",
+      "ai_summary_updated": null,
+      "recent_reviews": [
+        {
+          "author": "Natthapong Pleethong",
+          "rating": 5,
+          "text": "It'great!",
+          "publish_time": "2026-05-30T12:48:34.495659012Z"
+        },
+        {
+          "author": "Kasiti Sap-Upatham",
+          "rating": 5,
+          "text": "Ok",
+          "publish_time": "2026-05-10T08:20:47.179453861Z"
+        },
+        {
+          "author": "บุษยพัชร์ ตั้งยุระจิตร",
+          "rating": 5,
+          "text": "Ok",
+          "publish_time": "2026-03-16T10:42:32.516259194Z"
+        },
+        {
+          "author": "Teerayuth Manlah",
+          "rating": 5,
+          "text": "Good service Good place Good Doctor",
+          "publish_time": "2025-10-05T09:26:08.655400513Z"
+        },
+        {
+          "author": "Norapon P.",
+          "rating": 5,
+          "text": "The Wellnis Clinic is the hair treatment clinic with quality of service. I experience in Rangsit branch. This branch is decorated with the comfy atmosphere and vast area inside the building. The service from staff is the one of the best service for the treatment clinic. They are always calm, polite and detail-oriented for every customer. The clinic and staff make me feel like home and comfortable in every time I come to access their services.",
+          "publish_time": "2025-09-19T06:18:39.178248154Z"
+        }
+      ],
+      "daily_log": [
+        {
+          "date": "2026-08-25",
+          "new_reviews": 5,
+          "rating": 5,
+          "user_ratings_total": 347
+        }
+      ],
+      "last_synced": "2026-08-25T07:46:13Z"
+    },
+    {
+      "key": "pattaya",
+      "name": "สาขาพัทยา",
+      "maps_url": "https://maps.app.goo.gl/BKWza6347NqJyPEk7",
+      "status": "ok",
+      "rating": 5,
+      "user_ratings_total": 38,
+      "new_reviews_today": 5,
+      "low_rating_alerts_today": [],
+      "last_review_time": "2026-07-13T04:15:46.841665347Z",
+      "ai_summary": "",
+      "ai_summary_updated": null,
+      "recent_reviews": [
+        {
+          "author": "louis Jamsai",
+          "rating": 5,
+          "text": "The clinic provides excellent service, the staff are lovely and friendly, the clinic is clean and smells nice, the air conditioning is nice and cool, and the treatment is effective. I'll wait to see the overall long-term results.",
+          "publish_time": "2026-07-13T04:15:46.841665347Z"
+        },
+        {
+          "author": "Yordpao Bhumee",
+          "rating": 5,
+          "text": "The service was good and friendly. The staff provided advice and answered all my questions.",
+          "publish_time": "2026-07-07T10:57:32.608435668Z"
+        },
+        {
+          "author": "ชรินทร มาเลิศ",
+          "rating": 5,
+          "text": "The clinic provides excellent service. All the staff and officers are very attentive. I've been coming here for 3 months and I already feel my hair is thicker.",
+          "publish_time": "2026-07-04T04:37:27.777568605Z"
+        },
+        {
+          "author": "Thunchanok",
+          "rating": 5,
+          "text": "I've been experiencing hair loss for a while now due to various factors, and I'm very worried. I looked for a clinic with highly-rated clients and decided to come here. My first visit was great; the doctor and the staff were wonderful. I was very impressed with my first visit. This is my fifth visit, and my hair loss has improved significantly. I'm much less worried now, and new hair is growing. I highly recommend this clinic; the service is truly excellent.",
+          "publish_time": "2026-04-27T07:32:59.937482485Z"
+        },
+        {
+          "author": "Noeynee Jaidee",
+          "rating": 5,
+          "text": "The clinic is clean and the service is good, but there's limited parking.",
+          "publish_time": "2026-04-22T11:20:58.430558514Z"
+        }
+      ],
+      "daily_log": [
+        {
+          "date": "2026-08-25",
+          "new_reviews": 5,
+          "rating": 5,
+          "user_ratings_total": 38
+        }
+      ],
+      "last_synced": "2026-08-25T07:46:13Z"
+    },
+    {
+      "key": "chiang_mai",
+      "name": "สาขาเชียงใหม่",
+      "maps_url": "https://maps.app.goo.gl/4Dyp4A6Xd6TBhXDc7",
+      "status": "ok",
+      "rating": 5,
+      "user_ratings_total": 15,
+      "new_reviews_today": 5,
+      "low_rating_alerts_today": [],
+      "last_review_time": "2026-06-12T14:17:53.675719159Z",
+      "ai_summary": "",
+      "ai_summary_updated": null,
+      "recent_reviews": [
+        {
+          "author": "14525 m1_3_2567",
+          "rating": 5,
+          "text": "The clinic provides excellent service. The staff gives great advice. I highly recommend this clinic to anyone concerned about their hair. ♥️♥️",
+          "publish_time": "2026-06-12T14:17:53.675719159Z"
+        },
+        {
+          "author": "สุพิชญธิดา สะเสริม",
+          "rating": 5,
+          "text": "The results were quick. The clinic is clean, the atmosphere is nice, and all the staff are lovely, friendly, and give excellent advice.",
+          "publish_time": "2026-05-20T13:33:37.270250486Z"
+        },
+        {
+          "author": "Fern Puangpaka Sasroem",
+          "rating": 5,
+          "text": "The clinic is easy to get to, the staff are very attentive and provide detailed advice. After the treatment, I feel my hair has improved and I can really see the results.",
+          "publish_time": "2026-03-14T04:24:08.650383564Z"
+        },
+        {
+          "author": "Janejira Singkharath (Ploy)",
+          "rating": 5,
+          "text": "The service is good. There's plenty of parking and it's easy to get there. The clinic's interior also looks very nice.",
+          "publish_time": "2026-02-12T03:02:50.485540331Z"
+        },
+        {
+          "author": "Kim",
+          "rating": 5,
+          "text": "The staff provided excellent service. The area was clean, there was plenty of parking, and the doctor gave very good consultations, focusing more on treatment than on selling treatment packages.",
+          "publish_time": "2026-02-12T02:48:12.025567512Z"
+        }
+      ],
+      "daily_log": [
+        {
+          "date": "2026-08-25",
+          "new_reviews": 5,
+          "rating": 5,
+          "user_ratings_total": 15
+        }
+      ],
+      "last_synced": "2026-08-25T07:46:14Z"
+    },
+    {
+      "key": "phra_ram_9",
+      "name": "สาขาพระราม 9",
+      "maps_url": "https://maps.app.goo.gl/5jmP8YQ1sWqZ4uE67",
+      "status": "ok",
+      "rating": 4.8,
+      "user_ratings_total": 24,
+      "new_reviews_today": 5,
+      "low_rating_alerts_today": [],
+      "last_review_time": "2026-08-06T05:53:22.356931284Z",
+      "ai_summary": "",
+      "ai_summary_updated": null,
+      "recent_reviews": [
+        {
+          "author": "A Linn",
+          "rating": 5,
+          "text": "Staff is friendly",
+          "publish_time": "2026-08-06T05:53:22.356931284Z"
+        },
+        {
+          "author": "Chaiwat Rod-udom",
+          "rating": 5,
+          "text": "Excellent service. The reception staff were lovely. I appreciated that they weren't pushy about sales. The doctor gave good, straightforward advice and consultations. The atmosphere was like a very private spa.",
+          "publish_time": "2026-08-06T05:03:42.559095109Z"
+        },
+        {
+          "author": "pin",
+          "rating": 5,
+          "text": "Very good experience, excellent service. My hair feels so much better!",
+          "publish_time": "2026-08-06T04:46:35.190167030Z"
+        },
+        {
+          "author": "Me Mi",
+          "rating": 5,
+          "text": "This newly opened branch is conveniently located near the MRT Rama 9 station. It's clean, has a great view, very comfortable chairs, and the staff are incredibly lovely.",
+          "publish_time": "2026-05-06T10:30:15.138771540Z"
+        },
+        {
+          "author": "Wanunya T.",
+          "rating": 5,
+          "text": "I visited their newly opened branch. It's conveniently located near Central Rama 9 and easily accessible by MRT. The clinic is beautiful, clean, and the staff provides excellent service.",
+          "publish_time": "2026-05-06T10:14:56.745235738Z"
+        }
+      ],
+      "daily_log": [
+        {
+          "date": "2026-08-25",
+          "new_reviews": 5,
+          "rating": 4.8,
+          "user_ratings_total": 24
+        }
+      ],
+      "last_synced": "2026-08-25T07:46:14Z"
+    },
+    {
+      "key": "bang_na",
+      "name": "สาขาบางนา",
+      "maps_url": "https://maps.app.goo.gl/NBfKGfiYPDPxkGYh8",
+      "status": "ok",
+      "rating": null,
+      "user_ratings_total": null,
+      "new_reviews_today": 0,
+      "low_rating_alerts_today": [],
+      "last_review_time": null,
+      "ai_summary": "",
+      "ai_summary_updated": null,
+      "recent_reviews": [],
+      "daily_log": [
+        {
+          "date": "2026-08-25",
+          "new_reviews": 0,
+          "rating": null,
+          "user_ratings_total": null
+        }
+      ],
+      "last_synced": "2026-08-25T07:46:14Z"
+    },
+    {
+      "key": "pinklao",
+      "name": "สาขาปิ่นเกล้า",
+      "maps_url": "https://maps.app.goo.gl/oDTCRKE8FNx3c4z29",
+      "status": "ok",
+      "rating": null,
+      "user_ratings_total": null,
+      "new_reviews_today": 0,
+      "low_rating_alerts_today": [],
+      "last_review_time": null,
+      "ai_summary": "",
+      "ai_summary_updated": null,
+      "recent_reviews": [],
+      "daily_log": [
+        {
+          "date": "2026-08-25",
+          "new_reviews": 0,
+          "rating": null,
+          "user_ratings_total": null
+        }
+      ],
+      "last_synced": "2026-08-25T07:46:14Z"
+    }
+  ]
 }
