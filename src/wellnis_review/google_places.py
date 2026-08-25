@@ -1,13 +1,14 @@
 """Thin wrapper around Google Places API (New) v1.
 
 Docs: https://developers.google.com/maps/documentation/places/web-service/place-details
-Note: Place Details returns at most 5 reviews per place — this is a hard limit
-of the API (no pagination for reviews). By default Google picks those 5 by
-"relevance", which is NOT the same as newest — a branch can easily have
-reviews from days ago that rank as more "relevant" than something posted
-yesterday, silently hiding genuinely new reviews from "รีวิวใหม่วันนี้". We pass
-reviewsSort=NEWEST explicitly so the 5 returned are always the 5 most recently
-published, matching what "ใหม่ที่สุด" shows in the Google Maps app itself.
+Note: Place Details returns at most 5 reviews per place, picked by Google's
+"relevance" ranking — this is a hard limit/behavior of the API with NO
+documented way to request "newest" sort instead (a "reviewsSort" query param
+does not exist on this endpoint; sending one is rejected outright with a 400).
+Relevance is usually recency-correlated but not guaranteed — a place can have
+a genuinely newer review that Google ranks outside its top-5-by-relevance,
+which run_daily.py has no way to detect via this API alone. See README's
+"ข้อจำกัดที่ควรรู้" section.
 """
 from __future__ import annotations
 
@@ -53,9 +54,6 @@ def get_place_details(api_key: str, place_id: str) -> dict:
             # translated to Thai instead of its default (English). reviews.originalText
             # is unaffected — it always carries the review's original, untranslated language.
             "languageCode": "th",
-            # reviewsSort=NEWEST: return the 5 most recently published reviews, not the
-            # 5 Google considers most "relevant" (its default) — see module docstring.
-            "reviewsSort": "NEWEST",
         },
         timeout=30,
     )
