@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T08:34:37Z",
+  "generated_at": "2026-08-25T08:49:16Z",
   "branches": [
     {
       "key": "bang_pu",
@@ -53,7 +53,7 @@
           "user_ratings_total": 96
         }
       ],
-      "last_synced": "2026-08-25T08:34:35Z"
+      "last_synced": "2026-08-25T08:49:13Z"
     },
     {
       "key": "saphan_khwai",
@@ -107,7 +107,7 @@
           "user_ratings_total": 185
         }
       ],
-      "last_synced": "2026-08-25T08:34:35Z"
+      "last_synced": "2026-08-25T08:49:14Z"
     },
     {
       "key": "bang_yai",
@@ -161,7 +161,7 @@
           "user_ratings_total": 143
         }
       ],
-      "last_synced": "2026-08-25T08:34:35Z"
+      "last_synced": "2026-08-25T08:49:14Z"
     },
     {
       "key": "rangsit",
@@ -215,7 +215,7 @@
           "user_ratings_total": 347
         }
       ],
-      "last_synced": "2026-08-25T08:34:36Z"
+      "last_synced": "2026-08-25T08:49:14Z"
     },
     {
       "key": "pattaya",
@@ -269,7 +269,7 @@
           "user_ratings_total": 38
         }
       ],
-      "last_synced": "2026-08-25T08:34:36Z"
+      "last_synced": "2026-08-25T08:49:15Z"
     },
     {
       "key": "chiang_mai",
@@ -323,7 +323,7 @@
           "user_ratings_total": 15
         }
       ],
-      "last_synced": "2026-08-25T08:34:36Z"
+      "last_synced": "2026-08-25T08:49:15Z"
     },
     {
       "key": "phra_ram_9",
@@ -377,7 +377,7 @@
           "user_ratings_total": 24
         }
       ],
-      "last_synced": "2026-08-25T08:34:37Z"
+      "last_synced": "2026-08-25T08:49:15Z"
     },
     {
       "key": "bang_na",
@@ -400,7 +400,7 @@
           "user_ratings_total": null
         }
       ],
-      "last_synced": "2026-08-25T08:34:37Z"
+      "last_synced": "2026-08-25T08:49:16Z"
     },
     {
       "key": "pinklao",
@@ -423,7 +423,7 @@
           "user_ratings_total": null
         }
       ],
-      "last_synced": "2026-08-25T08:34:37Z"
+      "last_synced": "2026-08-25T08:49:16Z"
     }
   ]
 }
