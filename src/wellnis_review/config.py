@@ -14,9 +14,6 @@ DASHBOARD_DATA_FILE = ROOT / "docs" / "data.json"
 # ต่ำกว่าหรือเท่ากับกี่ดาว ถึงจะถือว่าต้องแจ้งเตือนด่วน (ตามความต้องการ: 3 ดาวหรือน้อยกว่า)
 LOW_RATING_THRESHOLD = 3
 
-# เก็บรีวิวสะสมต่อสาขาไว้ใช้สรุปด้วย AI สูงสุดกี่รายการ (ป้องกันไฟล์บวมไม่จำกัด)
-MAX_REVIEWS_KEPT_PER_BRANCH = 300
-
 
 @dataclass(frozen=True)
 class Branch:

@@ -97,11 +97,9 @@
   .details { display: none; margin-top: 12px; border-top: 1px solid var(--border); padding-top: 12px; }
   .card.open .details { display: block; }
   .section-title { font-weight: 700; font-size: 0.85rem; margin: 10px 0 4px; }
-  .ai-summary { white-space: pre-wrap; font-size: 0.9rem; background: var(--chip-bg); border-radius: 10px; padding: 10px 12px; }
-  .alert-box { background: var(--bad-bg); border-radius: 10px; padding: 10px 12px; margin-bottom: 8px; }
-  .alert-box .review { font-size: 0.85rem; margin: 6px 0; }
-  .review-item { font-size: 0.85rem; padding: 6px 0; border-bottom: 1px dashed var(--border); }
-  .review-item:last-child { border-bottom: none; }
+  .review-item { font-size: 0.85rem; padding: 8px 10px; border-radius: 8px; margin-bottom: 6px; background: var(--chip-bg); }
+  .review-item.low { background: var(--bad-bg); }
+  .review-item .meta { font-weight: 600; margin-bottom: 2px; }
   .maps-link { display: inline-block; margin-top: 10px; font-size: 0.85rem; color: var(--accent); text-decoration: none; }
   .maps-link:hover { text-decoration: underline; }
   .empty-state { text-align: center; color: var(--muted); padding: 60px 20px; }
@@ -135,12 +133,6 @@ function fmtDate(iso) {
   } catch (e) { return iso; }
 }
 
-function daysAgo(iso) {
-  if (!iso) return null;
-  var d = new Date(iso);
-  return Math.floor((Date.now() - d.getTime()) / 86400000);
-}
-
 function esc(s) {
   return (s || "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 }
@@ -156,15 +148,16 @@ function renderBranch(b) {
     return card;
   }
 
+  var todayReviews = b.today_reviews || [];
   var hasAlert = (b.low_rating_alerts_today || []).length > 0;
   if (hasAlert) card.classList.add("has-alert");
 
   var chips = "";
-  if (b.new_reviews_today > 0) {
-    chips += '<span class="chip new">📝 รีวิวใหม่ ' + b.new_reviews_today + '</span>';
+  if (todayReviews.length > 0) {
+    chips += '<span class="chip new">📝 รีวิวใหม่วันนี้ ' + todayReviews.length + '</span>';
   } else {
-    var da = daysAgo(b.last_review_time);
-    chips += '<span class="chip stale">รีวิวล่าสุด: ' + fmtDate(b.last_review_time) + (da != null ? ' (' + da + ' วันก่อน)' : '') + '</span>';
+    chips += '<span class="chip stale">รีวิวล่าสุด ' + esc(b.last_review_relative || "ไม่ทราบ") +
+      (b.last_review_time ? ' (' + fmtDate(b.last_review_time) + ')' : '') + '</span>';
   }
   if (hasAlert) {
     chips += '<span class="chip alert">⚠️ ต้องติดตาม ' + b.low_rating_alerts_today.length + ' รายการ</span>';
@@ -183,22 +176,26 @@ function renderBranch(b) {
   details.className = "details";
 
   var html = "";
-  if (hasAlert) {
-    html += '<div class="section-title">⚠️ รีวิวที่ต้องติดตามวันนี้ (≤3 ดาว)</div><div class="alert-box">';
-    b.low_rating_alerts_today.forEach(function (r) {
-      html += '<div class="review">' + (r.rating || "?") + '⭐ โดย ' + esc(r.author) + ': ' + esc(r.text || "(ไม่มีข้อความ)") + '</div>';
+  if (todayReviews.length > 0) {
+    html += '<div class="section-title">📝 รีวิวใหม่วันนี้ (' + todayReviews.length + ' รายการ)</div>';
+    todayReviews.forEach(function (r) {
+      var low = (r.rating || 0) <= 3;
+      html += '<div class="review-item' + (low ? ' low' : '') + '">' +
+        '<div class="meta">' + (low ? '⚠️ ' : '') + (r.rating || "?") + '⭐ โดย ' + esc(r.author) + '</div>' +
+        '<div>' + esc(r.text || "(ไม่มีข้อความ)") + '</div></div>';
     });
-    html += '</div>';
-  }
-
-  html += '<div class="section-title">🤖 AI สรุปคำชมที่พบบ่อย</div>';
-  html += '<div class="ai-summary">' + esc(b.ai_summary || "ยังไม่มีสรุป") + '</div>';
-
-  if (b.recent_reviews && b.recent_reviews.length) {
-    html += '<div class="section-title">รีวิวล่าสุด</div>';
-    b.recent_reviews.slice(0, 5).forEach(function (r) {
-      html += '<div class="review-item">' + (r.rating || "?") + '⭐ ' + esc(r.author) + ' — ' + esc((r.text || "").slice(0, 140)) + (r.text && r.text.length > 140 ? "…" : "") + '</div>';
-    });
+  } else {
+    html += '<div class="section-title">รีวิวล่าสุดที่มี</div>';
+    if (b.recent_reviews && b.recent_reviews.length) {
+      b.recent_reviews.slice(0, 5).forEach(function (r) {
+        var low = (r.rating || 0) <= 3;
+        html += '<div class="review-item' + (low ? ' low' : '') + '">' +
+          '<div class="meta">' + (low ? '⚠️ ' : '') + (r.rating || "?") + '⭐ โดย ' + esc(r.author) + ' — ' + fmtDate(r.publish_time) + '</div>' +
+          '<div>' + esc((r.text || "").slice(0, 200)) + (r.text && r.text.length > 200 ? "…" : "") + '</div></div>';
+      });
+    } else {
+      html += '<div class="review-item">ยังไม่มีรีวิว (อาจเป็นสาขาใหม่)</div>';
+    }
   }
 
   html += '<a class="maps-link" href="' + esc(b.maps_url) + '" target="_blank" rel="noopener">🔗 เปิดใน Google Maps</a>';

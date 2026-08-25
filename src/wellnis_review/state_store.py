@@ -1,8 +1,12 @@
-"""Persisted per-branch state: which reviews we've already seen, running totals,
-and a capped local review corpus used for the AI "คำชมบ่อยๆ" summary.
+"""Persisted per-branch snapshot: latest rating/reviews + a daily trend log.
 
-Stored at data/state.json and committed back to the repo by the daily GitHub
-Action, so history survives across runs (Actions runners are ephemeral).
+"New today" is defined by each review's actual publish date (Bangkok calendar
+day), not by whether our system has seen it before — this avoids the
+bootstrap problem where a branch's entire review history gets miscounted as
+"new" the first time it's synced, and it naturally stops flagging an old
+low-rating review once its day has passed. There is no cross-day dedup here
+by design: Google always returns the same up-to-5 latest reviews per place,
+so each day's fetch is simply re-classified against "today" fresh.
 """
 from __future__ import annotations
 
@@ -10,7 +14,8 @@ import json
 from datetime import datetime, timezone
 from typing import Any
 
-from .config import MAX_REVIEWS_KEPT_PER_BRANCH, STATE_FILE
+from .config import LOW_RATING_THRESHOLD, STATE_FILE
+from .timeutil import is_today_bkk
 
 
 def load_state() -> dict[str, Any]:
@@ -52,67 +57,49 @@ def update_branch_state(
     branch_key: str,
     details: dict,
 ) -> dict[str, Any]:
-    """Merge fresh Place Details into state; return a per-branch sync report:
+    """Merge a fresh Place Details fetch into state; return a per-branch report:
 
     {
         "rating": float | None,
         "user_ratings_total": int | None,
-        "new_reviews": [review, ...],       # not previously seen, this run
-        "low_rating_alerts": [review, ...], # subset of new_reviews with rating <= threshold
-        "last_review_time": str | None,     # newest publish_time ever seen (even if 0 new today)
-        "reviews_corpus": [review, ...],    # capped local history, for AI summary
+        "google_maps_uri": str | None,
+        "reviews": [review, ...],             # up to 5 latest, newest first
+        "today_reviews": [review, ...],        # subset published today (Bangkok day)
+        "low_rating_alerts_today": [review, ...],  # subset of today_reviews, rating <= threshold
+        "new_reviews_today": int,
+        "last_review_time": str | None,        # newest publish_time among fetched reviews
+        "last_review_relative": str,           # Google's localized "X ago" for that review
     }
     """
-    from .config import LOW_RATING_THRESHOLD
-
     branches = state.setdefault("branches", {})
-    b_state = branches.setdefault(branch_key, {"reviews": {}})
+    b_state = branches.setdefault(branch_key, {})
 
-    incoming = [parse_review(r) for r in details.get("reviews", [])]
-    existing_reviews: dict[str, dict] = b_state.get("reviews", {})
+    reviews = [parse_review(r) for r in details.get("reviews", [])]
+    reviews.sort(key=lambda r: r.get("publish_time") or "", reverse=True)
 
-    new_reviews: list[dict] = []
-    for r in incoming:
-        key = r["name"] or f"{r['author']}|{r['publish_time']}"
-        if key and key not in existing_reviews:
-            r_with_meta = dict(r, first_seen=_now_iso())
-            existing_reviews[key] = r_with_meta
-            new_reviews.append(r_with_meta)
+    today_reviews = [
+        r for r in reviews if r.get("publish_time") and is_today_bkk(r["publish_time"])
+    ]
+    low_rating_alerts_today = [
+        r for r in today_reviews if (r.get("rating") or 0) <= LOW_RATING_THRESHOLD
+    ]
 
-    # เก็บย้อนหลังไว้ไม่เกิน MAX_REVIEWS_KEPT_PER_BRANCH รายการ (ตัดของเก่าสุดทิ้งตาม publish_time)
-    if len(existing_reviews) > MAX_REVIEWS_KEPT_PER_BRANCH:
-        ordered = sorted(
-            existing_reviews.items(),
-            key=lambda kv: kv[1].get("publish_time") or "",
-            reverse=True,
-        )
-        existing_reviews = dict(ordered[:MAX_REVIEWS_KEPT_PER_BRANCH])
-
-    b_state["reviews"] = existing_reviews
     b_state["rating"] = details.get("rating")
     b_state["user_ratings_total"] = details.get("userRatingCount")
     b_state["google_maps_uri"] = details.get("googleMapsUri")
     b_state["last_synced"] = _now_iso()
-
-    all_reviews = list(existing_reviews.values())
-    last_review_time = max(
-        (r["publish_time"] for r in all_reviews if r.get("publish_time")),
-        default=None,
-    )
-    b_state["last_review_time"] = last_review_time
-
-    low_rating_alerts = [
-        r for r in new_reviews if (r.get("rating") or 0) <= LOW_RATING_THRESHOLD
-    ]
+    b_state["last_review_time"] = reviews[0]["publish_time"] if reviews else None
+    b_state["last_review_relative"] = reviews[0]["relative_time"] if reviews else ""
+    b_state["recent_reviews"] = reviews
 
     return {
         "rating": b_state["rating"],
         "user_ratings_total": b_state["user_ratings_total"],
         "google_maps_uri": b_state["google_maps_uri"],
-        "new_reviews": new_reviews,
-        "low_rating_alerts": low_rating_alerts,
-        "last_review_time": last_review_time,
-        "reviews_corpus": sorted(
-            all_reviews, key=lambda r: r.get("publish_time") or "", reverse=True
-        ),
+        "reviews": reviews,
+        "today_reviews": today_reviews,
+        "low_rating_alerts_today": low_rating_alerts_today,
+        "new_reviews_today": len(today_reviews),
+        "last_review_time": b_state["last_review_time"],
+        "last_review_relative": b_state["last_review_relative"],
     }
