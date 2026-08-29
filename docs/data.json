@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T21:51:01Z",
+  "generated_at": "2026-08-29T14:02:44Z",
   "branches": [
     {
       "key": "bang_pu",
@@ -65,7 +65,7 @@
           "user_ratings_total": 96
         }
       ],
-      "last_synced": "2026-08-28T21:51:00Z"
+      "last_synced": "2026-08-29T14:02:42Z"
     },
     {
       "key": "saphan_khwai",
@@ -78,7 +78,7 @@
       "today_reviews": [],
       "low_rating_alerts_today": [],
       "last_review_time": "2026-08-08T07:05:17.513278711Z",
-      "last_review_relative": "2 สัปดาห์ที่แล้ว",
+      "last_review_relative": "3 สัปดาห์ที่แล้ว",
       "recent_reviews": [
         {
           "author": "Pornlada Chaijaroen",
@@ -131,7 +131,7 @@
           "user_ratings_total": 185
         }
       ],
-      "last_synced": "2026-08-28T21:51:00Z"
+      "last_synced": "2026-08-29T14:02:43Z"
     },
     {
       "key": "bang_yai",
@@ -139,7 +139,7 @@
       "maps_url": "https://maps.app.goo.gl/5cWsxq4fQf7jAGqw9",
       "status": "ok",
       "rating": 4.8,
-      "user_ratings_total": 143,
+      "user_ratings_total": 142,
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
@@ -194,10 +194,10 @@
           "date": "2026-08-29",
           "new_reviews": 0,
           "rating": 4.8,
-          "user_ratings_total": 143
+          "user_ratings_total": 142
         }
       ],
-      "last_synced": "2026-08-28T21:51:01Z"
+      "last_synced": "2026-08-29T14:02:43Z"
     },
     {
       "key": "rangsit",
@@ -205,7 +205,7 @@
       "maps_url": "https://maps.app.goo.gl/uj3Pvc3VCqMZJZvW9",
       "status": "ok",
       "rating": 5,
-      "user_ratings_total": 347,
+      "user_ratings_total": 348,
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
@@ -260,10 +260,10 @@
           "date": "2026-08-29",
           "new_reviews": 0,
           "rating": 5,
-          "user_ratings_total": 347
+          "user_ratings_total": 348
         }
       ],
-      "last_synced": "2026-08-28T21:51:01Z"
+      "last_synced": "2026-08-29T14:02:43Z"
     },
     {
       "key": "pattaya",
@@ -329,7 +329,7 @@
           "user_ratings_total": 38
         }
       ],
-      "last_synced": "2026-08-28T21:51:01Z"
+      "last_synced": "2026-08-29T14:02:43Z"
     },
     {
       "key": "chiang_mai",
@@ -395,7 +395,7 @@
           "user_ratings_total": 15
         }
       ],
-      "last_synced": "2026-08-28T21:51:01Z"
+      "last_synced": "2026-08-29T14:02:43Z"
     },
     {
       "key": "phra_ram_9",
@@ -461,7 +461,7 @@
           "user_ratings_total": 24
         }
       ],
-      "last_synced": "2026-08-28T21:51:01Z"
+      "last_synced": "2026-08-29T14:02:43Z"
     },
     {
       "key": "bang_na",
@@ -469,13 +469,50 @@
       "maps_url": "https://maps.app.goo.gl/NBfKGfiYPDPxkGYh8",
       "status": "ok",
       "rating": 5,
-      "user_ratings_total": 12,
-      "new_reviews_today": 0,
-      "today_reviews": [],
+      "user_ratings_total": 15,
+      "new_reviews_today": 3,
+      "today_reviews": [
+        {
+          "author": "Phornsuda Sornkong",
+          "rating": 5,
+          "text": "บริการดี คุณหมอให้คำแนะนำดี สถานที่สะดวกสะอาด มีที่จอดรถ",
+          "publish_time": "2026-08-29T07:18:34.913518244Z"
+        },
+        {
+          "author": "Nattapong Pokairat",
+          "rating": 5,
+          "text": "บรรยากาศดี บริการดี",
+          "publish_time": "2026-08-29T04:38:55.591180033Z"
+        },
+        {
+          "author": "Veethanatthon Nerakanthi",
+          "rating": 5,
+          "text": "บริการดีครับ พนักงานให้บริการดีมีความใส่ใจครับ",
+          "publish_time": "2026-08-29T04:35:05.187540645Z"
+        }
+      ],
       "low_rating_alerts_today": [],
-      "last_review_time": "2026-08-28T09:31:19.671951332Z",
+      "last_review_time": "2026-08-29T07:18:34.913518244Z",
       "last_review_relative": "ในสัปดาห์ที่ผ่านมา",
       "recent_reviews": [
+        {
+          "author": "Phornsuda Sornkong",
+          "rating": 5,
+          "text": "บริการดี คุณหมอให้คำแนะนำดี สถานที่สะดวกสะอาด มีที่จอดรถ",
+          "publish_time": "2026-08-29T07:18:34.913518244Z"
+        },
+        {
+          "author": "Nattapong Pokairat",
+          "rating": 5,
+          "text": "บรรยากาศดี บริการดี",
+          "publish_time": "2026-08-29T04:38:55.591180033Z"
+        },
+        {
+          "author": "Veethanatthon Nerakanthi",
+          "rating": 5,
+          "text": "บริการดีครับ พนักงานให้บริการดีมีความใส่ใจครับ",
+          "publish_time": "2026-08-29T04:35:05.187540645Z"
+        },
         {
           "author": "Saovalak Yianggamonsing",
           "rating": 5,
@@ -487,24 +524,6 @@
           "rating": 5,
           "text": "พนักงานอัธยาศัยดี บริการดี คลินิกสะอาดได้มาตรฐานดีค่ะ",
           "publish_time": "2026-08-27T06:50:28.773160137Z"
-        },
-        {
-          "author": "Fon Chalisa",
-          "rating": 5,
-          "text": "คลินิกสะอาด สวยบรรยากาศดี พนักงานต้อนรับยิ้มแย้มอย่างดีพยาบาลบริการดีเป็นกันเองคะ",
-          "publish_time": "2026-08-27T04:27:06.748220668Z"
-        },
-        {
-          "author": "Pichaya M",
-          "rating": 5,
-          "text": "ลองมาปรึกษาครั้งแรก เพราะมีปัญหาผมร่วงเยอะและผมเริ่มบาง คุณหมอให้คำแนะนำดี โดยรวมประทับใจค่ะ",
-          "publish_time": "2026-08-26T11:45:20.359230734Z"
-        },
-        {
-          "author": "Artidtayaporn Seenampeng",
-          "rating": 5,
-          "text": "คลินิกสะอาด สวยบรรยากาศดี พนักงานต้อนรับยิ้มแย้มอย่างดีพยาบาลบริการดีเป็นกันเองสุดๆ",
-          "publish_time": "2026-08-26T05:59:22.141136217Z"
         }
       ],
       "daily_log": [
@@ -522,12 +541,12 @@
         },
         {
           "date": "2026-08-29",
-          "new_reviews": 0,
+          "new_reviews": 3,
           "rating": 5,
-          "user_ratings_total": 12
+          "user_ratings_total": 15
         }
       ],
-      "last_synced": "2026-08-28T21:51:01Z"
+      "last_synced": "2026-08-29T14:02:43Z"
     },
     {
       "key": "pinklao",
@@ -562,7 +581,7 @@
           "user_ratings_total": null
         }
       ],
-      "last_synced": "2026-08-28T21:51:01Z"
+      "last_synced": "2026-08-29T14:02:44Z"
     }
   ]
 }
