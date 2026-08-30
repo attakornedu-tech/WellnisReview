@@ -19,14 +19,52 @@
           "new_reviews": 3,
           "rating": 5,
           "user_ratings_total": 15
+        },
+        {
+          "date": "2026-08-30",
+          "new_reviews": 4,
+          "rating": 5,
+          "user_ratings_total": 19
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=13066266656441145210&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "ในสัปดาห์ที่ผ่านมา",
-      "last_review_time": "2026-08-29T07:18:34.913518244Z",
-      "last_synced": "2026-08-29T14:02:43Z",
+      "last_review_time": "2026-08-30T09:51:12.429112887Z",
+      "last_synced": "2026-08-30T14:02:23Z",
       "rating": 5,
       "recent_reviews": [
+        {
+          "author": "Rapee Vibulmangala",
+          "name": "places/ChIJsfWPfxdfHTERepe0xUu0VLU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSNk1VWmFjVWx2V214YWIyUXdObGhNUW1wYVYxRRAB",
+          "publish_time": "2026-08-30T09:51:12.429112887Z",
+          "rating": 5,
+          "relative_time": "ในสัปดาห์ที่ผ่านมา",
+          "text": "บริการดีครับ"
+        },
+        {
+          "author": "Chocoluka",
+          "name": "places/ChIJsfWPfxdfHTERepe0xUu0VLU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5MFZGWllTWEYwWVhWV1V6WkRlbTFRWHpkZk1tYxAB",
+          "publish_time": "2026-08-30T07:36:37.388395834Z",
+          "rating": 5,
+          "relative_time": "ในสัปดาห์ที่ผ่านมา",
+          "text": "บริการดี"
+        },
+        {
+          "author": "Sakda Klinmalee",
+          "name": "places/ChIJsfWPfxdfHTERepe0xUu0VLU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tJNVNXSnJjRU5XZEVKWFFVUTVhRWh4VHpGbVpGRRAB",
+          "publish_time": "2026-08-30T07:33:54.293158907Z",
+          "rating": 5,
+          "relative_time": "ในสัปดาห์ที่ผ่านมา",
+          "text": "พนักงานบริการดีมากครับ"
+        },
+        {
+          "author": "Weerayut Leesongsak",
+          "name": "places/ChIJsfWPfxdfHTERepe0xUu0VLU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SUGMydE9NSFp1ZVdaNkxUZEtVa0ZyUm5kWFIyYxAB",
+          "publish_time": "2026-08-30T06:49:58.656229028Z",
+          "rating": 5,
+          "relative_time": "ในสัปดาห์ที่ผ่านมา",
+          "text": "บริการดีมาก"
+        },
         {
           "author": "Phornsuda Sornkong",
           "name": "places/ChIJsfWPfxdfHTERepe0xUu0VLU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaV1RHeHRlVXAxZWxSSmVqQjBhekpyV2xkTlkxRRAB",
@@ -34,41 +72,9 @@
           "rating": 5,
           "relative_time": "ในสัปดาห์ที่ผ่านมา",
           "text": "บริการดี คุณหมอให้คำแนะนำดี สถานที่สะดวกสะอาด มีที่จอดรถ"
-        },
-        {
-          "author": "Nattapong Pokairat",
-          "name": "places/ChIJsfWPfxdfHTERepe0xUu0VLU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKVVVXbERZalptVTFwd1FXcHFaakI0UWxOT1ptYxAB",
-          "publish_time": "2026-08-29T04:38:55.591180033Z",
-          "rating": 5,
-          "relative_time": "ในสัปดาห์ที่ผ่านมา",
-          "text": "บรรยากาศดี บริการดี"
-        },
-        {
-          "author": "Veethanatthon Nerakanthi",
-          "name": "places/ChIJsfWPfxdfHTERepe0xUu0VLU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGU1VYcHZhbkV4ZVU1RldXWnVSbFpuWVV3NFYzYxAB",
-          "publish_time": "2026-08-29T04:35:05.187540645Z",
-          "rating": 5,
-          "relative_time": "ในสัปดาห์ที่ผ่านมา",
-          "text": "บริการดีครับ พนักงานให้บริการดีมีความใส่ใจครับ"
-        },
-        {
-          "author": "Saovalak Yianggamonsing",
-          "name": "places/ChIJsfWPfxdfHTERepe0xUu0VLU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aNVJHZFZlbnBaY3pKSGNuWlBNbGh1ZFZNelkzYxAB",
-          "publish_time": "2026-08-28T09:31:19.671951332Z",
-          "rating": 5,
-          "relative_time": "ในสัปดาห์ที่ผ่านมา",
-          "text": "พนักงานบริการดี คลินิกสะอาด มีมาตรฐานดีค่ะ"
-        },
-        {
-          "author": "Wipaporn Phongchok",
-          "name": "places/ChIJsfWPfxdfHTERepe0xUu0VLU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5SGRVSm9TRkpVTURoMGJFNWFRazFaYlc5UGQzYxAB",
-          "publish_time": "2026-08-27T06:50:28.773160137Z",
-          "rating": 5,
-          "relative_time": "ในสัปดาห์ที่ผ่านมา",
-          "text": "พนักงานอัธยาศัยดี บริการดี คลินิกสะอาดได้มาตรฐานดีค่ะ"
         }
       ],
-      "user_ratings_total": 15
+      "user_ratings_total": 19
     },
     "bang_pu": {
       "daily_log": [
@@ -89,12 +95,18 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 96
+        },
+        {
+          "date": "2026-08-30",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 96
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=4772761812627584046&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "2 เดือนที่แล้ว",
       "last_review_time": "2026-06-19T14:54:14.166524015Z",
-      "last_synced": "2026-08-29T14:02:42Z",
+      "last_synced": "2026-08-30T14:02:21Z",
       "rating": 4.7,
       "recent_reviews": [
         {
@@ -159,12 +171,18 @@
           "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 142
+        },
+        {
+          "date": "2026-08-30",
+          "new_reviews": 0,
+          "rating": 4.8,
+          "user_ratings_total": 142
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=16287447197378131024&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "เดือนที่แล้ว",
       "last_review_time": "2026-07-13T09:59:10.505906834Z",
-      "last_synced": "2026-08-29T14:02:43Z",
+      "last_synced": "2026-08-30T14:02:21Z",
       "rating": 4.8,
       "recent_reviews": [
         {
@@ -229,12 +247,18 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 15
+        },
+        {
+          "date": "2026-08-30",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 15
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=8374106017266278080&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "2 เดือนที่แล้ว",
       "last_review_time": "2026-06-12T14:17:53.675719159Z",
-      "last_synced": "2026-08-29T14:02:43Z",
+      "last_synced": "2026-08-30T14:02:22Z",
       "rating": 5,
       "recent_reviews": [
         {
@@ -299,12 +323,18 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 38
+        },
+        {
+          "date": "2026-08-30",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 38
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=13495116063067392428&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "เดือนที่แล้ว",
       "last_review_time": "2026-07-13T04:15:46.841665347Z",
-      "last_synced": "2026-08-29T14:02:43Z",
+      "last_synced": "2026-08-30T14:02:22Z",
       "rating": 5,
       "recent_reviews": [
         {
@@ -369,12 +399,18 @@
           "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 24
+        },
+        {
+          "date": "2026-08-30",
+          "new_reviews": 0,
+          "rating": 4.8,
+          "user_ratings_total": 25
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=8978487306560231518&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "3 สัปดาห์ที่แล้ว",
       "last_review_time": "2026-08-06T05:03:42.559095109Z",
-      "last_synced": "2026-08-29T14:02:43Z",
+      "last_synced": "2026-08-30T14:02:23Z",
       "rating": 4.8,
       "recent_reviews": [
         {
@@ -418,7 +454,7 @@
           "text": "มาสาขาเปิดใหม่ เดินทางสะดวก ใกล้เซนทรัลพระราม9 มา mrt ได้เลย คลินิกสวยงาม สะอาด  พนักงานบริการดี"
         }
       ],
-      "user_ratings_total": 24
+      "user_ratings_total": 25
     },
     "pinklao": {
       "daily_log": [
@@ -439,12 +475,18 @@
           "new_reviews": 0,
           "rating": null,
           "user_ratings_total": null
+        },
+        {
+          "date": "2026-08-30",
+          "new_reviews": 0,
+          "rating": null,
+          "user_ratings_total": null
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=1801119609578184508&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "",
       "last_review_time": null,
-      "last_synced": "2026-08-29T14:02:44Z",
+      "last_synced": "2026-08-30T14:02:23Z",
       "rating": null,
       "recent_reviews": [],
       "user_ratings_total": null
@@ -468,12 +510,18 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 348
+        },
+        {
+          "date": "2026-08-30",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 349
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=6627011122346499865&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "3 เดือนที่แล้ว",
       "last_review_time": "2026-05-07T11:38:00.785442698Z",
-      "last_synced": "2026-08-29T14:02:43Z",
+      "last_synced": "2026-08-30T14:02:22Z",
       "rating": 5,
       "recent_reviews": [
         {
@@ -517,7 +565,7 @@
           "text": "สถานที่สะอาด มีที่จอดรถเยอะ เดินทางสะดวก พนักงานทุกคนบริการดี พูดจาไพเราะ มีการตรวจโดยแพทย์เฉพาะทาง ให้คำปรึกษาดี-ชัดเจน เราทำโปรแกรม HRP กับทานยาและวิตามิน ร่วมกับทาที่ศีรษะ ทำมาได้ 2 เดือนแล้ว ผมร่วงน้อยลงและผมใหม่เริ่มงอก เห็นผลนะคะ แนะนำค่ะ"
         }
       ],
-      "user_ratings_total": 348
+      "user_ratings_total": 349
     },
     "saphan_khwai": {
       "daily_log": [
@@ -538,12 +586,18 @@
           "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 185
+        },
+        {
+          "date": "2026-08-30",
+          "new_reviews": 0,
+          "rating": 4.8,
+          "user_ratings_total": 190
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=16047547344402416693&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "3 สัปดาห์ที่แล้ว",
       "last_review_time": "2026-08-08T07:05:17.513278711Z",
-      "last_synced": "2026-08-29T14:02:43Z",
+      "last_synced": "2026-08-30T14:02:21Z",
       "rating": 4.8,
       "recent_reviews": [
         {
@@ -575,7 +629,7 @@
           "name": "places/ChIJ5fkJ4U-f4jARNYReQ0lXtN4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pVMVFqTmZaMmM0VjFsM1RWaDFTV0pRT0U5eGNuYxAB",
           "publish_time": "2026-05-02T08:16:25.095174961Z",
           "rating": 5,
-          "relative_time": "3 เดือนที่แล้ว",
+          "relative_time": "4 เดือนที่แล้ว",
           "text": "มาใช้บริการที่คลีนิค  3 เดือน แล้ว หมอส่องกล้องเห็น ผมเส้นอ่อนๆเริ่มขึ้น  ผมร่วงก็ลดลง   กลางศรีษะเริ่ม ไม่ค่อยเห็นหนังหัว   ที่ร้านให้บริการและคำปรึกษาดีมากครับ"
         },
         {
@@ -587,7 +641,7 @@
           "text": "รักษาเรื่องผมบางมาแล้ว 6 เดือน ผมดูหนาขึ้น พนักงานบริการ ดูแลและพูดจาดี คุณหมอน่ารักเป็นกันเอง ราคาไม่แพง"
         }
       ],
-      "user_ratings_total": 185
+      "user_ratings_total": 190
     }
   }
 }

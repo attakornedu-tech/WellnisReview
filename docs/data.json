@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T14:02:44Z",
+  "generated_at": "2026-08-30T14:02:23Z",
   "branches": [
     {
       "key": "bang_pu",
@@ -63,9 +63,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 96
+        },
+        {
+          "date": "2026-08-30",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 96
         }
       ],
-      "last_synced": "2026-08-29T14:02:42Z"
+      "last_synced": "2026-08-30T14:02:21Z"
     },
     {
       "key": "saphan_khwai",
@@ -73,7 +79,7 @@
       "maps_url": "https://maps.app.goo.gl/dKbqCxBubmLV5uhG6",
       "status": "ok",
       "rating": 4.8,
-      "user_ratings_total": 185,
+      "user_ratings_total": 190,
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
@@ -129,9 +135,15 @@
           "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 185
+        },
+        {
+          "date": "2026-08-30",
+          "new_reviews": 0,
+          "rating": 4.8,
+          "user_ratings_total": 190
         }
       ],
-      "last_synced": "2026-08-29T14:02:43Z"
+      "last_synced": "2026-08-30T14:02:21Z"
     },
     {
       "key": "bang_yai",
@@ -195,9 +207,15 @@
           "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 142
+        },
+        {
+          "date": "2026-08-30",
+          "new_reviews": 0,
+          "rating": 4.8,
+          "user_ratings_total": 142
         }
       ],
-      "last_synced": "2026-08-29T14:02:43Z"
+      "last_synced": "2026-08-30T14:02:21Z"
     },
     {
       "key": "rangsit",
@@ -205,7 +223,7 @@
       "maps_url": "https://maps.app.goo.gl/uj3Pvc3VCqMZJZvW9",
       "status": "ok",
       "rating": 5,
-      "user_ratings_total": 348,
+      "user_ratings_total": 349,
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
@@ -261,9 +279,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 348
+        },
+        {
+          "date": "2026-08-30",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 349
         }
       ],
-      "last_synced": "2026-08-29T14:02:43Z"
+      "last_synced": "2026-08-30T14:02:22Z"
     },
     {
       "key": "pattaya",
@@ -327,9 +351,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 38
+        },
+        {
+          "date": "2026-08-30",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 38
         }
       ],
-      "last_synced": "2026-08-29T14:02:43Z"
+      "last_synced": "2026-08-30T14:02:22Z"
     },
     {
       "key": "chiang_mai",
@@ -393,9 +423,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 15
+        },
+        {
+          "date": "2026-08-30",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 15
         }
       ],
-      "last_synced": "2026-08-29T14:02:43Z"
+      "last_synced": "2026-08-30T14:02:22Z"
     },
     {
       "key": "phra_ram_9",
@@ -403,7 +439,7 @@
       "maps_url": "https://maps.app.goo.gl/5jmP8YQ1sWqZ4uE67",
       "status": "ok",
       "rating": 4.8,
-      "user_ratings_total": 24,
+      "user_ratings_total": 25,
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
@@ -459,9 +495,15 @@
           "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 24
+        },
+        {
+          "date": "2026-08-30",
+          "new_reviews": 0,
+          "rating": 4.8,
+          "user_ratings_total": 25
         }
       ],
-      "last_synced": "2026-08-29T14:02:43Z"
+      "last_synced": "2026-08-30T14:02:23Z"
     },
     {
       "key": "bang_na",
@@ -469,61 +511,67 @@
       "maps_url": "https://maps.app.goo.gl/NBfKGfiYPDPxkGYh8",
       "status": "ok",
       "rating": 5,
-      "user_ratings_total": 15,
-      "new_reviews_today": 3,
+      "user_ratings_total": 19,
+      "new_reviews_today": 4,
       "today_reviews": [
         {
-          "author": "Phornsuda Sornkong",
+          "author": "Rapee Vibulmangala",
           "rating": 5,
-          "text": "บริการดี คุณหมอให้คำแนะนำดี สถานที่สะดวกสะอาด มีที่จอดรถ",
-          "publish_time": "2026-08-29T07:18:34.913518244Z"
+          "text": "บริการดีครับ",
+          "publish_time": "2026-08-30T09:51:12.429112887Z"
         },
         {
-          "author": "Nattapong Pokairat",
+          "author": "Chocoluka",
           "rating": 5,
-          "text": "บรรยากาศดี บริการดี",
-          "publish_time": "2026-08-29T04:38:55.591180033Z"
+          "text": "บริการดี",
+          "publish_time": "2026-08-30T07:36:37.388395834Z"
         },
         {
-          "author": "Veethanatthon Nerakanthi",
+          "author": "Sakda Klinmalee",
           "rating": 5,
-          "text": "บริการดีครับ พนักงานให้บริการดีมีความใส่ใจครับ",
-          "publish_time": "2026-08-29T04:35:05.187540645Z"
+          "text": "พนักงานบริการดีมากครับ",
+          "publish_time": "2026-08-30T07:33:54.293158907Z"
+        },
+        {
+          "author": "Weerayut Leesongsak",
+          "rating": 5,
+          "text": "บริการดีมาก",
+          "publish_time": "2026-08-30T06:49:58.656229028Z"
         }
       ],
       "low_rating_alerts_today": [],
-      "last_review_time": "2026-08-29T07:18:34.913518244Z",
+      "last_review_time": "2026-08-30T09:51:12.429112887Z",
       "last_review_relative": "ในสัปดาห์ที่ผ่านมา",
       "recent_reviews": [
+        {
+          "author": "Rapee Vibulmangala",
+          "rating": 5,
+          "text": "บริการดีครับ",
+          "publish_time": "2026-08-30T09:51:12.429112887Z"
+        },
+        {
+          "author": "Chocoluka",
+          "rating": 5,
+          "text": "บริการดี",
+          "publish_time": "2026-08-30T07:36:37.388395834Z"
+        },
+        {
+          "author": "Sakda Klinmalee",
+          "rating": 5,
+          "text": "พนักงานบริการดีมากครับ",
+          "publish_time": "2026-08-30T07:33:54.293158907Z"
+        },
+        {
+          "author": "Weerayut Leesongsak",
+          "rating": 5,
+          "text": "บริการดีมาก",
+          "publish_time": "2026-08-30T06:49:58.656229028Z"
+        },
         {
           "author": "Phornsuda Sornkong",
           "rating": 5,
           "text": "บริการดี คุณหมอให้คำแนะนำดี สถานที่สะดวกสะอาด มีที่จอดรถ",
           "publish_time": "2026-08-29T07:18:34.913518244Z"
-        },
-        {
-          "author": "Nattapong Pokairat",
-          "rating": 5,
-          "text": "บรรยากาศดี บริการดี",
-          "publish_time": "2026-08-29T04:38:55.591180033Z"
-        },
-        {
-          "author": "Veethanatthon Nerakanthi",
-          "rating": 5,
-          "text": "บริการดีครับ พนักงานให้บริการดีมีความใส่ใจครับ",
-          "publish_time": "2026-08-29T04:35:05.187540645Z"
-        },
-        {
-          "author": "Saovalak Yianggamonsing",
-          "rating": 5,
-          "text": "พนักงานบริการดี คลินิกสะอาด มีมาตรฐานดีค่ะ",
-          "publish_time": "2026-08-28T09:31:19.671951332Z"
-        },
-        {
-          "author": "Wipaporn Phongchok",
-          "rating": 5,
-          "text": "พนักงานอัธยาศัยดี บริการดี คลินิกสะอาดได้มาตรฐานดีค่ะ",
-          "publish_time": "2026-08-27T06:50:28.773160137Z"
         }
       ],
       "daily_log": [
@@ -544,9 +592,15 @@
           "new_reviews": 3,
           "rating": 5,
           "user_ratings_total": 15
+        },
+        {
+          "date": "2026-08-30",
+          "new_reviews": 4,
+          "rating": 5,
+          "user_ratings_total": 19
         }
       ],
-      "last_synced": "2026-08-29T14:02:43Z"
+      "last_synced": "2026-08-30T14:02:23Z"
     },
     {
       "key": "pinklao",
@@ -579,9 +633,15 @@
           "new_reviews": 0,
           "rating": null,
           "user_ratings_total": null
+        },
+        {
+          "date": "2026-08-30",
+          "new_reviews": 0,
+          "rating": null,
+          "user_ratings_total": null
         }
       ],
-      "last_synced": "2026-08-29T14:02:44Z"
+      "last_synced": "2026-08-30T14:02:23Z"
     }
   ]
 }
