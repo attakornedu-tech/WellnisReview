@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T14:02:23Z",
+  "generated_at": "2026-08-31T14:02:30Z",
   "branches": [
     {
       "key": "bang_pu",
@@ -69,9 +69,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 96
+        },
+        {
+          "date": "2026-08-31",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 96
         }
       ],
-      "last_synced": "2026-08-30T14:02:21Z"
+      "last_synced": "2026-08-31T14:02:29Z"
     },
     {
       "key": "saphan_khwai",
@@ -141,9 +147,15 @@
           "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 190
+        },
+        {
+          "date": "2026-08-31",
+          "new_reviews": 0,
+          "rating": 4.8,
+          "user_ratings_total": 190
         }
       ],
-      "last_synced": "2026-08-30T14:02:21Z"
+      "last_synced": "2026-08-31T14:02:29Z"
     },
     {
       "key": "bang_yai",
@@ -213,9 +225,15 @@
           "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 142
+        },
+        {
+          "date": "2026-08-31",
+          "new_reviews": 0,
+          "rating": 4.8,
+          "user_ratings_total": 142
         }
       ],
-      "last_synced": "2026-08-30T14:02:21Z"
+      "last_synced": "2026-08-31T14:02:29Z"
     },
     {
       "key": "rangsit",
@@ -285,9 +303,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 349
+        },
+        {
+          "date": "2026-08-31",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 349
         }
       ],
-      "last_synced": "2026-08-30T14:02:22Z"
+      "last_synced": "2026-08-31T14:02:29Z"
     },
     {
       "key": "pattaya",
@@ -357,9 +381,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 38
+        },
+        {
+          "date": "2026-08-31",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 38
         }
       ],
-      "last_synced": "2026-08-30T14:02:22Z"
+      "last_synced": "2026-08-31T14:02:29Z"
     },
     {
       "key": "chiang_mai",
@@ -429,9 +459,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 15
+        },
+        {
+          "date": "2026-08-31",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 15
         }
       ],
-      "last_synced": "2026-08-30T14:02:22Z"
+      "last_synced": "2026-08-31T14:02:29Z"
     },
     {
       "key": "phra_ram_9",
@@ -501,9 +537,15 @@
           "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 25
+        },
+        {
+          "date": "2026-08-31",
+          "new_reviews": 0,
+          "rating": 4.8,
+          "user_ratings_total": 25
         }
       ],
-      "last_synced": "2026-08-30T14:02:23Z"
+      "last_synced": "2026-08-31T14:02:30Z"
     },
     {
       "key": "bang_na",
@@ -512,33 +554,8 @@
       "status": "ok",
       "rating": 5,
       "user_ratings_total": 19,
-      "new_reviews_today": 4,
-      "today_reviews": [
-        {
-          "author": "Rapee Vibulmangala",
-          "rating": 5,
-          "text": "บริการดีครับ",
-          "publish_time": "2026-08-30T09:51:12.429112887Z"
-        },
-        {
-          "author": "Chocoluka",
-          "rating": 5,
-          "text": "บริการดี",
-          "publish_time": "2026-08-30T07:36:37.388395834Z"
-        },
-        {
-          "author": "Sakda Klinmalee",
-          "rating": 5,
-          "text": "พนักงานบริการดีมากครับ",
-          "publish_time": "2026-08-30T07:33:54.293158907Z"
-        },
-        {
-          "author": "Weerayut Leesongsak",
-          "rating": 5,
-          "text": "บริการดีมาก",
-          "publish_time": "2026-08-30T06:49:58.656229028Z"
-        }
-      ],
+      "new_reviews_today": 0,
+      "today_reviews": [],
       "low_rating_alerts_today": [],
       "last_review_time": "2026-08-30T09:51:12.429112887Z",
       "last_review_relative": "ในสัปดาห์ที่ผ่านมา",
@@ -598,9 +615,15 @@
           "new_reviews": 4,
           "rating": 5,
           "user_ratings_total": 19
+        },
+        {
+          "date": "2026-08-31",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 19
         }
       ],
-      "last_synced": "2026-08-30T14:02:23Z"
+      "last_synced": "2026-08-31T14:02:30Z"
     },
     {
       "key": "pinklao",
@@ -639,9 +662,15 @@
           "new_reviews": 0,
           "rating": null,
           "user_ratings_total": null
+        },
+        {
+          "date": "2026-08-31",
+          "new_reviews": 0,
+          "rating": null,
+          "user_ratings_total": null
         }
       ],
-      "last_synced": "2026-08-30T14:02:23Z"
+      "last_synced": "2026-08-31T14:02:30Z"
     }
   ]
 }
