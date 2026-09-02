@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T14:04:17Z",
+  "generated_at": "2026-09-02T14:03:56Z",
   "branches": [
     {
       "key": "bang_pu",
@@ -81,9 +81,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 96
+        },
+        {
+          "date": "2026-09-02",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 96
         }
       ],
-      "last_synced": "2026-09-01T14:04:14Z"
+      "last_synced": "2026-09-02T14:03:54Z"
     },
     {
       "key": "saphan_khwai",
@@ -165,9 +171,15 @@
           "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 190
+        },
+        {
+          "date": "2026-09-02",
+          "new_reviews": 0,
+          "rating": 4.8,
+          "user_ratings_total": 190
         }
       ],
-      "last_synced": "2026-09-01T14:04:14Z"
+      "last_synced": "2026-09-02T14:03:54Z"
     },
     {
       "key": "bang_yai",
@@ -175,7 +187,7 @@
       "maps_url": "https://maps.app.goo.gl/5cWsxq4fQf7jAGqw9",
       "status": "ok",
       "rating": 4.8,
-      "user_ratings_total": 143,
+      "user_ratings_total": 144,
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
@@ -249,9 +261,15 @@
           "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 143
+        },
+        {
+          "date": "2026-09-02",
+          "new_reviews": 0,
+          "rating": 4.8,
+          "user_ratings_total": 144
         }
       ],
-      "last_synced": "2026-09-01T14:04:15Z"
+      "last_synced": "2026-09-02T14:03:54Z"
     },
     {
       "key": "rangsit",
@@ -333,9 +351,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 350
+        },
+        {
+          "date": "2026-09-02",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 350
         }
       ],
-      "last_synced": "2026-09-01T14:04:15Z"
+      "last_synced": "2026-09-02T14:03:55Z"
     },
     {
       "key": "pattaya",
@@ -417,9 +441,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 38
+        },
+        {
+          "date": "2026-09-02",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 38
         }
       ],
-      "last_synced": "2026-09-01T14:04:15Z"
+      "last_synced": "2026-09-02T14:03:55Z"
     },
     {
       "key": "chiang_mai",
@@ -501,9 +531,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 15
+        },
+        {
+          "date": "2026-09-02",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 15
         }
       ],
-      "last_synced": "2026-09-01T14:04:16Z"
+      "last_synced": "2026-09-02T14:03:55Z"
     },
     {
       "key": "phra_ram_9",
@@ -585,9 +621,15 @@
           "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 25
+        },
+        {
+          "date": "2026-09-02",
+          "new_reviews": 0,
+          "rating": 4.8,
+          "user_ratings_total": 25
         }
       ],
-      "last_synced": "2026-09-01T14:04:16Z"
+      "last_synced": "2026-09-02T14:03:56Z"
     },
     {
       "key": "bang_na",
@@ -596,15 +638,8 @@
       "status": "ok",
       "rating": 5,
       "user_ratings_total": 20,
-      "new_reviews_today": 1,
-      "today_reviews": [
-        {
-          "author": "Kittipong Petchwong",
-          "rating": 5,
-          "text": "สะดวกอยู่ใกล้ถนนใหญ่",
-          "publish_time": "2026-09-01T08:04:53.075796480Z"
-        }
-      ],
+      "new_reviews_today": 0,
+      "today_reviews": [],
       "low_rating_alerts_today": [],
       "last_review_time": "2026-09-01T08:04:53.075796480Z",
       "last_review_relative": "ในสัปดาห์ที่ผ่านมา",
@@ -676,9 +711,15 @@
           "new_reviews": 1,
           "rating": 5,
           "user_ratings_total": 20
+        },
+        {
+          "date": "2026-09-02",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 20
         }
       ],
-      "last_synced": "2026-09-01T14:04:16Z"
+      "last_synced": "2026-09-02T14:03:56Z"
     },
     {
       "key": "pinklao",
@@ -729,9 +770,15 @@
           "new_reviews": 0,
           "rating": null,
           "user_ratings_total": null
+        },
+        {
+          "date": "2026-09-02",
+          "new_reviews": 0,
+          "rating": null,
+          "user_ratings_total": null
         }
       ],
-      "last_synced": "2026-09-01T14:04:17Z"
+      "last_synced": "2026-09-02T14:03:56Z"
     }
   ]
 }
