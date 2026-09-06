@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T14:03:36Z",
+  "generated_at": "2026-09-06T14:03:44Z",
   "branches": [
     {
       "key": "bang_pu",
@@ -105,9 +105,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 97
+        },
+        {
+          "date": "2026-09-06",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 97
         }
       ],
-      "last_synced": "2026-09-05T14:03:35Z"
+      "last_synced": "2026-09-06T14:03:42Z"
     },
     {
       "key": "saphan_khwai",
@@ -213,9 +219,15 @@
           "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 190
+        },
+        {
+          "date": "2026-09-06",
+          "new_reviews": 0,
+          "rating": 4.8,
+          "user_ratings_total": 190
         }
       ],
-      "last_synced": "2026-09-05T14:03:35Z"
+      "last_synced": "2026-09-06T14:03:43Z"
     },
     {
       "key": "bang_yai",
@@ -223,7 +235,7 @@
       "maps_url": "https://maps.app.goo.gl/5cWsxq4fQf7jAGqw9",
       "status": "ok",
       "rating": 4.9,
-      "user_ratings_total": 148,
+      "user_ratings_total": 149,
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
@@ -321,9 +333,15 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 148
+        },
+        {
+          "date": "2026-09-06",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 149
         }
       ],
-      "last_synced": "2026-09-05T14:03:35Z"
+      "last_synced": "2026-09-06T14:03:43Z"
     },
     {
       "key": "rangsit",
@@ -429,9 +447,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 352
+        },
+        {
+          "date": "2026-09-06",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 352
         }
       ],
-      "last_synced": "2026-09-05T14:03:36Z"
+      "last_synced": "2026-09-06T14:03:43Z"
     },
     {
       "key": "pattaya",
@@ -537,9 +561,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 38
+        },
+        {
+          "date": "2026-09-06",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 38
         }
       ],
-      "last_synced": "2026-09-05T14:03:36Z"
+      "last_synced": "2026-09-06T14:03:43Z"
     },
     {
       "key": "chiang_mai",
@@ -645,9 +675,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 15
+        },
+        {
+          "date": "2026-09-06",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 15
         }
       ],
-      "last_synced": "2026-09-05T14:03:36Z"
+      "last_synced": "2026-09-06T14:03:43Z"
     },
     {
       "key": "phra_ram_9",
@@ -753,9 +789,15 @@
           "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 25
+        },
+        {
+          "date": "2026-09-06",
+          "new_reviews": 0,
+          "rating": 4.8,
+          "user_ratings_total": 25
         }
       ],
-      "last_synced": "2026-09-05T14:03:36Z"
+      "last_synced": "2026-09-06T14:03:43Z"
     },
     {
       "key": "bang_na",
@@ -861,9 +903,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 20
+        },
+        {
+          "date": "2026-09-06",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 20
         }
       ],
-      "last_synced": "2026-09-05T14:03:36Z"
+      "last_synced": "2026-09-06T14:03:43Z"
     },
     {
       "key": "pinklao",
@@ -938,9 +986,15 @@
           "new_reviews": 0,
           "rating": null,
           "user_ratings_total": null
+        },
+        {
+          "date": "2026-09-06",
+          "new_reviews": 0,
+          "rating": null,
+          "user_ratings_total": null
         }
       ],
-      "last_synced": "2026-09-05T14:03:36Z"
+      "last_synced": "2026-09-06T14:03:44Z"
     }
   ]
 }

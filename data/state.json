@@ -61,12 +61,18 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 20
+        },
+        {
+          "date": "2026-09-06",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 20
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=13066266656441145210&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "ในสัปดาห์ที่ผ่านมา",
       "last_review_time": "2026-09-01T08:04:53.075796480Z",
-      "last_synced": "2026-09-05T14:03:36Z",
+      "last_synced": "2026-09-06T14:03:43Z",
       "rating": 5,
       "recent_reviews": [
         {
@@ -82,7 +88,7 @@
           "name": "places/ChIJsfWPfxdfHTERepe0xUu0VLU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSNk1VWmFjVWx2V214YWIyUXdObGhNUW1wYVYxRRAB",
           "publish_time": "2026-08-30T09:51:12.429112887Z",
           "rating": 5,
-          "relative_time": "ในสัปดาห์ที่ผ่านมา",
+          "relative_time": "สัปดาห์ที่แล้ว",
           "text": "บริการดีครับ"
         },
         {
@@ -90,7 +96,7 @@
           "name": "places/ChIJsfWPfxdfHTERepe0xUu0VLU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5MFZGWllTWEYwWVhWV1V6WkRlbTFRWHpkZk1tYxAB",
           "publish_time": "2026-08-30T07:36:37.388395834Z",
           "rating": 5,
-          "relative_time": "ในสัปดาห์ที่ผ่านมา",
+          "relative_time": "สัปดาห์ที่แล้ว",
           "text": "บริการดี"
         },
         {
@@ -98,7 +104,7 @@
           "name": "places/ChIJsfWPfxdfHTERepe0xUu0VLU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tJNVNXSnJjRU5XZEVKWFFVUTVhRWh4VHpGbVpGRRAB",
           "publish_time": "2026-08-30T07:33:54.293158907Z",
           "rating": 5,
-          "relative_time": "ในสัปดาห์ที่ผ่านมา",
+          "relative_time": "สัปดาห์ที่แล้ว",
           "text": "พนักงานบริการดีมากครับ"
         },
         {
@@ -106,7 +112,7 @@
           "name": "places/ChIJsfWPfxdfHTERepe0xUu0VLU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SUGMydE9NSFp1ZVdaNkxUZEtVa0ZyUm5kWFIyYxAB",
           "publish_time": "2026-08-30T06:49:58.656229028Z",
           "rating": 5,
-          "relative_time": "ในสัปดาห์ที่ผ่านมา",
+          "relative_time": "สัปดาห์ที่แล้ว",
           "text": "บริการดีมาก"
         }
       ],
@@ -173,12 +179,18 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 97
+        },
+        {
+          "date": "2026-09-06",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 97
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=4772761812627584046&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "2 เดือนที่แล้ว",
       "last_review_time": "2026-06-19T14:54:14.166524015Z",
-      "last_synced": "2026-09-05T14:03:35Z",
+      "last_synced": "2026-09-06T14:03:42Z",
       "rating": 4.7,
       "recent_reviews": [
         {
@@ -285,12 +297,18 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 148
+        },
+        {
+          "date": "2026-09-06",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 149
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=16287447197378131024&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "เดือนที่แล้ว",
       "last_review_time": "2026-07-13T09:59:10.505906834Z",
-      "last_synced": "2026-09-05T14:03:35Z",
+      "last_synced": "2026-09-06T14:03:43Z",
       "rating": 4.9,
       "recent_reviews": [
         {
@@ -334,7 +352,7 @@
           "text": "พนักงานน่ารักทุกคนค่ะมาครั้งแรก ประทับใจ แต่ผลลัพธ์ต้องดูอีกทีค่ะ  เห็นผลยังไงจะมารีวิวเพิ่มเติมให้ค่ะ"
         }
       ],
-      "user_ratings_total": 148
+      "user_ratings_total": 149
     },
     "chiang_mai": {
       "daily_log": [
@@ -397,12 +415,18 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 15
+        },
+        {
+          "date": "2026-09-06",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 15
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=8374106017266278080&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "2 เดือนที่แล้ว",
       "last_review_time": "2026-06-12T14:17:53.675719159Z",
-      "last_synced": "2026-09-05T14:03:36Z",
+      "last_synced": "2026-09-06T14:03:43Z",
       "rating": 5,
       "recent_reviews": [
         {
@@ -509,12 +533,18 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 38
+        },
+        {
+          "date": "2026-09-06",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 38
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=13495116063067392428&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "เดือนที่แล้ว",
       "last_review_time": "2026-07-13T04:15:46.841665347Z",
-      "last_synced": "2026-09-05T14:03:36Z",
+      "last_synced": "2026-09-06T14:03:43Z",
       "rating": 5,
       "recent_reviews": [
         {
@@ -621,12 +651,18 @@
           "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 25
+        },
+        {
+          "date": "2026-09-06",
+          "new_reviews": 0,
+          "rating": 4.8,
+          "user_ratings_total": 25
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=8978487306560231518&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "เดือนที่แล้ว",
       "last_review_time": "2026-08-06T05:03:42.559095109Z",
-      "last_synced": "2026-09-05T14:03:36Z",
+      "last_synced": "2026-09-06T14:03:43Z",
       "rating": 4.8,
       "recent_reviews": [
         {
@@ -733,12 +769,18 @@
           "new_reviews": 0,
           "rating": null,
           "user_ratings_total": null
+        },
+        {
+          "date": "2026-09-06",
+          "new_reviews": 0,
+          "rating": null,
+          "user_ratings_total": null
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=1801119609578184508&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "",
       "last_review_time": null,
-      "last_synced": "2026-09-05T14:03:36Z",
+      "last_synced": "2026-09-06T14:03:44Z",
       "rating": null,
       "recent_reviews": [],
       "user_ratings_total": null
@@ -804,12 +846,18 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 352
+        },
+        {
+          "date": "2026-09-06",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 352
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=6627011122346499865&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "4 เดือนที่แล้ว",
       "last_review_time": "2026-05-07T11:38:00.785442698Z",
-      "last_synced": "2026-09-05T14:03:36Z",
+      "last_synced": "2026-09-06T14:03:43Z",
       "rating": 5,
       "recent_reviews": [
         {
@@ -916,12 +964,18 @@
           "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 190
+        },
+        {
+          "date": "2026-09-06",
+          "new_reviews": 0,
+          "rating": 4.8,
+          "user_ratings_total": 190
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=16047547344402416693&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "4 สัปดาห์ที่แล้ว",
       "last_review_time": "2026-08-08T07:05:17.513278711Z",
-      "last_synced": "2026-09-05T14:03:35Z",
+      "last_synced": "2026-09-06T14:03:43Z",
       "rating": 4.8,
       "recent_reviews": [
         {
