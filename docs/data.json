@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T14:03:44Z",
+  "generated_at": "2026-09-07T14:04:02Z",
   "branches": [
     {
       "key": "bang_pu",
@@ -111,9 +111,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 97
+        },
+        {
+          "date": "2026-09-07",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 97
         }
       ],
-      "last_synced": "2026-09-06T14:03:42Z"
+      "last_synced": "2026-09-07T14:04:01Z"
     },
     {
       "key": "saphan_khwai",
@@ -121,12 +127,12 @@
       "maps_url": "https://maps.app.goo.gl/dKbqCxBubmLV5uhG6",
       "status": "ok",
       "rating": 4.8,
-      "user_ratings_total": 190,
+      "user_ratings_total": 191,
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
       "last_review_time": "2026-08-08T07:05:17.513278711Z",
-      "last_review_relative": "4 สัปดาห์ที่แล้ว",
+      "last_review_relative": "เดือนที่แล้ว",
       "recent_reviews": [
         {
           "author": "Pornlada Chaijaroen",
@@ -225,9 +231,15 @@
           "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 190
+        },
+        {
+          "date": "2026-09-07",
+          "new_reviews": 0,
+          "rating": 4.8,
+          "user_ratings_total": 191
         }
       ],
-      "last_synced": "2026-09-06T14:03:43Z"
+      "last_synced": "2026-09-07T14:04:01Z"
     },
     {
       "key": "bang_yai",
@@ -339,9 +351,15 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 149
+        },
+        {
+          "date": "2026-09-07",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 149
         }
       ],
-      "last_synced": "2026-09-06T14:03:43Z"
+      "last_synced": "2026-09-07T14:04:01Z"
     },
     {
       "key": "rangsit",
@@ -453,9 +471,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 352
+        },
+        {
+          "date": "2026-09-07",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 352
         }
       ],
-      "last_synced": "2026-09-06T14:03:43Z"
+      "last_synced": "2026-09-07T14:04:01Z"
     },
     {
       "key": "pattaya",
@@ -567,9 +591,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 38
+        },
+        {
+          "date": "2026-09-07",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 38
         }
       ],
-      "last_synced": "2026-09-06T14:03:43Z"
+      "last_synced": "2026-09-07T14:04:02Z"
     },
     {
       "key": "chiang_mai",
@@ -681,9 +711,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 15
+        },
+        {
+          "date": "2026-09-07",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 15
         }
       ],
-      "last_synced": "2026-09-06T14:03:43Z"
+      "last_synced": "2026-09-07T14:04:02Z"
     },
     {
       "key": "phra_ram_9",
@@ -795,9 +831,15 @@
           "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 25
+        },
+        {
+          "date": "2026-09-07",
+          "new_reviews": 0,
+          "rating": 4.8,
+          "user_ratings_total": 25
         }
       ],
-      "last_synced": "2026-09-06T14:03:43Z"
+      "last_synced": "2026-09-07T14:04:02Z"
     },
     {
       "key": "bang_na",
@@ -909,9 +951,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 20
+        },
+        {
+          "date": "2026-09-07",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 20
         }
       ],
-      "last_synced": "2026-09-06T14:03:43Z"
+      "last_synced": "2026-09-07T14:04:02Z"
     },
     {
       "key": "pinklao",
@@ -992,9 +1040,15 @@
           "new_reviews": 0,
           "rating": null,
           "user_ratings_total": null
+        },
+        {
+          "date": "2026-09-07",
+          "new_reviews": 0,
+          "rating": null,
+          "user_ratings_total": null
         }
       ],
-      "last_synced": "2026-09-06T14:03:44Z"
+      "last_synced": "2026-09-07T14:04:02Z"
     }
   ]
 }
