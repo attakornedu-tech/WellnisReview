@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T14:03:53Z",
+  "generated_at": "2026-09-12T14:03:37Z",
   "branches": [
     {
       "key": "bang_pu",
@@ -39,10 +39,10 @@
           "publish_time": "2026-04-27T07:24:45.336123812Z"
         },
         {
-          "author": "Wichit Ruanchai",
+          "author": "ศตายุ มะสีโย",
           "rating": 5,
-          "text": "เจ้าหน้าที่ดูแลดี ถามติดตามการรักษา เป็นประจำ และ โทรแจ้งเตือน/นัดหมาย เพื่อยืนยัน ก่อนเข้ารักษา เพื่อนกันลูกค้าลืม ช่วยเตือนความจำดีครับ",
-          "publish_time": "2025-11-13T11:49:40.941779625Z"
+          "text": "น้องพนักงานเจ้าหน้าที่และคุณหมอน่ารักเป็นกันเองให้คำแนะนำอย่างครบถ้วนตรงไปตรงมาครับราคาน่ารักสมเหตุสมผลครับ\nโดยรวมแล้วชื่นชอบประทับใจครับ",
+          "publish_time": "2025-10-21T15:02:45.306533169Z"
         }
       ],
       "daily_log": [
@@ -141,9 +141,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 97
+        },
+        {
+          "date": "2026-09-12",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 97
         }
       ],
-      "last_synced": "2026-09-11T14:03:52Z"
+      "last_synced": "2026-09-12T14:03:35Z"
     },
     {
       "key": "saphan_khwai",
@@ -285,9 +291,15 @@
           "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 191
+        },
+        {
+          "date": "2026-09-12",
+          "new_reviews": 0,
+          "rating": 4.8,
+          "user_ratings_total": 191
         }
       ],
-      "last_synced": "2026-09-11T14:03:52Z"
+      "last_synced": "2026-09-12T14:03:35Z"
     },
     {
       "key": "bang_yai",
@@ -429,9 +441,15 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 149
+        },
+        {
+          "date": "2026-09-12",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 149
         }
       ],
-      "last_synced": "2026-09-11T14:03:52Z"
+      "last_synced": "2026-09-12T14:03:35Z"
     },
     {
       "key": "rangsit",
@@ -439,7 +457,7 @@
       "maps_url": "https://maps.app.goo.gl/uj3Pvc3VCqMZJZvW9",
       "status": "ok",
       "rating": 5,
-      "user_ratings_total": 354,
+      "user_ratings_total": 355,
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
@@ -573,9 +591,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 354
+        },
+        {
+          "date": "2026-09-12",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 355
         }
       ],
-      "last_synced": "2026-09-11T14:03:52Z"
+      "last_synced": "2026-09-12T14:03:35Z"
     },
     {
       "key": "pattaya",
@@ -717,9 +741,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 38
+        },
+        {
+          "date": "2026-09-12",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 38
         }
       ],
-      "last_synced": "2026-09-11T14:03:52Z"
+      "last_synced": "2026-09-12T14:03:36Z"
     },
     {
       "key": "chiang_mai",
@@ -861,9 +891,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 15
+        },
+        {
+          "date": "2026-09-12",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 15
         }
       ],
-      "last_synced": "2026-09-11T14:03:52Z"
+      "last_synced": "2026-09-12T14:03:36Z"
     },
     {
       "key": "phra_ram_9",
@@ -1005,9 +1041,15 @@
           "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 26
+        },
+        {
+          "date": "2026-09-12",
+          "new_reviews": 0,
+          "rating": 4.8,
+          "user_ratings_total": 26
         }
       ],
-      "last_synced": "2026-09-11T14:03:52Z"
+      "last_synced": "2026-09-12T14:03:36Z"
     },
     {
       "key": "bang_na",
@@ -1149,23 +1191,43 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 21
+        },
+        {
+          "date": "2026-09-12",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 21
         }
       ],
-      "last_synced": "2026-09-11T14:03:53Z"
+      "last_synced": "2026-09-12T14:03:36Z"
     },
     {
       "key": "pinklao",
       "name": "สาขาปิ่นเกล้า",
       "maps_url": "https://maps.app.goo.gl/oDTCRKE8FNx3c4z29",
       "status": "ok",
-      "rating": null,
-      "user_ratings_total": null,
-      "new_reviews_today": 0,
-      "today_reviews": [],
+      "rating": 5,
+      "user_ratings_total": 1,
+      "new_reviews_today": 1,
+      "today_reviews": [
+        {
+          "author": "Nonthiphat Pakvipasthawat",
+          "rating": 5,
+          "text": "คุณหมอกับพนักงานน่ารักมาก เป็นกันเองไม่มีการบังคับขายคอร์สให้เราตัดสินใจเองสถานที่ดีมีที่จอดรถสะอาดสะอ้านดี",
+          "publish_time": "2026-09-12T08:09:55.286370342Z"
+        }
+      ],
       "low_rating_alerts_today": [],
-      "last_review_time": null,
-      "last_review_relative": "",
-      "recent_reviews": [],
+      "last_review_time": "2026-09-12T08:09:55.286370342Z",
+      "last_review_relative": "ในสัปดาห์ที่ผ่านมา",
+      "recent_reviews": [
+        {
+          "author": "Nonthiphat Pakvipasthawat",
+          "rating": 5,
+          "text": "คุณหมอกับพนักงานน่ารักมาก เป็นกันเองไม่มีการบังคับขายคอร์สให้เราตัดสินใจเองสถานที่ดีมีที่จอดรถสะอาดสะอ้านดี",
+          "publish_time": "2026-09-12T08:09:55.286370342Z"
+        }
+      ],
       "daily_log": [
         {
           "date": "2026-08-25",
@@ -1262,9 +1324,15 @@
           "new_reviews": 0,
           "rating": null,
           "user_ratings_total": null
+        },
+        {
+          "date": "2026-09-12",
+          "new_reviews": 1,
+          "rating": 5,
+          "user_ratings_total": 1
         }
       ],
-      "last_synced": "2026-09-11T14:03:53Z"
+      "last_synced": "2026-09-12T14:03:37Z"
     }
   ]
 }
