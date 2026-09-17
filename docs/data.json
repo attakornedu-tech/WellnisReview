@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T14:04:45Z",
+  "generated_at": "2026-09-17T14:04:22Z",
   "branches": [
     {
       "key": "bang_pu",
@@ -11,9 +11,15 @@
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
-      "last_review_time": "2026-06-19T14:54:14.166524015Z",
-      "last_review_relative": "2 เดือนที่แล้ว",
+      "last_review_time": "2026-08-24T09:43:27.571000312Z",
+      "last_review_relative": "3 สัปดาห์ที่แล้ว",
       "recent_reviews": [
+        {
+          "author": "Waranrach TEC.",
+          "rating": 5,
+          "text": "คุณหมอให้คำแนะนำดีมาก เข้าใจถึงปัญหาที่เราเข้าไปรักษา พนักงานบริการดี พื้นที่คลินิค สวย สะอาด มีพื้นที่นั่งรอเยอะ ที่จอดรถกว้างขวางสะดวกสบาย กับผู้ใช้บริการดีคะ",
+          "publish_time": "2026-08-24T09:43:27.571000312Z"
+        },
         {
           "author": "สุมณี พยอมหอม",
           "rating": 3,
@@ -37,12 +43,6 @@
           "rating": 5,
           "text": "บริการดีเยี่ยมนัดหมายตรงตามเวลา",
           "publish_time": "2026-04-27T07:24:45.336123812Z"
-        },
-        {
-          "author": "ศตายุ มะสีโย",
-          "rating": 5,
-          "text": "น้องพนักงานเจ้าหน้าที่และคุณหมอน่ารักเป็นกันเองให้คำแนะนำอย่างครบถ้วนตรงไปตรงมาครับราคาน่ารักสมเหตุสมผลครับ\nโดยรวมแล้วชื่นชอบประทับใจครับ",
-          "publish_time": "2025-10-21T15:02:45.306533169Z"
         }
       ],
       "daily_log": [
@@ -171,9 +171,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 97
+        },
+        {
+          "date": "2026-09-17",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 97
         }
       ],
-      "last_synced": "2026-09-16T14:04:43Z"
+      "last_synced": "2026-09-17T14:04:20Z"
     },
     {
       "key": "saphan_khwai",
@@ -345,9 +351,15 @@
           "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 191
+        },
+        {
+          "date": "2026-09-17",
+          "new_reviews": 0,
+          "rating": 4.8,
+          "user_ratings_total": 191
         }
       ],
-      "last_synced": "2026-09-16T14:04:43Z"
+      "last_synced": "2026-09-17T14:04:20Z"
     },
     {
       "key": "bang_yai",
@@ -519,9 +531,15 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 149
+        },
+        {
+          "date": "2026-09-17",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 149
         }
       ],
-      "last_synced": "2026-09-16T14:04:43Z"
+      "last_synced": "2026-09-17T14:04:21Z"
     },
     {
       "key": "rangsit",
@@ -693,9 +711,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 356
+        },
+        {
+          "date": "2026-09-17",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 356
         }
       ],
-      "last_synced": "2026-09-16T14:04:44Z"
+      "last_synced": "2026-09-17T14:04:21Z"
     },
     {
       "key": "pattaya",
@@ -867,9 +891,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 38
+        },
+        {
+          "date": "2026-09-17",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 38
         }
       ],
-      "last_synced": "2026-09-16T14:04:44Z"
+      "last_synced": "2026-09-17T14:04:21Z"
     },
     {
       "key": "chiang_mai",
@@ -1041,9 +1071,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 15
+        },
+        {
+          "date": "2026-09-17",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 15
         }
       ],
-      "last_synced": "2026-09-16T14:04:44Z"
+      "last_synced": "2026-09-17T14:04:21Z"
     },
     {
       "key": "phra_ram_9",
@@ -1215,9 +1251,15 @@
           "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 26
+        },
+        {
+          "date": "2026-09-17",
+          "new_reviews": 0,
+          "rating": 4.8,
+          "user_ratings_total": 26
         }
       ],
-      "last_synced": "2026-09-16T14:04:45Z"
+      "last_synced": "2026-09-17T14:04:22Z"
     },
     {
       "key": "bang_na",
@@ -1229,15 +1271,9 @@
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
-      "last_review_time": "2026-08-30T07:36:37.388395834Z",
+      "last_review_time": "2026-08-28T09:31:19.671951332Z",
       "last_review_relative": "2 สัปดาห์ที่แล้ว",
       "recent_reviews": [
-        {
-          "author": "Chocoluka",
-          "rating": 5,
-          "text": "บริการดี",
-          "publish_time": "2026-08-30T07:36:37.388395834Z"
-        },
         {
           "author": "Saovalak Yianggamonsing",
           "rating": 5,
@@ -1255,6 +1291,12 @@
           "rating": 5,
           "text": "บริการดีค่ะ สถานที่สะอาด รักษาที่นี้อาการดีขึ้นผมหนาขึ้น",
           "publish_time": "2026-08-26T05:50:07.063739458Z"
+        },
+        {
+          "author": "Thanyachanok Tosri",
+          "rating": 5,
+          "text": "คลินิกสะอาดมากค่ะ บรรยากาศดี ตึกโปร่ง แสงสว่างเข้าถึง ไม่รู้สึกมืดหรืออึดอัดเลย พนักงานบริการดี พูดจาสุภาพและให้คำแนะนำดีมากค่ะ โดยรวมประทับใจตั้งแต่เข้ามาเลย",
+          "publish_time": "2026-08-25T12:05:46.278957678Z"
         },
         {
           "author": "ชนาภา สุวรรณรัตน์",
@@ -1389,9 +1431,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 21
+        },
+        {
+          "date": "2026-09-17",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 21
         }
       ],
-      "last_synced": "2026-09-16T14:04:45Z"
+      "last_synced": "2026-09-17T14:04:22Z"
     },
     {
       "key": "pinklao",
@@ -1539,9 +1587,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 1
+        },
+        {
+          "date": "2026-09-17",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 1
         }
       ],
-      "last_synced": "2026-09-16T14:04:45Z"
+      "last_synced": "2026-09-17T14:04:22Z"
     }
   ]
 }
