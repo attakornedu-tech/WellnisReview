@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T14:04:22Z",
+  "generated_at": "2026-09-18T14:03:56Z",
   "branches": [
     {
       "key": "bang_pu",
@@ -177,9 +177,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 97
+        },
+        {
+          "date": "2026-09-18",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 97
         }
       ],
-      "last_synced": "2026-09-17T14:04:20Z"
+      "last_synced": "2026-09-18T14:03:55Z"
     },
     {
       "key": "saphan_khwai",
@@ -357,9 +363,15 @@
           "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 191
+        },
+        {
+          "date": "2026-09-18",
+          "new_reviews": 0,
+          "rating": 4.8,
+          "user_ratings_total": 191
         }
       ],
-      "last_synced": "2026-09-17T14:04:20Z"
+      "last_synced": "2026-09-18T14:03:55Z"
     },
     {
       "key": "bang_yai",
@@ -537,9 +549,15 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 149
+        },
+        {
+          "date": "2026-09-18",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 149
         }
       ],
-      "last_synced": "2026-09-17T14:04:21Z"
+      "last_synced": "2026-09-18T14:03:55Z"
     },
     {
       "key": "rangsit",
@@ -717,9 +735,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 356
+        },
+        {
+          "date": "2026-09-18",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 356
         }
       ],
-      "last_synced": "2026-09-17T14:04:21Z"
+      "last_synced": "2026-09-18T14:03:55Z"
     },
     {
       "key": "pattaya",
@@ -731,15 +755,9 @@
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
-      "last_review_time": "2026-08-10T05:31:28.583952700Z",
-      "last_review_relative": "เดือนที่แล้ว",
+      "last_review_time": "2026-07-13T04:15:46.841665347Z",
+      "last_review_relative": "2 เดือนที่แล้ว",
       "recent_reviews": [
-        {
-          "author": "sirisiri Jsk",
-          "rating": 5,
-          "text": "ประทับใจ ทุกๆครั้งที่มา พนักงานดูแลเอาใจใส่ดีมากๆๆ❤️❤️❤️",
-          "publish_time": "2026-08-10T05:31:28.583952700Z"
-        },
         {
           "author": "louis Jamsai",
           "rating": 5,
@@ -757,6 +775,12 @@
           "rating": 5,
           "text": "คลินิกบริการดี พนักงาน เจ้าหน้าที่ทุกคนดูแลดีมาก ทำมาได้ 3 เดือนรู้สึกผมหนาขึ้นแล้วครับ",
           "publish_time": "2026-07-04T04:37:27.777568605Z"
+        },
+        {
+          "author": "Thunchanok",
+          "rating": 5,
+          "text": "มีปัญหาผมร่วง มาระยะหนึ่งแล้วเกิดจากหลายปัจจัย และรู้สึกกังวัลหนักมาก แล้ว ก็หาคลินิก ที่มีลูกค้ามาใช้บริการดีมาก ก็ตัดสินใจมา ครั้งแรกก็เข้ามาพบคุณหมอ คุณหมอและน้องๆที่คลินิกน่ารักมากๆ บริการดี และ ครั้งแรก ก็ประทับใจ ครั้งที่ 1 ก็ดี ค่ะ ครั้งนี้ครั้งที่ 5 ผมที่ร่วงดรขึ้นมาก จากที่เคยกังวล ก็ดีขึ้น ผมง่วงใหม่เพิ่มขึ้น ขอแนะนำค่ะ บริการดีจริงไปค่ะ",
+          "publish_time": "2026-04-27T07:32:59.937482485Z"
         },
         {
           "author": "Noeynee Jaidee",
@@ -897,9 +921,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 38
+        },
+        {
+          "date": "2026-09-18",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 38
         }
       ],
-      "last_synced": "2026-09-17T14:04:21Z"
+      "last_synced": "2026-09-18T14:03:55Z"
     },
     {
       "key": "chiang_mai",
@@ -1077,9 +1107,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 15
+        },
+        {
+          "date": "2026-09-18",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 15
         }
       ],
-      "last_synced": "2026-09-17T14:04:21Z"
+      "last_synced": "2026-09-18T14:03:56Z"
     },
     {
       "key": "phra_ram_9",
@@ -1257,9 +1293,15 @@
           "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 26
+        },
+        {
+          "date": "2026-09-18",
+          "new_reviews": 0,
+          "rating": 4.8,
+          "user_ratings_total": 26
         }
       ],
-      "last_synced": "2026-09-17T14:04:22Z"
+      "last_synced": "2026-09-18T14:03:56Z"
     },
     {
       "key": "bang_na",
@@ -1271,9 +1313,15 @@
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
-      "last_review_time": "2026-08-28T09:31:19.671951332Z",
+      "last_review_time": "2026-09-01T08:04:53.075796480Z",
       "last_review_relative": "2 สัปดาห์ที่แล้ว",
       "recent_reviews": [
+        {
+          "author": "Kittipong Petchwong",
+          "rating": 5,
+          "text": "สะดวกอยู่ใกล้ถนนใหญ่",
+          "publish_time": "2026-09-01T08:04:53.075796480Z"
+        },
         {
           "author": "Saovalak Yianggamonsing",
           "rating": 5,
@@ -1285,12 +1333,6 @@
           "rating": 5,
           "text": "พนักงานอัธยาศัยดี บริการดี คลินิกสะอาดได้มาตรฐานดีค่ะ",
           "publish_time": "2026-08-27T06:50:28.773160137Z"
-        },
-        {
-          "author": "Beam Naruewan",
-          "rating": 5,
-          "text": "บริการดีค่ะ สถานที่สะอาด รักษาที่นี้อาการดีขึ้นผมหนาขึ้น",
-          "publish_time": "2026-08-26T05:50:07.063739458Z"
         },
         {
           "author": "Thanyachanok Tosri",
@@ -1437,9 +1479,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 21
+        },
+        {
+          "date": "2026-09-18",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 21
         }
       ],
-      "last_synced": "2026-09-17T14:04:22Z"
+      "last_synced": "2026-09-18T14:03:56Z"
     },
     {
       "key": "pinklao",
@@ -1593,9 +1641,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 1
+        },
+        {
+          "date": "2026-09-18",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 1
         }
       ],
-      "last_synced": "2026-09-17T14:04:22Z"
+      "last_synced": "2026-09-18T14:03:56Z"
     }
   ]
 }
