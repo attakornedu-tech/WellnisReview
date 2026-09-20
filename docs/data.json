@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T14:03:51Z",
+  "generated_at": "2026-09-20T14:03:32Z",
   "branches": [
     {
       "key": "bang_pu",
@@ -189,9 +189,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 97
+        },
+        {
+          "date": "2026-09-20",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 97
         }
       ],
-      "last_synced": "2026-09-19T14:03:49Z"
+      "last_synced": "2026-09-20T14:03:31Z"
     },
     {
       "key": "saphan_khwai",
@@ -381,9 +387,15 @@
           "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 191
+        },
+        {
+          "date": "2026-09-20",
+          "new_reviews": 0,
+          "rating": 4.8,
+          "user_ratings_total": 191
         }
       ],
-      "last_synced": "2026-09-19T14:03:49Z"
+      "last_synced": "2026-09-20T14:03:31Z"
     },
     {
       "key": "bang_yai",
@@ -405,6 +417,12 @@
           "publish_time": "2026-09-05T12:20:22.040364880Z"
         },
         {
+          "author": "Kitisak Komol",
+          "rating": 5,
+          "text": "คุณหมอให้คำปรึกษาแนะนำดีมากครับ การบริการดีครับเดินทางสดวก",
+          "publish_time": "2026-09-02T12:03:06.532899596Z"
+        },
+        {
           "author": "Narisphong",
           "rating": 5,
           "text": "คุณหมอและเจ้าหน้าที่ให้คำปรึกษาดีมาก รู้สาเหตุที่แท้จริงและต้องแก้ยังไง แนะนำให้มาปรึกษาเลยครับ #ผมหนาได้ไม่ง้อปลูก",
@@ -415,12 +433,6 @@
           "rating": 5,
           "text": "พนักงานบริการดีสุภาพเป็นกันเองน่ารักรับฟังปัญหาที่ลูกค้ากังวลใจได้ดีไม่เสนอขายคอร์ทจนกดดันดีมากๆๆๆให้ลูกค้ารู้สึกสบายใจ",
           "publish_time": "2026-06-24T08:57:29.924961473Z"
-        },
-        {
-          "author": "Chanchanok Supath",
-          "rating": 5,
-          "text": "ตอนแรกสิ้นหวังกะผมตัวเองละ เป็นเซปเดิร์มด้วย ซื้ออะไรใช้ก็ไม่หาย ร่วงอยู่อย่างนั้น มารักษาที่นี่มีซื้อ hair regrowth, hair repair, prp ไม่ได้คาดหวังมาก แต่สรุปดีขึ้นชัดเลย แค่สี่เดือน (ทำทุกสองอาทิตย์) พบาบาล หมอ เจ้าหน้าที่ ดีหมด ตอนนี้ก็มาน้อยลงแต่จะยังมาเช็คเป็นระยะ ประทับใจมากครับ แนะนำ",
-          "publish_time": "2026-06-20T06:30:44.664792357Z"
         },
         {
           "author": "bee วรี",
@@ -573,9 +585,15 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 149
+        },
+        {
+          "date": "2026-09-20",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 149
         }
       ],
-      "last_synced": "2026-09-19T14:03:50Z"
+      "last_synced": "2026-09-20T14:03:31Z"
     },
     {
       "key": "rangsit",
@@ -765,9 +783,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 357
+        },
+        {
+          "date": "2026-09-20",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 357
         }
       ],
-      "last_synced": "2026-09-19T14:03:50Z"
+      "last_synced": "2026-09-20T14:03:31Z"
     },
     {
       "key": "pattaya",
@@ -779,9 +803,15 @@
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
-      "last_review_time": "2026-07-13T04:15:46.841665347Z",
-      "last_review_relative": "2 เดือนที่แล้ว",
+      "last_review_time": "2026-08-10T05:31:28.583952700Z",
+      "last_review_relative": "เดือนที่แล้ว",
       "recent_reviews": [
+        {
+          "author": "sirisiri Jsk",
+          "rating": 5,
+          "text": "ประทับใจ ทุกๆครั้งที่มา พนักงานดูแลเอาใจใส่ดีมากๆๆ❤️❤️❤️",
+          "publish_time": "2026-08-10T05:31:28.583952700Z"
+        },
         {
           "author": "louis Jamsai",
           "rating": 5,
@@ -799,12 +829,6 @@
           "rating": 5,
           "text": "คลินิกบริการดี พนักงาน เจ้าหน้าที่ทุกคนดูแลดีมาก ทำมาได้ 3 เดือนรู้สึกผมหนาขึ้นแล้วครับ",
           "publish_time": "2026-07-04T04:37:27.777568605Z"
-        },
-        {
-          "author": "Thunchanok",
-          "rating": 5,
-          "text": "มีปัญหาผมร่วง มาระยะหนึ่งแล้วเกิดจากหลายปัจจัย และรู้สึกกังวัลหนักมาก แล้ว ก็หาคลินิก ที่มีลูกค้ามาใช้บริการดีมาก ก็ตัดสินใจมา ครั้งแรกก็เข้ามาพบคุณหมอ คุณหมอและน้องๆที่คลินิกน่ารักมากๆ บริการดี และ ครั้งแรก ก็ประทับใจ ครั้งที่ 1 ก็ดี ค่ะ ครั้งนี้ครั้งที่ 5 ผมที่ร่วงดรขึ้นมาก จากที่เคยกังวล ก็ดีขึ้น ผมง่วงใหม่เพิ่มขึ้น ขอแนะนำค่ะ บริการดีจริงไปค่ะ",
-          "publish_time": "2026-04-27T07:32:59.937482485Z"
         },
         {
           "author": "Noeynee Jaidee",
@@ -957,9 +981,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 38
+        },
+        {
+          "date": "2026-09-20",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 38
         }
       ],
-      "last_synced": "2026-09-19T14:03:50Z"
+      "last_synced": "2026-09-20T14:03:32Z"
     },
     {
       "key": "chiang_mai",
@@ -1149,9 +1179,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 15
+        },
+        {
+          "date": "2026-09-20",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 15
         }
       ],
-      "last_synced": "2026-09-19T14:03:50Z"
+      "last_synced": "2026-09-20T14:03:32Z"
     },
     {
       "key": "phra_ram_9",
@@ -1341,9 +1377,15 @@
           "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 26
+        },
+        {
+          "date": "2026-09-20",
+          "new_reviews": 0,
+          "rating": 4.8,
+          "user_ratings_total": 26
         }
       ],
-      "last_synced": "2026-09-19T14:03:51Z"
+      "last_synced": "2026-09-20T14:03:32Z"
     },
     {
       "key": "bang_na",
@@ -1355,26 +1397,26 @@
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
-      "last_review_time": "2026-09-01T08:04:53.075796480Z",
-      "last_review_relative": "2 สัปดาห์ที่แล้ว",
+      "last_review_time": "2026-08-27T06:50:28.773160137Z",
+      "last_review_relative": "3 สัปดาห์ที่แล้ว",
       "recent_reviews": [
-        {
-          "author": "Kittipong Petchwong",
-          "rating": 5,
-          "text": "สะดวกอยู่ใกล้ถนนใหญ่",
-          "publish_time": "2026-09-01T08:04:53.075796480Z"
-        },
-        {
-          "author": "Saovalak Yianggamonsing",
-          "rating": 5,
-          "text": "พนักงานบริการดี คลินิกสะอาด มีมาตรฐานดีค่ะ",
-          "publish_time": "2026-08-28T09:31:19.671951332Z"
-        },
         {
           "author": "Wipaporn Phongchok",
           "rating": 5,
           "text": "พนักงานอัธยาศัยดี บริการดี คลินิกสะอาดได้มาตรฐานดีค่ะ",
           "publish_time": "2026-08-27T06:50:28.773160137Z"
+        },
+        {
+          "author": "พงษ์เทพ หงษ์ทอง",
+          "rating": 5,
+          "text": "บริการดีมาก น่าประทับใจ แก้ไขปัญหาได้ตรงจุดดี",
+          "publish_time": "2026-08-26T05:53:22.789328711Z"
+        },
+        {
+          "author": "Beam Naruewan",
+          "rating": 5,
+          "text": "บริการดีค่ะ สถานที่สะอาด รักษาที่นี้อาการดีขึ้นผมหนาขึ้น",
+          "publish_time": "2026-08-26T05:50:07.063739458Z"
         },
         {
           "author": "Thanyachanok Tosri",
@@ -1533,9 +1575,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 21
+        },
+        {
+          "date": "2026-09-20",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 21
         }
       ],
-      "last_synced": "2026-09-19T14:03:51Z"
+      "last_synced": "2026-09-20T14:03:32Z"
     },
     {
       "key": "pinklao",
@@ -1701,9 +1749,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 1
+        },
+        {
+          "date": "2026-09-20",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 1
         }
       ],
-      "last_synced": "2026-09-19T14:03:51Z"
+      "last_synced": "2026-09-20T14:03:32Z"
     }
   ]
 }
