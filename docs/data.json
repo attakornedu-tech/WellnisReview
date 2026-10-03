@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T18:48:38Z",
+  "generated_at": "2026-10-03T17:41:05Z",
   "branches": [
     {
       "key": "bang_pu",
@@ -267,9 +267,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 97
+        },
+        {
+          "date": "2026-10-04",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 97
         }
       ],
-      "last_synced": "2026-10-02T18:48:37Z"
+      "last_synced": "2026-10-03T17:41:03Z"
     },
     {
       "key": "saphan_khwai",
@@ -537,9 +543,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 194
+        },
+        {
+          "date": "2026-10-04",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 194
         }
       ],
-      "last_synced": "2026-10-02T18:48:37Z"
+      "last_synced": "2026-10-03T17:41:03Z"
     },
     {
       "key": "bang_yai",
@@ -547,12 +559,12 @@
       "maps_url": "https://maps.app.goo.gl/5cWsxq4fQf7jAGqw9",
       "status": "ok",
       "rating": 4.9,
-      "user_ratings_total": 152,
+      "user_ratings_total": 154,
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
       "last_review_time": "2026-09-05T12:20:22.040364880Z",
-      "last_review_relative": "3 สัปดาห์ที่แล้ว",
+      "last_review_relative": "4 สัปดาห์ที่แล้ว",
       "recent_reviews": [
         {
           "author": "มนสุพัชร วรเดชณรงค์กิจ",
@@ -807,9 +819,15 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 152
+        },
+        {
+          "date": "2026-10-04",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 154
         }
       ],
-      "last_synced": "2026-10-02T18:48:37Z"
+      "last_synced": "2026-10-03T17:41:04Z"
     },
     {
       "key": "rangsit",
@@ -822,7 +840,7 @@
       "today_reviews": [],
       "low_rating_alerts_today": [],
       "last_review_time": "2026-09-05T10:10:36.270235448Z",
-      "last_review_relative": "3 สัปดาห์ที่แล้ว",
+      "last_review_relative": "4 สัปดาห์ที่แล้ว",
       "recent_reviews": [
         {
           "author": "Weerapon S",
@@ -1077,9 +1095,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 358
+        },
+        {
+          "date": "2026-10-04",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 358
         }
       ],
-      "last_synced": "2026-10-02T18:48:37Z"
+      "last_synced": "2026-10-03T17:41:04Z"
     },
     {
       "key": "pattaya",
@@ -1347,9 +1371,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 38
+        },
+        {
+          "date": "2026-10-04",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 38
         }
       ],
-      "last_synced": "2026-10-02T18:48:37Z"
+      "last_synced": "2026-10-03T17:41:04Z"
     },
     {
       "key": "chiang_mai",
@@ -1617,9 +1647,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 15
+        },
+        {
+          "date": "2026-10-04",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 15
         }
       ],
-      "last_synced": "2026-10-02T18:48:38Z"
+      "last_synced": "2026-10-03T17:41:04Z"
     },
     {
       "key": "phra_ram_9",
@@ -1887,9 +1923,15 @@
           "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 26
+        },
+        {
+          "date": "2026-10-04",
+          "new_reviews": 0,
+          "rating": 4.8,
+          "user_ratings_total": 26
         }
       ],
-      "last_synced": "2026-10-02T18:48:38Z"
+      "last_synced": "2026-10-03T17:41:04Z"
     },
     {
       "key": "bang_na",
@@ -2157,9 +2199,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 21
+        },
+        {
+          "date": "2026-10-04",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 21
         }
       ],
-      "last_synced": "2026-10-02T18:48:38Z"
+      "last_synced": "2026-10-03T17:41:05Z"
     },
     {
       "key": "pinklao",
@@ -2167,13 +2215,19 @@
       "maps_url": "https://maps.app.goo.gl/oDTCRKE8FNx3c4z29",
       "status": "ok",
       "rating": 5,
-      "user_ratings_total": 3,
+      "user_ratings_total": 4,
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
-      "last_review_time": "2026-09-27T14:13:16.010554102Z",
+      "last_review_time": "2026-10-03T06:05:44.631689088Z",
       "last_review_relative": "ในสัปดาห์ที่ผ่านมา",
       "recent_reviews": [
+        {
+          "author": "ปิยะพงษ์ เหรียญสุวรรณ",
+          "rating": 5,
+          "text": "มาเข้ารับบริการที่นี่รู้สึกประทับใจ การให้บริการ และการทำหัตถการ ต่างๆดีมากครับ",
+          "publish_time": "2026-10-03T06:05:44.631689088Z"
+        },
         {
           "author": "Siridej Suwannarat",
           "rating": 5,
@@ -2415,9 +2469,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 3
+        },
+        {
+          "date": "2026-10-04",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 4
         }
       ],
-      "last_synced": "2026-10-02T18:48:38Z"
+      "last_synced": "2026-10-03T17:41:05Z"
     }
   ]
 }
