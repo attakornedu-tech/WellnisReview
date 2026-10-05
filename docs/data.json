@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T17:54:43Z",
+  "generated_at": "2026-10-05T21:17:46Z",
   "branches": [
     {
       "key": "bang_pu",
@@ -279,9 +279,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 97
+        },
+        {
+          "date": "2026-10-06",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 97
         }
       ],
-      "last_synced": "2026-10-04T17:54:42Z"
+      "last_synced": "2026-10-05T21:17:44Z"
     },
     {
       "key": "saphan_khwai",
@@ -561,9 +567,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 194
+        },
+        {
+          "date": "2026-10-06",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 194
         }
       ],
-      "last_synced": "2026-10-04T17:54:43Z"
+      "last_synced": "2026-10-05T21:17:44Z"
     },
     {
       "key": "bang_yai",
@@ -576,7 +588,7 @@
       "today_reviews": [],
       "low_rating_alerts_today": [],
       "last_review_time": "2026-09-05T12:20:22.040364880Z",
-      "last_review_relative": "4 สัปดาห์ที่แล้ว",
+      "last_review_relative": "เดือนที่แล้ว",
       "recent_reviews": [
         {
           "author": "มนสุพัชร วรเดชณรงค์กิจ",
@@ -843,9 +855,15 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 155
+        },
+        {
+          "date": "2026-10-06",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 155
         }
       ],
-      "last_synced": "2026-10-04T17:54:43Z"
+      "last_synced": "2026-10-05T21:17:45Z"
     },
     {
       "key": "rangsit",
@@ -858,7 +876,7 @@
       "today_reviews": [],
       "low_rating_alerts_today": [],
       "last_review_time": "2026-09-05T10:10:36.270235448Z",
-      "last_review_relative": "4 สัปดาห์ที่แล้ว",
+      "last_review_relative": "เดือนที่แล้ว",
       "recent_reviews": [
         {
           "author": "Weerapon S",
@@ -1125,9 +1143,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 358
+        },
+        {
+          "date": "2026-10-06",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 358
         }
       ],
-      "last_synced": "2026-10-04T17:54:43Z"
+      "last_synced": "2026-10-05T21:17:45Z"
     },
     {
       "key": "pattaya",
@@ -1407,9 +1431,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 38
+        },
+        {
+          "date": "2026-10-06",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 38
         }
       ],
-      "last_synced": "2026-10-04T17:54:43Z"
+      "last_synced": "2026-10-05T21:17:45Z"
     },
     {
       "key": "chiang_mai",
@@ -1689,9 +1719,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 15
+        },
+        {
+          "date": "2026-10-06",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 15
         }
       ],
-      "last_synced": "2026-10-04T17:54:43Z"
+      "last_synced": "2026-10-05T21:17:45Z"
     },
     {
       "key": "phra_ram_9",
@@ -1704,7 +1740,7 @@
       "today_reviews": [],
       "low_rating_alerts_today": [],
       "last_review_time": "2026-08-06T05:03:42.559095109Z",
-      "last_review_relative": "เดือนที่แล้ว",
+      "last_review_relative": "2 เดือนที่แล้ว",
       "recent_reviews": [
         {
           "author": "Chaiwat Rod-udom",
@@ -1971,9 +2007,15 @@
           "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 26
+        },
+        {
+          "date": "2026-10-06",
+          "new_reviews": 0,
+          "rating": 4.8,
+          "user_ratings_total": 26
         }
       ],
-      "last_synced": "2026-10-04T17:54:43Z"
+      "last_synced": "2026-10-05T21:17:45Z"
     },
     {
       "key": "bang_na",
@@ -2253,9 +2295,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 21
+        },
+        {
+          "date": "2026-10-06",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 21
         }
       ],
-      "last_synced": "2026-10-04T17:54:43Z"
+      "last_synced": "2026-10-05T21:17:46Z"
     },
     {
       "key": "pinklao",
@@ -2529,9 +2577,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 4
+        },
+        {
+          "date": "2026-10-06",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 4
         }
       ],
-      "last_synced": "2026-10-04T17:54:43Z"
+      "last_synced": "2026-10-05T21:17:46Z"
     }
   ]
 }
