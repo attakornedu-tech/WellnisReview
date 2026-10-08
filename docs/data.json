@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T19:38:37Z",
+  "generated_at": "2026-10-08T19:34:08Z",
   "branches": [
     {
       "key": "bang_pu",
@@ -7,7 +7,7 @@
       "maps_url": "https://maps.app.goo.gl/RkZGhTjopWAgEPZDA",
       "status": "ok",
       "rating": 4.7,
-      "user_ratings_total": 97,
+      "user_ratings_total": 96,
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
@@ -297,9 +297,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 97
+        },
+        {
+          "date": "2026-10-09",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 96
         }
       ],
-      "last_synced": "2026-10-07T19:38:36Z"
+      "last_synced": "2026-10-08T19:34:07Z"
     },
     {
       "key": "saphan_khwai",
@@ -597,9 +603,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 194
+        },
+        {
+          "date": "2026-10-09",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 194
         }
       ],
-      "last_synced": "2026-10-07T19:38:36Z"
+      "last_synced": "2026-10-08T19:34:07Z"
     },
     {
       "key": "bang_yai",
@@ -897,9 +909,15 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 156
+        },
+        {
+          "date": "2026-10-09",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 156
         }
       ],
-      "last_synced": "2026-10-07T19:38:36Z"
+      "last_synced": "2026-10-08T19:34:07Z"
     },
     {
       "key": "rangsit",
@@ -1197,9 +1215,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 358
+        },
+        {
+          "date": "2026-10-09",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 358
         }
       ],
-      "last_synced": "2026-10-07T19:38:36Z"
+      "last_synced": "2026-10-08T19:34:07Z"
     },
     {
       "key": "pattaya",
@@ -1497,9 +1521,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 38
+        },
+        {
+          "date": "2026-10-09",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 38
         }
       ],
-      "last_synced": "2026-10-07T19:38:36Z"
+      "last_synced": "2026-10-08T19:34:08Z"
     },
     {
       "key": "chiang_mai",
@@ -1797,9 +1827,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 15
+        },
+        {
+          "date": "2026-10-09",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 15
         }
       ],
-      "last_synced": "2026-10-07T19:38:37Z"
+      "last_synced": "2026-10-08T19:34:08Z"
     },
     {
       "key": "phra_ram_9",
@@ -2097,9 +2133,15 @@
           "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 26
+        },
+        {
+          "date": "2026-10-09",
+          "new_reviews": 0,
+          "rating": 4.8,
+          "user_ratings_total": 26
         }
       ],
-      "last_synced": "2026-10-07T19:38:37Z"
+      "last_synced": "2026-10-08T19:34:08Z"
     },
     {
       "key": "bang_na",
@@ -2397,9 +2439,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 21
+        },
+        {
+          "date": "2026-10-09",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 21
         }
       ],
-      "last_synced": "2026-10-07T19:38:37Z"
+      "last_synced": "2026-10-08T19:34:08Z"
     },
     {
       "key": "pinklao",
@@ -2697,9 +2745,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 5
+        },
+        {
+          "date": "2026-10-09",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 5
         }
       ],
-      "last_synced": "2026-10-07T19:38:37Z"
+      "last_synced": "2026-10-08T19:34:08Z"
     }
   ]
 }
