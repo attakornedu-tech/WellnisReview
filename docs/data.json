@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T19:34:08Z",
+  "generated_at": "2026-10-09T19:08:48Z",
   "branches": [
     {
       "key": "bang_pu",
@@ -303,9 +303,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 96
+        },
+        {
+          "date": "2026-10-10",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 96
         }
       ],
-      "last_synced": "2026-10-08T19:34:07Z"
+      "last_synced": "2026-10-09T19:08:47Z"
     },
     {
       "key": "saphan_khwai",
@@ -609,9 +615,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 194
+        },
+        {
+          "date": "2026-10-10",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 194
         }
       ],
-      "last_synced": "2026-10-08T19:34:07Z"
+      "last_synced": "2026-10-09T19:08:47Z"
     },
     {
       "key": "bang_yai",
@@ -915,9 +927,15 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 156
+        },
+        {
+          "date": "2026-10-10",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 156
         }
       ],
-      "last_synced": "2026-10-08T19:34:07Z"
+      "last_synced": "2026-10-09T19:08:47Z"
     },
     {
       "key": "rangsit",
@@ -1221,9 +1239,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 358
+        },
+        {
+          "date": "2026-10-10",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 358
         }
       ],
-      "last_synced": "2026-10-08T19:34:07Z"
+      "last_synced": "2026-10-09T19:08:47Z"
     },
     {
       "key": "pattaya",
@@ -1236,7 +1260,7 @@
       "today_reviews": [],
       "low_rating_alerts_today": [],
       "last_review_time": "2026-08-10T05:31:28.583952700Z",
-      "last_review_relative": "เดือนที่แล้ว",
+      "last_review_relative": "2 เดือนที่แล้ว",
       "recent_reviews": [
         {
           "author": "sirisiri Jsk",
@@ -1527,9 +1551,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 38
+        },
+        {
+          "date": "2026-10-10",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 38
         }
       ],
-      "last_synced": "2026-10-08T19:34:08Z"
+      "last_synced": "2026-10-09T19:08:47Z"
     },
     {
       "key": "chiang_mai",
@@ -1833,9 +1863,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 15
+        },
+        {
+          "date": "2026-10-10",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 15
         }
       ],
-      "last_synced": "2026-10-08T19:34:08Z"
+      "last_synced": "2026-10-09T19:08:48Z"
     },
     {
       "key": "phra_ram_9",
@@ -2139,9 +2175,15 @@
           "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 26
+        },
+        {
+          "date": "2026-10-10",
+          "new_reviews": 0,
+          "rating": 4.8,
+          "user_ratings_total": 26
         }
       ],
-      "last_synced": "2026-10-08T19:34:08Z"
+      "last_synced": "2026-10-09T19:08:48Z"
     },
     {
       "key": "bang_na",
@@ -2445,9 +2487,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 21
+        },
+        {
+          "date": "2026-10-10",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 21
         }
       ],
-      "last_synced": "2026-10-08T19:34:08Z"
+      "last_synced": "2026-10-09T19:08:48Z"
     },
     {
       "key": "pinklao",
@@ -2751,9 +2799,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 5
+        },
+        {
+          "date": "2026-10-10",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 5
         }
       ],
-      "last_synced": "2026-10-08T19:34:08Z"
+      "last_synced": "2026-10-09T19:08:48Z"
     }
   ]
 }
