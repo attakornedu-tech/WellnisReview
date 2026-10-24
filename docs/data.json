@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T18:01:29Z",
+  "generated_at": "2026-10-24T17:05:32Z",
   "branches": [
     {
       "key": "bang_pu",
@@ -387,9 +387,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 96
+        },
+        {
+          "date": "2026-10-25",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 96
         }
       ],
-      "last_synced": "2026-10-23T18:01:28Z"
+      "last_synced": "2026-10-24T17:05:31Z"
     },
     {
       "key": "saphan_khwai",
@@ -777,9 +783,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 195
+        },
+        {
+          "date": "2026-10-25",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 195
         }
       ],
-      "last_synced": "2026-10-23T18:01:28Z"
+      "last_synced": "2026-10-24T17:05:31Z"
     },
     {
       "key": "bang_yai",
@@ -1167,9 +1179,15 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 156
+        },
+        {
+          "date": "2026-10-25",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 156
         }
       ],
-      "last_synced": "2026-10-23T18:01:28Z"
+      "last_synced": "2026-10-24T17:05:32Z"
     },
     {
       "key": "rangsit",
@@ -1557,9 +1575,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 358
+        },
+        {
+          "date": "2026-10-25",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 358
         }
       ],
-      "last_synced": "2026-10-23T18:01:28Z"
+      "last_synced": "2026-10-24T17:05:32Z"
     },
     {
       "key": "pattaya",
@@ -1947,9 +1971,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 38
+        },
+        {
+          "date": "2026-10-25",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 38
         }
       ],
-      "last_synced": "2026-10-23T18:01:29Z"
+      "last_synced": "2026-10-24T17:05:32Z"
     },
     {
       "key": "chiang_mai",
@@ -2337,9 +2367,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 16
+        },
+        {
+          "date": "2026-10-25",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 16
         }
       ],
-      "last_synced": "2026-10-23T18:01:29Z"
+      "last_synced": "2026-10-24T17:05:32Z"
     },
     {
       "key": "phra_ram_9",
@@ -2727,9 +2763,15 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 27
+        },
+        {
+          "date": "2026-10-25",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 27
         }
       ],
-      "last_synced": "2026-10-23T18:01:29Z"
+      "last_synced": "2026-10-24T17:05:32Z"
     },
     {
       "key": "bang_na",
@@ -2741,20 +2783,14 @@
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
-      "last_review_time": "2026-08-27T06:50:28.773160137Z",
+      "last_review_time": "2026-08-26T05:59:22.141136217Z",
       "last_review_relative": "เดือนที่แล้ว",
       "recent_reviews": [
         {
-          "author": "Wipaporn Phongchok",
+          "author": "Artidtayaporn Seenampeng",
           "rating": 5,
-          "text": "พนักงานอัธยาศัยดี บริการดี คลินิกสะอาดได้มาตรฐานดีค่ะ",
-          "publish_time": "2026-08-27T06:50:28.773160137Z"
-        },
-        {
-          "author": "พงษ์เทพ หงษ์ทอง",
-          "rating": 5,
-          "text": "บริการดีมาก น่าประทับใจ แก้ไขปัญหาได้ตรงจุดดี",
-          "publish_time": "2026-08-26T05:53:22.789328711Z"
+          "text": "คลินิกสะอาด สวยบรรยากาศดี พนักงานต้อนรับยิ้มแย้มอย่างดีพยาบาลบริการดีเป็นกันเองสุดๆ",
+          "publish_time": "2026-08-26T05:59:22.141136217Z"
         },
         {
           "author": "Beam Naruewan",
@@ -2767,6 +2803,12 @@
           "rating": 5,
           "text": "คลินิกสะอาดมากค่ะ บรรยากาศดี ตึกโปร่ง แสงสว่างเข้าถึง ไม่รู้สึกมืดหรืออึดอัดเลย พนักงานบริการดี พูดจาสุภาพและให้คำแนะนำดีมากค่ะ โดยรวมประทับใจตั้งแต่เข้ามาเลย",
           "publish_time": "2026-08-25T12:05:46.278957678Z"
+        },
+        {
+          "author": "อัสมาณี วาโซ๊ะ",
+          "rating": 5,
+          "text": "พนักงานบริการดีมาก ตั้งแต่เข้ามาก็ให้การต้อนรับและดูแลเป็นอย่างดี พูดจาสุภาพ มีบริการเสิร์ฟเครื่องดื่ม ให้คำแนะนำเกี่ยวกับการดูแลเส้นผมอย่างละเอียด ทำให้เข้าใจปัญหาของตัวเองมากขึ้นค่ะ คุณหมอก็ให้คำปรึกษาดี ใส่ใจ และแนะนำแนวทางการดูแลได้ตรงจุด\n\nโดยรวมประทับใจทั้งการบริการและบรรยากาศของคลินิกค่ะ สถานที่สะอาด สบาย พนักงานน่ารักและดูแลดีมากค่ะ แนะนำเลยสำหรับใครที่มีปัญหาผมร่วง ผมบาง หรือหนังศีรษะ และกำลังมองหาคลินิกดี ๆ ค่ะ 💕",
+          "publish_time": "2026-08-25T10:18:26.860886688Z"
         },
         {
           "author": "ชนาภา สุวรรณรัตน์",
@@ -3117,9 +3159,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 22
+        },
+        {
+          "date": "2026-10-25",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 22
         }
       ],
-      "last_synced": "2026-10-23T18:01:29Z"
+      "last_synced": "2026-10-24T17:05:32Z"
     },
     {
       "key": "pinklao",
@@ -3507,9 +3555,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 8
+        },
+        {
+          "date": "2026-10-25",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 8
         }
       ],
-      "last_synced": "2026-10-23T18:01:29Z"
+      "last_synced": "2026-10-24T17:05:32Z"
     }
   ]
 }
