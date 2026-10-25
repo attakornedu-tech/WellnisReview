@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T17:05:32Z",
+  "generated_at": "2026-10-25T17:19:02Z",
   "branches": [
     {
       "key": "bang_pu",
@@ -393,9 +393,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 96
+        },
+        {
+          "date": "2026-10-26",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 96
         }
       ],
-      "last_synced": "2026-10-24T17:05:31Z"
+      "last_synced": "2026-10-25T17:19:01Z"
     },
     {
       "key": "saphan_khwai",
@@ -789,9 +795,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 195
+        },
+        {
+          "date": "2026-10-26",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 195
         }
       ],
-      "last_synced": "2026-10-24T17:05:31Z"
+      "last_synced": "2026-10-25T17:19:01Z"
     },
     {
       "key": "bang_yai",
@@ -1185,9 +1197,15 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 156
+        },
+        {
+          "date": "2026-10-26",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 156
         }
       ],
-      "last_synced": "2026-10-24T17:05:32Z"
+      "last_synced": "2026-10-25T17:19:01Z"
     },
     {
       "key": "rangsit",
@@ -1581,9 +1599,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 358
+        },
+        {
+          "date": "2026-10-26",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 358
         }
       ],
-      "last_synced": "2026-10-24T17:05:32Z"
+      "last_synced": "2026-10-25T17:19:01Z"
     },
     {
       "key": "pattaya",
@@ -1977,9 +2001,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 38
+        },
+        {
+          "date": "2026-10-26",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 38
         }
       ],
-      "last_synced": "2026-10-24T17:05:32Z"
+      "last_synced": "2026-10-25T17:19:01Z"
     },
     {
       "key": "chiang_mai",
@@ -2373,9 +2403,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 16
+        },
+        {
+          "date": "2026-10-26",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 16
         }
       ],
-      "last_synced": "2026-10-24T17:05:32Z"
+      "last_synced": "2026-10-25T17:19:02Z"
     },
     {
       "key": "phra_ram_9",
@@ -2769,9 +2805,15 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 27
+        },
+        {
+          "date": "2026-10-26",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 27
         }
       ],
-      "last_synced": "2026-10-24T17:05:32Z"
+      "last_synced": "2026-10-25T17:19:02Z"
     },
     {
       "key": "bang_na",
@@ -2784,7 +2826,7 @@
       "today_reviews": [],
       "low_rating_alerts_today": [],
       "last_review_time": "2026-08-26T05:59:22.141136217Z",
-      "last_review_relative": "เดือนที่แล้ว",
+      "last_review_relative": "2 เดือนที่แล้ว",
       "recent_reviews": [
         {
           "author": "Artidtayaporn Seenampeng",
@@ -3165,9 +3207,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 22
+        },
+        {
+          "date": "2026-10-26",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 22
         }
       ],
-      "last_synced": "2026-10-24T17:05:32Z"
+      "last_synced": "2026-10-25T17:19:02Z"
     },
     {
       "key": "pinklao",
@@ -3180,7 +3228,7 @@
       "today_reviews": [],
       "low_rating_alerts_today": [],
       "last_review_time": "2026-10-11T04:27:03.929540686Z",
-      "last_review_relative": "สัปดาห์ที่แล้ว",
+      "last_review_relative": "2 สัปดาห์ที่แล้ว",
       "recent_reviews": [
         {
           "author": "Chaiwat Puthkhao",
@@ -3561,9 +3609,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 8
+        },
+        {
+          "date": "2026-10-26",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 8
         }
       ],
-      "last_synced": "2026-10-24T17:05:32Z"
+      "last_synced": "2026-10-25T17:19:02Z"
     }
   ]
 }
