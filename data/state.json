@@ -3,12 +3,6 @@
     "bang_na": {
       "daily_log": [
         {
-          "date": "2026-08-25",
-          "new_reviews": 5,
-          "rating": 5,
-          "user_ratings_total": 5
-        },
-        {
           "date": "2026-08-26",
           "new_reviews": 4,
           "rating": 5,
@@ -361,12 +355,18 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 22
+        },
+        {
+          "date": "2026-10-28",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 22
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=13066266656441145210&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "2 เดือนที่แล้ว",
       "last_review_time": "2026-08-26T05:59:22.141136217Z",
-      "last_synced": "2026-10-26T19:39:25Z",
+      "last_synced": "2026-10-27T19:04:36Z",
       "rating": 5,
       "recent_reviews": [
         {
@@ -378,12 +378,12 @@
           "text": "คลินิกสะอาด สวยบรรยากาศดี พนักงานต้อนรับยิ้มแย้มอย่างดีพยาบาลบริการดีเป็นกันเองสุดๆ"
         },
         {
-          "author": "Beam Naruewan",
-          "name": "places/ChIJsfWPfxdfHTERepe0xUu0VLU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSbVgzVnJiMWRWUTBkeFltTnRlbGxqVXpoYU1FRRAB",
-          "publish_time": "2026-08-26T05:50:07.063739458Z",
+          "author": "TANG MO",
+          "name": "places/ChIJsfWPfxdfHTERepe0xUu0VLU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xZeWJFeHFia3BDVkdGVk5WRk1hM1puZFV4aE0yYxAB",
+          "publish_time": "2026-08-25T12:11:03.875018274Z",
           "rating": 5,
           "relative_time": "2 เดือนที่แล้ว",
-          "text": "บริการดีค่ะ สถานที่สะอาด รักษาที่นี้อาการดีขึ้นผมหนาขึ้น"
+          "text": "บรรยากาศคลินิกสะอาด เป็นระเบียบ พนักงานบริการดี พูดจาน่ารัก ให้คำแนะนำค่อนข้างละเอียด ทำให้รู้สึกสบายใจตั้งแต่เข้ามาครั้งแรกเลยค่ะ\n\nส่วนตัวชอบตรงที่คุณหมออธิบายให้เข้าใจว่าปัญหาผมของเราเกิดจากอะไร และควรดูแลต่อยังไง เพราะเรื่องผมต้องใช้เวลา ไม่ใช่ทำครั้งเดียวแล้วเห็นผลทันที 🤍"
         },
         {
           "author": "Thanyachanok Tosri",
@@ -414,12 +414,6 @@
     },
     "bang_pu": {
       "daily_log": [
-        {
-          "date": "2026-08-25",
-          "new_reviews": 0,
-          "rating": 4.7,
-          "user_ratings_total": 96
-        },
         {
           "date": "2026-08-26",
           "new_reviews": 0,
@@ -773,12 +767,18 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 96
+        },
+        {
+          "date": "2026-10-28",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 96
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=4772761812627584046&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "2 เดือนที่แล้ว",
       "last_review_time": "2026-08-24T09:43:27.571000312Z",
-      "last_synced": "2026-10-26T19:39:24Z",
+      "last_synced": "2026-10-27T19:04:35Z",
       "rating": 4.7,
       "recent_reviews": [
         {
@@ -826,12 +826,6 @@
     },
     "bang_yai": {
       "daily_log": [
-        {
-          "date": "2026-08-25",
-          "new_reviews": 0,
-          "rating": 4.8,
-          "user_ratings_total": 143
-        },
         {
           "date": "2026-08-26",
           "new_reviews": 0,
@@ -1185,12 +1179,18 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 156
+        },
+        {
+          "date": "2026-10-28",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 156
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=16287447197378131024&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "เดือนที่แล้ว",
       "last_review_time": "2026-09-05T12:20:22.040364880Z",
-      "last_synced": "2026-10-26T19:39:25Z",
+      "last_synced": "2026-10-27T19:04:36Z",
       "rating": 4.9,
       "recent_reviews": [
         {
@@ -1214,7 +1214,7 @@
           "name": "places/ChIJCVYCJh2P4jARULSnce6iCOI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21scVRETmhiVEJ0VDFGSFIyUkpXR1JtU21vNWFsRRAB",
           "publish_time": "2026-06-29T09:18:40.562188747Z",
           "rating": 5,
-          "relative_time": "3 เดือนที่แล้ว",
+          "relative_time": "4 เดือนที่แล้ว",
           "text": "คุณหมอและเจ้าหน้าที่ให้คำปรึกษาดีมาก รู้สาเหตุที่แท้จริงและต้องแก้ยังไง แนะนำให้มาปรึกษาเลยครับ #ผมหนาได้ไม่ง้อปลูก"
         },
         {
@@ -1239,12 +1239,6 @@
     "chiang_mai": {
       "daily_log": [
         {
-          "date": "2026-08-25",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 15
-        },
-        {
           "date": "2026-08-26",
           "new_reviews": 0,
           "rating": 5,
@@ -1597,14 +1591,28 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 16
+        },
+        {
+          "date": "2026-10-28",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 16
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=8374106017266278080&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "4 เดือนที่แล้ว",
-      "last_review_time": "2026-06-12T14:17:53.675719159Z",
-      "last_synced": "2026-10-26T19:39:25Z",
+      "last_review_time": "2026-06-22T15:20:00.912361987Z",
+      "last_synced": "2026-10-27T19:04:36Z",
       "rating": 5,
       "recent_reviews": [
+        {
+          "author": "Chalapim C. (Khun Pim)",
+          "name": "places/ChIJLT0rQ5Ml2jARwB6eBg7NNnQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xNMFQzZElORnBGTWxKVVdXcEJRbTkxZG1VMmJVRRAB",
+          "publish_time": "2026-06-22T15:20:00.912361987Z",
+          "rating": 5,
+          "relative_time": "4 เดือนที่แล้ว",
+          "text": "เข้าไปปรึกษาเรื่องผมบางและผมร่วงที่ Wellnis Clinic สาขาเชียงใหม่ หลังจากมีคนรู้จักแนะนำมา\n\nคุณหมออธิบายสาเหตุและแนวทางการรักษาค่อนข้างละเอียด พร้อมแนะนำทางเลือกที่เหมาะกับปัญหาของแต่ละคน รวมถึงการดูแลร่วมกับยาและอาหารเสริม\n\nรอบนี้เลือกเริ่มรักษาด้วยโปรแกรม Hair Regrowth Program และ Hair Retrive Program ตามแผนที่วางไว้\n\nตอนนี้เพิ่งเริ่มรักษา ยังตอบไม่ได้ว่าเห็นผลมากน้อยแค่ไหน แต่บรรยากาศคลินิกสะอาด คุณหมอและทีมงานให้ข้อมูลละเอียด ตอบคำถามได้ครบถ้วน และดูแลดีตลอดการเข้ารับบริการ"
+        },
         {
           "author": "14525 m1_3_2567",
           "name": "places/ChIJLT0rQ5Ml2jARwB6eBg7NNnQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25vdFJ6ZFhZbmw0UVU1WFpuaE9VakIwUkc0MlZsRRAB",
@@ -1620,14 +1628,6 @@
           "rating": 5,
           "relative_time": "5 เดือนที่แล้ว",
           "text": "ทำแล้วเห็นผลไว คลินิกสะอาด บรรยากาศดี พนักงานทุกท่านน่ารัก เป็นกันเอง ให้คำแนะนำดีมากค่ะ"
-        },
-        {
-          "author": "Wapa Yao",
-          "name": "places/ChIJLT0rQ5Ml2jARwB6eBg7NNnQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21acVREQm1iMVZVZGxsd1RuVnJjV0o1YzNsRGRFRRAB",
-          "publish_time": "2026-05-17T08:01:35.327347699Z",
-          "rating": 5,
-          "relative_time": "5 เดือนที่แล้ว",
-          "text": "บริการดี คุณหมอให้คำแนะนำดี พนักงานใส่ใจให้คำปรึกษาดี"
         },
         {
           "author": "Fern Puangpaka Sasroem",
@@ -1651,12 +1651,6 @@
     "pattaya": {
       "daily_log": [
         {
-          "date": "2026-08-25",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
           "date": "2026-08-26",
           "new_reviews": 0,
           "rating": 5,
@@ -2009,12 +2003,18 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 38
+        },
+        {
+          "date": "2026-10-28",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 38
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=13495116063067392428&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "2 เดือนที่แล้ว",
       "last_review_time": "2026-08-10T05:31:28.583952700Z",
-      "last_synced": "2026-10-26T19:39:25Z",
+      "last_synced": "2026-10-27T19:04:36Z",
       "rating": 5,
       "recent_reviews": [
         {
@@ -2063,12 +2063,6 @@
     "phra_ram_9": {
       "daily_log": [
         {
-          "date": "2026-08-25",
-          "new_reviews": 0,
-          "rating": 4.8,
-          "user_ratings_total": 24
-        },
-        {
           "date": "2026-08-26",
           "new_reviews": 0,
           "rating": 4.8,
@@ -2421,14 +2415,28 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 27
+        },
+        {
+          "date": "2026-10-28",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 27
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=8978487306560231518&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
-      "last_review_relative": "2 เดือนที่แล้ว",
-      "last_review_time": "2026-08-06T05:03:42.559095109Z",
-      "last_synced": "2026-10-26T19:39:25Z",
+      "last_review_relative": "เดือนที่แล้ว",
+      "last_review_time": "2026-08-30T09:00:56.784918449Z",
+      "last_synced": "2026-10-27T19:04:36Z",
       "rating": 4.9,
       "recent_reviews": [
+        {
+          "author": "Esariyaporn P.",
+          "name": "places/ChIJ7_snuiWf4jARXljgn6L-mXw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taUGVtc3lkekIxV205VGRFbG1UeTFwZFZVdGJHYxAB",
+          "publish_time": "2026-08-30T09:00:56.784918449Z",
+          "rating": 5,
+          "relative_time": "เดือนที่แล้ว",
+          "text": "ทำ HRG มา 3ครั้ง ผมร่วงลดลง  สถานที่สะอาดพนักงานดูแลดี บริการดีมากค่า"
+        },
         {
           "author": "Chaiwat Rod-udom",
           "name": "places/ChIJ7_snuiWf4jARXljgn6L-mXw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twb1UxUnlYMmR6ZDFOT2RVcDVUMFZHYkUxNVlVRRAB",
@@ -2460,26 +2468,12 @@
           "rating": 5,
           "relative_time": "5 เดือนที่แล้ว",
           "text": "คลินิกสวย สบาย สะอาดมากก หมอให้คำแนะนำตรงจุด มารักษาผมแล้วเหมือนได้พักผ่อนไปในตัว ชอบมากก 100/10 แนะนำเลยค่ะ"
-        },
-        {
-          "author": "Wanunya T.",
-          "name": "places/ChIJ7_snuiWf4jARXljgn6L-mXw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CdFQxSXRlbk54VWpCWVR6WkljRVZsVGtKcVdGRRAB",
-          "publish_time": "2026-05-06T10:14:56.745235738Z",
-          "rating": 5,
-          "relative_time": "5 เดือนที่แล้ว",
-          "text": "มาสาขาเปิดใหม่ เดินทางสะดวก ใกล้เซนทรัลพระราม9 มา mrt ได้เลย คลินิกสวยงาม สะอาด  พนักงานบริการดี"
         }
       ],
       "user_ratings_total": 27
     },
     "pinklao": {
       "daily_log": [
-        {
-          "date": "2026-08-25",
-          "new_reviews": 0,
-          "rating": null,
-          "user_ratings_total": null
-        },
         {
           "date": "2026-08-26",
           "new_reviews": 0,
@@ -2833,12 +2827,18 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 8
+        },
+        {
+          "date": "2026-10-28",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 8
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=1801119609578184508&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "2 สัปดาห์ที่แล้ว",
       "last_review_time": "2026-10-11T04:27:03.929540686Z",
-      "last_synced": "2026-10-26T19:39:25Z",
+      "last_synced": "2026-10-27T19:04:36Z",
       "rating": 5,
       "recent_reviews": [
         {
@@ -2870,7 +2870,7 @@
           "name": "places/ChIJp1AoVvCZ4jARPN_l_r3c_hg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KamFtOTBSbEoxUkVKT016VjNPRXRZZG5CMU9GRRAB",
           "publish_time": "2026-09-27T14:13:16.010554102Z",
           "rating": 5,
-          "relative_time": "4 สัปดาห์ที่แล้ว",
+          "relative_time": "เดือนที่แล้ว",
           "text": "สถานที่ใหม่บรรยากาศดี จอดรถสะดวก พนักงานบริการดีเอาใจใส่ลูกค้าครับ"
         },
         {
@@ -2886,12 +2886,6 @@
     },
     "rangsit": {
       "daily_log": [
-        {
-          "date": "2026-08-25",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 347
-        },
         {
           "date": "2026-08-26",
           "new_reviews": 0,
@@ -3245,12 +3239,18 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 358
+        },
+        {
+          "date": "2026-10-28",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 358
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=6627011122346499865&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "เดือนที่แล้ว",
       "last_review_time": "2026-09-05T10:10:36.270235448Z",
-      "last_synced": "2026-10-26T19:39:25Z",
+      "last_synced": "2026-10-27T19:04:36Z",
       "rating": 5,
       "recent_reviews": [
         {
@@ -3298,12 +3298,6 @@
     },
     "saphan_khwai": {
       "daily_log": [
-        {
-          "date": "2026-08-25",
-          "new_reviews": 0,
-          "rating": 4.8,
-          "user_ratings_total": 185
-        },
         {
           "date": "2026-08-26",
           "new_reviews": 0,
@@ -3657,14 +3651,28 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 195
+        },
+        {
+          "date": "2026-10-28",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 195
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=16047547344402416693&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
-      "last_review_relative": "2 เดือนที่แล้ว",
-      "last_review_time": "2026-08-17T03:57:44.063627945Z",
-      "last_synced": "2026-10-26T19:39:24Z",
+      "last_review_relative": "เดือนที่แล้ว",
+      "last_review_time": "2026-09-24T21:07:56.210800527Z",
+      "last_synced": "2026-10-27T19:04:36Z",
       "rating": 4.7,
       "recent_reviews": [
+        {
+          "author": "P. Gamyui",
+          "name": "places/ChIJ5fkJ4U-f4jARNYReQ0lXtN4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKM2RsaFFWbVZNYW1GQlVrUnJUbUkzWWpCalprRRAB",
+          "publish_time": "2026-09-24T21:07:56.210800527Z",
+          "rating": 3,
+          "relative_time": "เดือนที่แล้ว",
+          "text": "สำหรับที่มาของคะแนน 3/5 ขออนุญาตแบ่งรีวิวเป็น 4 หัวข้อหลักนะคะ (จากประสบการณ์ที่รักษากับทางคลินิกมาประมาณ 1 ปี)\n\n1. คุณหมอ 5/5:\nคุณหมอเก่งมากๆ และเป็นสิ่งที่ประทับใจที่สุดในการมารักษาที่นี่ค่ะ คุณหมอมีความใส่ใจคนไข้ พร้อมรับฟัง ไม่ทำให้คนไข้อึดอัด และให้คำปรึกษารวมถึงตัวเลือกที่ดีเสมอค่ะ\n\n2. ผลการรักษา 5/5:\n(ตามที่กล่าวไว้ข้างต้น) คุณหมอเก่งและทำให้มีความไว้ใจคุณหมอเป็นอย่างมาก ผลการรักษาก็ดีมากเช่นกัน หากให้คะแนนเฉพาะคุณหมอและผลการรักษาอย่างเดียว รีวิวครั้งนี้ได้ 5 ดาวค่ะ\n\n3. แผนกต้อนรับ 1.5/5:\nส่วนนี้ควรปรับปรุงอย่างมากค่ะ เพราะเป็นด่านแรกในการรับและดูแลลูกค้า\n\nจากที่เข้ารับการรักษามาประมาณ 1 ปี มีเพียงไม่กี่ครั้งที่รู้สึกว่าแผนกต้อนรับทำงานดี และมีพนักงาน (หรือเซลล์) เพียงไม่กี่คนที่ทำงานคล่องแคล่ว มีความเป็นมืออาชีพ ยิ้มแย้มอย่างจริงใจ และมีความใส่ใจลูกค้า และไม่ขายเซลล์\n\nแม้พนักงานกลุ่มนี้จะทำงานได้ดีมาก แต่ด้วยประสบการณ์โดยรวมที่ได้รับจากแผนกต้อนรับ ก็ยังไม่เพียงพอที่จะทำให้คะแนนในส่วนนี้ดีขึ้นค่ะ\n\nทางคลินิกควรปรับปรุงเรื่องการเทรนพนักงานด้านหน้าให้มีมาตรฐานที่เท่ากัน รู้จักประสานงาน และเก็บข้อมูลของคนไข้ให้เป็นระบบมากกว่านี้ ที่สำคัญคือเรื่องมารยาทและ service mind ของพนักงานกลุ่มล่าสุด ซึ่งรู้สึกว่ายังขาดความใส่ใจ ไม่ค่อยนอบน้อม และไม่เช็คข้อมูลให้ละเอียดค่ะ\n\nยกตัวอย่างเช่น เมื่อเร็วๆนี้ช่วงเดือนกันยา หลังจากทำทรีทเมนต์เสร็จแล้ว ได้ลงมาเจอกลุ่มพนักงานนั่งคุย/เม้าท์กันเป็นกลุ่มอยู่ที่เค้าท์เตอร์โดยไม่สนใจลูกค้า ไม่หยุดคุย หรือแม้แต่จะหันมารับลูกค้า ซึ่งส่วนตัวมองว่าดูไม่ดีและรู้สึกว่าไม่ให้เกียรติกันค่ะ\n\nไม่ได้คาดหวังว่าพนักงานจะต้องยกมือไหว้ทุกครั้งหรือบริการเกินความจำเป็นนะคะ แต่เมื่อลูกค้าเข้ามารับบริการและมีค่าใช้จ่ายหลักหลายหมื่น บางคนเป็นแสน อย่างน้อยควรหยุดบทสนทนาส่วนตัว ให้ความสนใจ และให้เกียรติลูกค้าที่อยู่ตรงหน้าค่ะ\n\n4. บริการ 3/5:\nทางคลินิกมีผู้ช่วยในการให้บริการก่อนที่คุณหมอจะเข้ามาทำการฉีดยา ซึ่งส่วนนี้ควรปรับปรุงเช่นกันค่ะ\n\nปัญหาหลักคือพนักงานผู้ช่วยแต่ละคนทำงานตามสไตล์ของตัวเองมากเกินไป บางคนทำดีมาก แต่บางคนเหมือนไม่ได้ทำงานที่เดียวกัน ทำให้มาตรฐานการบริการในแต่ละครั้งแตกต่างกันมากค่ะ\n\nก่อนทำทรีทเมนต์ต่างๆ ควรแจ้งคนไข้ก่อนว่าขั้นตอนที่จะทำมีอะไรบ้าง แต่หลายครั้งกลับต้องเป็นฝ่ายถามเองว่า “วันนี้ไม่ทำอันนี้เหรอคะ?” หรือ “ตอนนี้ทำอะไรอยู่คะ?” เพราะบางครั้งมีขั้นตอนที่เคยทำแต่กลับไม่ได้ทำโดยไม่มีการอธิบาย\n\nแม้แต่เรื่องเล็กๆ เช่น ผมเปียกไปด้วยน้ำเกลือ บางคนเป่าผมให้ บางคนไม่เป่า เหมือนทำงานตามใจฉัน ซึ่งมันไม่ถูกค่ะ เพราะการบริการควรมีมาตรฐานเดียวกัน ไม่ควรขึ้นอยู่กับว่าวันนั้นเจอพนักงานคนไหน\n\nนอกจากนั้นมีครั้งนึงที่ได้มีการเก็บเลือดไป แต่พนง.ไม่ได้ติดชื่อคนไข้ ซึ่งคุณหมอได้ทำการตักเตือนเจ้าหน้าที่ในครั้งนั้นโดยทันทีค่ะ หากคุณหมอไม่ได้ตักเตือน คงจะรู้สึกแย่กว่านี้เป็นอย่างมาก\n\nและมีอีกกรณีนึงตอนเจาะเลือดอีกเช่นกัน ไม่ทราบว่าด้วยเหตุใด แต่ตอนเจาะเลือด เลือดพุ่ง ไหลเลอะทั้งแขนและลงพื้น สิ่งที่ทำให้รู้สึกไม่โอเคมากกว่าตัวเหตุการณ์คือ พนักงานกลับคุยกันเหมือนเป็นเรื่องขำขัน แทนที่จะให้ความสำคัญกับคนไข้และสถานการณ์ตรงหน้าค่ะ\n\nข้อแนะนำคือควรเทรนเจ้าหน้าที่ฝ่ายทรีทเมนต์ให้มี professional standard ที่ชัดเจนและเป็นมาตรฐานเดียวกัน รวมถึงให้ความสำคัญกับความใส่ใจในหน้าที่และคนไข้ให้เสมอต้นเสมอปลาย ไม่ใช่ขึ้นอยู่กับว่าเจอพนักงานคนไหนในวันนั้นค่ะ\n\nEdit: เพื่อความแฟร์ ตั้งแต่ช่วงต้นปีที่ผ่านมา มีเจ้าหน้าที่พยาบาลเข้ามาทำการเจาะเลือด และเห็นถึงความ professional ของเจ้าหน้าที่เพิ่มขึ้นอย่างชัดเจนค่ะ ซึ่งเพิ่มความสบายใจให้อย่างมาก\n\nที่เขียนมาทั้งหมด(พร้อมตัวอย่าง) จุดประสงค์หลักคืออยากให้ทางคลินิกนำไปปรับปรุงเพื่อให้คุณภาพโดยรวมดียิ่งขึ้น และอยากให้มาตรฐานการบริการในส่วนอื่นๆ อยู่ในระดับเดียวกับมาตรฐานของคุณหมอและผลการรักษา หากสามารถปรับปรุงจุดที่กล่าวมาข้างต้นได้ คิดว่าคลินิกจะสามารถดึงดูดลูกค้าใหม่ และที่สำคัญคือรักษาลูกค้าเก่าไว้ได้อีกมากค่ะ\n\nเพราะส่วนตัวยังคงคิดว่าที่นี่เป็นคลินิกที่ดี มีคุณหมอที่เก่ง น่ารัก และมีคุณภาพมาก และยังคงอยากไปรักษาที่นี่ต่อค่ะ\n\nสรุป:\nคุณหมอเก่งจริงๆ ค่ะ มีฝีมือและสามารถรักษาปัญหาผมร่วงผมบางได้อย่างมีประสิทธิภาพ หากคุณให้ความสำคัญกับผลการรักษาเป็นหลักและไม่ได้ติดเรื่องการบริการมากนัก เราแนะนำคลินิกนี้เต็มที่ค่ะ\n\nแต่หากเป็นคนที่ให้ความสำคัญกับประสบการณ์โดยรวม ตั้งแต่การต้อนรับ การบริการ ไปจนถึงมาตรฐานการทำงานของเจ้าหน้าที่ ก็อาจมีข้อให้พิจารณาค่ะ\n\nหวังว่าการรีวิวครั้งนี้ จะเป็นประโยชน์กับทางคลินิกและลูกค้าท่านอื่นๆค่ะ"
+        },
         {
           "author": "Kanokporn Charoensuk",
           "name": "places/ChIJ5fkJ4U-f4jARNYReQ0lXtN4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21VM1ZHaGFhVUpLYkhWSE5qRkhTMVprVFdsaldWRRAB",
@@ -3696,14 +3704,6 @@
           "rating": 5,
           "relative_time": "5 เดือนที่แล้ว",
           "text": "มาใช้บริการที่คลีนิค  3 เดือน แล้ว หมอส่องกล้องเห็น ผมเส้นอ่อนๆเริ่มขึ้น  ผมร่วงก็ลดลง   กลางศรีษะเริ่ม ไม่ค่อยเห็นหนังหัว   ที่ร้านให้บริการและคำปรึกษาดีมากครับ"
-        },
-        {
-          "author": "scruple girl",
-          "name": "places/ChIJ5fkJ4U-f4jARNYReQ0lXtN4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWS1kyOUpiMUY0VG5aSWFUWTBaa2xNWkhkek5HYxAB",
-          "publish_time": "2026-04-17T13:00:28.423771482Z",
-          "rating": 5,
-          "relative_time": "6 เดือนที่แล้ว",
-          "text": "รักษาเรื่องผมบางมาแล้ว 6 เดือน ผมดูหนาขึ้น พนักงานบริการ ดูแลและพูดจาดี คุณหมอน่ารักเป็นกันเอง ราคาไม่แพง"
         }
       ],
       "user_ratings_total": 195
