@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T19:04:37Z",
+  "generated_at": "2026-10-28T19:11:45Z",
   "branches": [
     {
       "key": "bang_pu",
@@ -46,12 +46,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-08-26",
-          "new_reviews": 0,
-          "rating": 4.7,
-          "user_ratings_total": 96
-        },
         {
           "date": "2026-08-29",
           "new_reviews": 0,
@@ -405,9 +399,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 96
+        },
+        {
+          "date": "2026-10-29",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 96
         }
       ],
-      "last_synced": "2026-10-27T19:04:35Z"
+      "last_synced": "2026-10-28T19:11:44Z"
     },
     {
       "key": "saphan_khwai",
@@ -415,7 +415,7 @@
       "maps_url": "https://maps.app.goo.gl/dKbqCxBubmLV5uhG6",
       "status": "ok",
       "rating": 4.7,
-      "user_ratings_total": 195,
+      "user_ratings_total": 196,
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
@@ -454,12 +454,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-08-26",
-          "new_reviews": 0,
-          "rating": 4.8,
-          "user_ratings_total": 185
-        },
         {
           "date": "2026-08-29",
           "new_reviews": 0,
@@ -813,9 +807,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 195
+        },
+        {
+          "date": "2026-10-29",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 196
         }
       ],
-      "last_synced": "2026-10-27T19:04:36Z"
+      "last_synced": "2026-10-28T19:11:44Z"
     },
     {
       "key": "bang_yai",
@@ -862,12 +862,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-08-26",
-          "new_reviews": 0,
-          "rating": 4.8,
-          "user_ratings_total": 143
-        },
         {
           "date": "2026-08-29",
           "new_reviews": 0,
@@ -1221,9 +1215,15 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 156
+        },
+        {
+          "date": "2026-10-29",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 156
         }
       ],
-      "last_synced": "2026-10-27T19:04:36Z"
+      "last_synced": "2026-10-28T19:11:44Z"
     },
     {
       "key": "rangsit",
@@ -1270,12 +1270,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-08-26",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 347
-        },
         {
           "date": "2026-08-29",
           "new_reviews": 0,
@@ -1629,9 +1623,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 358
+        },
+        {
+          "date": "2026-10-29",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 358
         }
       ],
-      "last_synced": "2026-10-27T19:04:36Z"
+      "last_synced": "2026-10-28T19:11:44Z"
     },
     {
       "key": "pattaya",
@@ -1679,12 +1679,6 @@
       ],
       "daily_log": [
         {
-          "date": "2026-08-26",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
           "date": "2026-08-29",
           "new_reviews": 0,
           "rating": 5,
@@ -2037,9 +2031,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 38
+        },
+        {
+          "date": "2026-10-29",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 38
         }
       ],
-      "last_synced": "2026-10-27T19:04:36Z"
+      "last_synced": "2026-10-28T19:11:44Z"
     },
     {
       "key": "chiang_mai",
@@ -2087,12 +2087,6 @@
       ],
       "daily_log": [
         {
-          "date": "2026-08-26",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 15
-        },
-        {
           "date": "2026-08-29",
           "new_reviews": 0,
           "rating": 5,
@@ -2445,9 +2439,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 16
+        },
+        {
+          "date": "2026-10-29",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 16
         }
       ],
-      "last_synced": "2026-10-27T19:04:36Z"
+      "last_synced": "2026-10-28T19:11:45Z"
     },
     {
       "key": "phra_ram_9",
@@ -2495,12 +2495,6 @@
       ],
       "daily_log": [
         {
-          "date": "2026-08-26",
-          "new_reviews": 0,
-          "rating": 4.8,
-          "user_ratings_total": 24
-        },
-        {
           "date": "2026-08-29",
           "new_reviews": 0,
           "rating": 4.8,
@@ -2853,9 +2847,15 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 27
+        },
+        {
+          "date": "2026-10-29",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 27
         }
       ],
-      "last_synced": "2026-10-27T19:04:36Z"
+      "last_synced": "2026-10-28T19:11:45Z"
     },
     {
       "key": "bang_na",
@@ -2902,12 +2902,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-08-26",
-          "new_reviews": 4,
-          "rating": 5,
-          "user_ratings_total": 9
-        },
         {
           "date": "2026-08-29",
           "new_reviews": 3,
@@ -3261,9 +3255,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 22
+        },
+        {
+          "date": "2026-10-29",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 22
         }
       ],
-      "last_synced": "2026-10-27T19:04:36Z"
+      "last_synced": "2026-10-28T19:11:45Z"
     },
     {
       "key": "pinklao",
@@ -3303,19 +3303,13 @@
           "publish_time": "2026-09-27T14:13:16.010554102Z"
         },
         {
-          "author": "Wilasinee Kangngang",
+          "author": "Nonthiphat Pakvipasthawat",
           "rating": 5,
-          "text": "สถานที่สะอาดบริการดี พนักงานพูดจาเพราะบริการดีค่ะ",
-          "publish_time": "2026-09-19T08:33:44.471419147Z"
+          "text": "คุณหมอกับพนักงานน่ารักมาก เป็นกันเองไม่มีการบังคับขายคอร์สให้เราตัดสินใจเองสถานที่ดีมีที่จอดรถสะอาดสะอ้านดี",
+          "publish_time": "2026-09-12T08:09:55.286370342Z"
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-08-26",
-          "new_reviews": 0,
-          "rating": null,
-          "user_ratings_total": null
-        },
         {
           "date": "2026-08-29",
           "new_reviews": 0,
@@ -3669,9 +3663,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 8
+        },
+        {
+          "date": "2026-10-29",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 8
         }
       ],
-      "last_synced": "2026-10-27T19:04:36Z"
+      "last_synced": "2026-10-28T19:11:45Z"
     }
   ]
 }
