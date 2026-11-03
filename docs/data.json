@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T22:31:08Z",
+  "generated_at": "2026-11-03T20:20:55Z",
   "branches": [
     {
       "key": "bang_pu",
@@ -46,12 +46,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-03",
-          "new_reviews": 0,
-          "rating": 4.7,
-          "user_ratings_total": 96
-        },
         {
           "date": "2026-09-04",
           "new_reviews": 0,
@@ -405,9 +399,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 96
+        },
+        {
+          "date": "2026-11-04",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 96
         }
       ],
-      "last_synced": "2026-11-02T22:31:06Z"
+      "last_synced": "2026-11-03T20:20:54Z"
     },
     {
       "key": "saphan_khwai",
@@ -454,12 +454,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-03",
-          "new_reviews": 0,
-          "rating": 4.8,
-          "user_ratings_total": 190
-        },
         {
           "date": "2026-09-04",
           "new_reviews": 0,
@@ -813,9 +807,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 196
+        },
+        {
+          "date": "2026-11-04",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 196
         }
       ],
-      "last_synced": "2026-11-02T22:31:07Z"
+      "last_synced": "2026-11-03T20:20:54Z"
     },
     {
       "key": "bang_yai",
@@ -837,6 +837,12 @@
           "publish_time": "2026-09-05T12:20:22.040364880Z"
         },
         {
+          "author": "Benjapa Lertbunjerdjit",
+          "rating": 5,
+          "text": "ได้ปรึกษาปัญหาผมร่วงกับคุณหมอ แล้วได้ผลเป็นที่พอใจ ผมร่วงลดลง ผมแข็งแรงขึ้น น้องที่ให้บริการน่ารักทุกคน",
+          "publish_time": "2026-09-05T05:50:00.355426808Z"
+        },
+        {
           "author": "Kitisak Komol",
           "rating": 5,
           "text": "คุณหมอให้คำปรึกษาแนะนำดีมากครับ การบริการดีครับเดินทางสดวก",
@@ -853,21 +859,9 @@
           "rating": 5,
           "text": "พนักงานบริการดีสุภาพเป็นกันเองน่ารักรับฟังปัญหาที่ลูกค้ากังวลใจได้ดีไม่เสนอขายคอร์ทจนกดดันดีมากๆๆๆให้ลูกค้ารู้สึกสบายใจ",
           "publish_time": "2026-06-24T08:57:29.924961473Z"
-        },
-        {
-          "author": "bee วรี",
-          "rating": 5,
-          "text": "พนักงานน่ารักทุกคนค่ะมาครั้งแรก ประทับใจ แต่ผลลัพธ์ต้องดูอีกทีค่ะ  เห็นผลยังไงจะมารีวิวเพิ่มเติมให้ค่ะ",
-          "publish_time": "2026-04-17T09:12:32.055547681Z"
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-03",
-          "new_reviews": 0,
-          "rating": 4.8,
-          "user_ratings_total": 144
-        },
         {
           "date": "2026-09-04",
           "new_reviews": 0,
@@ -1221,9 +1215,15 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 157
+        },
+        {
+          "date": "2026-11-04",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 157
         }
       ],
-      "last_synced": "2026-11-02T22:31:07Z"
+      "last_synced": "2026-11-03T20:20:54Z"
     },
     {
       "key": "rangsit",
@@ -1270,12 +1270,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-03",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 350
-        },
         {
           "date": "2026-09-04",
           "new_reviews": 0,
@@ -1629,9 +1623,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 359
+        },
+        {
+          "date": "2026-11-04",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 359
         }
       ],
-      "last_synced": "2026-11-02T22:31:07Z"
+      "last_synced": "2026-11-03T20:20:54Z"
     },
     {
       "key": "pattaya",
@@ -1679,12 +1679,6 @@
       ],
       "daily_log": [
         {
-          "date": "2026-09-03",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
           "date": "2026-09-04",
           "new_reviews": 0,
           "rating": 5,
@@ -2037,9 +2031,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 38
+        },
+        {
+          "date": "2026-11-04",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 38
         }
       ],
-      "last_synced": "2026-11-02T22:31:07Z"
+      "last_synced": "2026-11-03T20:20:55Z"
     },
     {
       "key": "chiang_mai",
@@ -2051,9 +2051,15 @@
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
-      "last_review_time": "2026-06-22T15:20:00.912361987Z",
-      "last_review_relative": "4 เดือนที่แล้ว",
+      "last_review_time": "2026-10-22T07:33:20.320779329Z",
+      "last_review_relative": "สัปดาห์ที่แล้ว",
       "recent_reviews": [
+        {
+          "author": "adum fc",
+          "rating": 5,
+          "text": "พนักงานบริการดีมากครับ โดนเฉพาะคนทำทรีเมนต์ ทำช้าๆใจเย็นๆค่อยๆทำไม่รีบ ต่างจากสาขาอื่นมากคับ ส่วนตัวผมโอเคกับการบริการและเอาใจใส่แบบนี้",
+          "publish_time": "2026-10-22T07:33:20.320779329Z"
+        },
         {
           "author": "Chalapim C. (Khun Pim)",
           "rating": 5,
@@ -2073,12 +2079,6 @@
           "publish_time": "2026-05-20T13:33:37.270250486Z"
         },
         {
-          "author": "Fern Puangpaka Sasroem",
-          "rating": 5,
-          "text": "คลินิกเดินทางง่าย พนักงานดูแลดีมาก ให้คำแนะนำละเอียด หลังทำรู้สึกผมดีขึ้น เห็นผลจริงค่ะ",
-          "publish_time": "2026-03-14T04:24:08.650383564Z"
-        },
-        {
           "author": "Kim",
           "rating": 5,
           "text": "พนักงานบริการดีมากๆค่ะ พื้นที่สะอาด ที่จอดรถก็เยอะ และคุณหมอให้คำปรึกษาดีมากๆ เน้นให้การรักษามากกว่าขายคอร์ส",
@@ -2086,12 +2086,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-03",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 15
-        },
         {
           "date": "2026-09-04",
           "new_reviews": 0,
@@ -2445,9 +2439,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 16
+        },
+        {
+          "date": "2026-11-04",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 16
         }
       ],
-      "last_synced": "2026-11-02T22:31:07Z"
+      "last_synced": "2026-11-03T20:20:55Z"
     },
     {
       "key": "phra_ram_9",
@@ -2495,12 +2495,6 @@
       ],
       "daily_log": [
         {
-          "date": "2026-09-03",
-          "new_reviews": 0,
-          "rating": 4.8,
-          "user_ratings_total": 25
-        },
-        {
           "date": "2026-09-04",
           "new_reviews": 0,
           "rating": 4.8,
@@ -2853,9 +2847,15 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 27
+        },
+        {
+          "date": "2026-11-04",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 27
         }
       ],
-      "last_synced": "2026-11-02T22:31:07Z"
+      "last_synced": "2026-11-03T20:20:55Z"
     },
     {
       "key": "bang_na",
@@ -2903,12 +2903,6 @@
       ],
       "daily_log": [
         {
-          "date": "2026-09-03",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 20
-        },
-        {
           "date": "2026-09-04",
           "new_reviews": 0,
           "rating": 5,
@@ -3261,9 +3255,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 22
+        },
+        {
+          "date": "2026-11-04",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 22
         }
       ],
-      "last_synced": "2026-11-02T22:31:07Z"
+      "last_synced": "2026-11-03T20:20:55Z"
     },
     {
       "key": "pinklao",
@@ -3275,15 +3275,9 @@
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
-      "last_review_time": "2026-10-11T04:27:03.929540686Z",
+      "last_review_time": "2026-10-10T07:56:28.684361421Z",
       "last_review_relative": "3 สัปดาห์ที่แล้ว",
       "recent_reviews": [
-        {
-          "author": "Chaiwat Puthkhao",
-          "rating": 5,
-          "text": "พนักงานดูแลดีมากครับ สถานที่สะอาดมากครับ",
-          "publish_time": "2026-10-11T04:27:03.929540686Z"
-        },
         {
           "author": "Pook Chiochankitmun",
           "rating": 5,
@@ -3307,15 +3301,15 @@
           "rating": 5,
           "text": "สถานที่สะอาดบริการดี พนักงานพูดจาเพราะบริการดีค่ะ",
           "publish_time": "2026-09-19T08:33:44.471419147Z"
+        },
+        {
+          "author": "Nonthiphat Pakvipasthawat",
+          "rating": 5,
+          "text": "คุณหมอกับพนักงานน่ารักมาก เป็นกันเองไม่มีการบังคับขายคอร์สให้เราตัดสินใจเองสถานที่ดีมีที่จอดรถสะอาดสะอ้านดี",
+          "publish_time": "2026-09-12T08:09:55.286370342Z"
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-03",
-          "new_reviews": 0,
-          "rating": null,
-          "user_ratings_total": null
-        },
         {
           "date": "2026-09-04",
           "new_reviews": 0,
@@ -3669,9 +3663,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 8
+        },
+        {
+          "date": "2026-11-04",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 8
         }
       ],
-      "last_synced": "2026-11-02T22:31:08Z"
+      "last_synced": "2026-11-03T20:20:55Z"
     }
   ]
 }
