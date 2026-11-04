@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T20:20:55Z",
+  "generated_at": "2026-11-04T20:36:41Z",
   "branches": [
     {
       "key": "bang_pu",
@@ -11,9 +11,15 @@
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
-      "last_review_time": "2026-08-24T09:43:27.571000312Z",
+      "last_review_time": "2026-09-04T09:44:53.325439588Z",
       "last_review_relative": "2 เดือนที่แล้ว",
       "recent_reviews": [
+        {
+          "author": "ภพประเสริฐ ปีสุขยิ่งเจริญ",
+          "rating": 5,
+          "text": "การตัดสินใจที่ถูกใจคุ้มค่าและผลที่ได้จากการมารับบริการเป็นทร่น่าพอใจมากจากที่ไม่มีความเชื่อมั่นในการถ่ายรูปในอดีตตอนนี้มาได้เลยไม่ว่าจะถ่ายรูปหรือรับลมผมมีรูปทรงดูดีขึ้นมาก...ขอบคุณวีนิส ขอบคุณตัวเองที่ตัดสินใจมารับบริการที่นี้",
+          "publish_time": "2026-09-04T09:44:53.325439588Z"
+        },
         {
           "author": "Waranrach TEC.",
           "rating": 5,
@@ -25,12 +31,6 @@
           "rating": 3,
           "text": "ยิงแอดด้วยราคาน่าสนใจ แต่มาทำจริง ให้ซื้อคอร์สราคาหลักหมื่น",
           "publish_time": "2026-08-12T08:05:37.638147700Z"
-        },
-        {
-          "author": "สุมณี พยอมหอม",
-          "rating": 3,
-          "text": "อยากให้ปรับปรุงเรื่องจัดการเวลา นัดไว้บ่าย3 จนจะบ่าย4ครึ่งยังไม่ได้พบหมอ เลยบอกถ้า4โมงครึ่งยังไม่ได้พบหมอ อาจจะขอมาใหม่รอบหน้านะคะ พอดีมีธุระต่อค่ะ ถึงได้เข้าพบตอนบ่าย4ครึ่ง เพราะหมอจะเข้าแค่ศุกร์-อาทิตย์เวลา 13.00-18.00 น. ช่วงทำการน้อยไป เลยติดหลายๆเคสชนกัน การปรึกษาพบหมอ ให้คำแนะนำโอเครค่ะ เข้าใจปัญหาผมบางผมร่วง เจ้าหน้าที่บริการดีค่ะ แต่ยังไม่ได้ตัดสินใจซื้อคอสกังวลเรื่องเวลา เลยลองตัวเซรั่มมาใช้ก่อนค่ะ",
-          "publish_time": "2026-06-19T14:54:14.166524015Z"
         },
         {
           "author": "phattaravarin promjak",
@@ -46,12 +46,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-04",
-          "new_reviews": 0,
-          "rating": 4.7,
-          "user_ratings_total": 97
-        },
         {
           "date": "2026-09-05",
           "new_reviews": 0,
@@ -405,9 +399,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 96
+        },
+        {
+          "date": "2026-11-05",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 96
         }
       ],
-      "last_synced": "2026-11-03T20:20:54Z"
+      "last_synced": "2026-11-04T20:36:40Z"
     },
     {
       "key": "saphan_khwai",
@@ -454,12 +454,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-04",
-          "new_reviews": 0,
-          "rating": 4.8,
-          "user_ratings_total": 190
-        },
         {
           "date": "2026-09-05",
           "new_reviews": 0,
@@ -813,9 +807,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 196
+        },
+        {
+          "date": "2026-11-05",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 196
         }
       ],
-      "last_synced": "2026-11-03T20:20:54Z"
+      "last_synced": "2026-11-04T20:36:40Z"
     },
     {
       "key": "bang_yai",
@@ -823,12 +823,12 @@
       "maps_url": "https://maps.app.goo.gl/5cWsxq4fQf7jAGqw9",
       "status": "ok",
       "rating": 4.9,
-      "user_ratings_total": 157,
+      "user_ratings_total": 156,
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
       "last_review_time": "2026-09-05T12:20:22.040364880Z",
-      "last_review_relative": "เดือนที่แล้ว",
+      "last_review_relative": "2 เดือนที่แล้ว",
       "recent_reviews": [
         {
           "author": "มนสุพัชร วรเดชณรงค์กิจ",
@@ -837,16 +837,16 @@
           "publish_time": "2026-09-05T12:20:22.040364880Z"
         },
         {
-          "author": "Benjapa Lertbunjerdjit",
-          "rating": 5,
-          "text": "ได้ปรึกษาปัญหาผมร่วงกับคุณหมอ แล้วได้ผลเป็นที่พอใจ ผมร่วงลดลง ผมแข็งแรงขึ้น น้องที่ให้บริการน่ารักทุกคน",
-          "publish_time": "2026-09-05T05:50:00.355426808Z"
-        },
-        {
           "author": "Kitisak Komol",
           "rating": 5,
           "text": "คุณหมอให้คำปรึกษาแนะนำดีมากครับ การบริการดีครับเดินทางสดวก",
           "publish_time": "2026-09-02T12:03:06.532899596Z"
+        },
+        {
+          "author": "Ball Kittithat",
+          "rating": 5,
+          "text": "คุณหมอและพนักงานแนะนำดี ยาสระผมใช้แล้วอาการคันและผมขาดร่วงดีขึ้น #ผมหนาได้ไม่ง้อปลูก",
+          "publish_time": "2026-07-05T03:46:57.063041200Z"
         },
         {
           "author": "Narisphong",
@@ -862,12 +862,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-04",
-          "new_reviews": 0,
-          "rating": 4.8,
-          "user_ratings_total": 144
-        },
         {
           "date": "2026-09-05",
           "new_reviews": 0,
@@ -1221,9 +1215,15 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 157
+        },
+        {
+          "date": "2026-11-05",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 156
         }
       ],
-      "last_synced": "2026-11-03T20:20:54Z"
+      "last_synced": "2026-11-04T20:36:40Z"
     },
     {
       "key": "rangsit",
@@ -1236,7 +1236,7 @@
       "today_reviews": [],
       "low_rating_alerts_today": [],
       "last_review_time": "2026-09-05T10:10:36.270235448Z",
-      "last_review_relative": "เดือนที่แล้ว",
+      "last_review_relative": "2 เดือนที่แล้ว",
       "recent_reviews": [
         {
           "author": "Weerapon S",
@@ -1270,12 +1270,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-04",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 351
-        },
         {
           "date": "2026-09-05",
           "new_reviews": 0,
@@ -1629,9 +1623,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 359
+        },
+        {
+          "date": "2026-11-05",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 359
         }
       ],
-      "last_synced": "2026-11-03T20:20:54Z"
+      "last_synced": "2026-11-04T20:36:41Z"
     },
     {
       "key": "pattaya",
@@ -1679,12 +1679,6 @@
       ],
       "daily_log": [
         {
-          "date": "2026-09-04",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
           "date": "2026-09-05",
           "new_reviews": 0,
           "rating": 5,
@@ -2037,9 +2031,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 38
+        },
+        {
+          "date": "2026-11-05",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 38
         }
       ],
-      "last_synced": "2026-11-03T20:20:55Z"
+      "last_synced": "2026-11-04T20:36:41Z"
     },
     {
       "key": "chiang_mai",
@@ -2087,12 +2087,6 @@
       ],
       "daily_log": [
         {
-          "date": "2026-09-04",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 15
-        },
-        {
           "date": "2026-09-05",
           "new_reviews": 0,
           "rating": 5,
@@ -2445,9 +2439,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 16
+        },
+        {
+          "date": "2026-11-05",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 16
         }
       ],
-      "last_synced": "2026-11-03T20:20:55Z"
+      "last_synced": "2026-11-04T20:36:41Z"
     },
     {
       "key": "phra_ram_9",
@@ -2495,12 +2495,6 @@
       ],
       "daily_log": [
         {
-          "date": "2026-09-04",
-          "new_reviews": 0,
-          "rating": 4.8,
-          "user_ratings_total": 25
-        },
-        {
           "date": "2026-09-05",
           "new_reviews": 0,
           "rating": 4.8,
@@ -2853,9 +2847,15 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 27
+        },
+        {
+          "date": "2026-11-05",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 27
         }
       ],
-      "last_synced": "2026-11-03T20:20:55Z"
+      "last_synced": "2026-11-04T20:36:41Z"
     },
     {
       "key": "bang_na",
@@ -2867,20 +2867,20 @@
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
-      "last_review_time": "2026-08-26T11:45:20.359230734Z",
+      "last_review_time": "2026-08-26T05:59:22.141136217Z",
       "last_review_relative": "2 เดือนที่แล้ว",
       "recent_reviews": [
-        {
-          "author": "Pichaya M",
-          "rating": 5,
-          "text": "ลองมาปรึกษาครั้งแรก เพราะมีปัญหาผมร่วงเยอะและผมเริ่มบาง คุณหมอให้คำแนะนำดี โดยรวมประทับใจค่ะ",
-          "publish_time": "2026-08-26T11:45:20.359230734Z"
-        },
         {
           "author": "Artidtayaporn Seenampeng",
           "rating": 5,
           "text": "คลินิกสะอาด สวยบรรยากาศดี พนักงานต้อนรับยิ้มแย้มอย่างดีพยาบาลบริการดีเป็นกันเองสุดๆ",
           "publish_time": "2026-08-26T05:59:22.141136217Z"
+        },
+        {
+          "author": "TANG MO",
+          "rating": 5,
+          "text": "บรรยากาศคลินิกสะอาด เป็นระเบียบ พนักงานบริการดี พูดจาน่ารัก ให้คำแนะนำค่อนข้างละเอียด ทำให้รู้สึกสบายใจตั้งแต่เข้ามาครั้งแรกเลยค่ะ\n\nส่วนตัวชอบตรงที่คุณหมออธิบายให้เข้าใจว่าปัญหาผมของเราเกิดจากอะไร และควรดูแลต่อยังไง เพราะเรื่องผมต้องใช้เวลา ไม่ใช่ทำครั้งเดียวแล้วเห็นผลทันที 🤍",
+          "publish_time": "2026-08-25T12:11:03.875018274Z"
         },
         {
           "author": "Thanyachanok Tosri",
@@ -2903,12 +2903,6 @@
       ],
       "daily_log": [
         {
-          "date": "2026-09-04",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 20
-        },
-        {
           "date": "2026-09-05",
           "new_reviews": 0,
           "rating": 5,
@@ -3261,9 +3255,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 22
+        },
+        {
+          "date": "2026-11-05",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 22
         }
       ],
-      "last_synced": "2026-11-03T20:20:55Z"
+      "last_synced": "2026-11-04T20:36:41Z"
     },
     {
       "key": "pinklao",
@@ -3310,12 +3310,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-04",
-          "new_reviews": 0,
-          "rating": null,
-          "user_ratings_total": null
-        },
         {
           "date": "2026-09-05",
           "new_reviews": 0,
@@ -3669,9 +3663,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 8
+        },
+        {
+          "date": "2026-11-05",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 8
         }
       ],
-      "last_synced": "2026-11-03T20:20:55Z"
+      "last_synced": "2026-11-04T20:36:41Z"
     }
   ]
 }
