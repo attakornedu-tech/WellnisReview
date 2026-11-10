@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T23:13:08Z",
+  "generated_at": "2026-11-10T20:39:06Z",
   "branches": [
     {
       "key": "bang_pu",
@@ -46,12 +46,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-10",
-          "new_reviews": 0,
-          "rating": 4.7,
-          "user_ratings_total": 97
-        },
         {
           "date": "2026-09-11",
           "new_reviews": 0,
@@ -405,9 +399,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 97
+        },
+        {
+          "date": "2026-11-11",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 97
         }
       ],
-      "last_synced": "2026-11-09T23:13:06Z"
+      "last_synced": "2026-11-10T20:39:04Z"
     },
     {
       "key": "saphan_khwai",
@@ -419,9 +419,15 @@
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
-      "last_review_time": "2026-09-24T21:07:56.210800527Z",
+      "last_review_time": "2026-09-30T14:50:21.337860276Z",
       "last_review_relative": "เดือนที่แล้ว",
       "recent_reviews": [
+        {
+          "author": "EuvEve",
+          "rating": 2,
+          "text": "บริการดีรอไม่นาน แต่คุณหมอแรกๆดูแลดีหลังๆจะให้เราเข้าคอร์สเต็มไปหมดทั้งๆที่แค่ทานยากับหยอดเซรั่มก็ได้ผลที่พึงพอใจแล้ว เจ้าหน้าที่ส่องกล้องผมแรกๆดูแลดี พักหลังเหมือนรังเกียจหนังศีรษะเราไม่อยากให้บริการ\n*เรื่องคำแนะนำไม่ชัดเจน การรักษาเน้นจดด้วยปากกาใส่กระดาษ A4 ดูไม่น่าเชื่อถือ เรื่องการเงินค่ารักษาก็เช่นกัน จดใส่กระดาษให้ดู/พิจารณา ไม่มีแบบฟอร์มหรือข้อมูลน่าเชื่อถือที่ชัดเจน\n*ส่วนยาที่ให้มาทานไม่มีส่วนผสมข้างขวดว่ามีส่วนผสมของอะไร อันตรายหรือไม่ ทานติดต่อกันได้นานแค่ไหน ติดเรื่องความปลอดภัย",
+          "publish_time": "2026-09-30T14:50:21.337860276Z"
+        },
         {
           "author": "P. Gamyui",
           "rating": 3,
@@ -441,12 +447,6 @@
           "publish_time": "2026-08-08T07:05:17.513278711Z"
         },
         {
-          "author": "Sivachaya S",
-          "rating": 5,
-          "text": "พนักงานบริการดี พูดจาเพราะ คลิกนิกกว้างขวาง สะอาด เข้ามาปรึกษาเกี่ยวกับอาการผมร่วงผมบาง คุณหมอให้คำปรึกษาดีค่ะ",
-          "publish_time": "2026-05-07T10:45:54.391073981Z"
-        },
-        {
           "author": "ธีรชน แสวงผล",
           "rating": 5,
           "text": "มาใช้บริการที่คลีนิค  3 เดือน แล้ว หมอส่องกล้องเห็น ผมเส้นอ่อนๆเริ่มขึ้น  ผมร่วงก็ลดลง   กลางศรีษะเริ่ม ไม่ค่อยเห็นหนังหัว   ที่ร้านให้บริการและคำปรึกษาดีมากครับ",
@@ -454,12 +454,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-10",
-          "new_reviews": 0,
-          "rating": 4.8,
-          "user_ratings_total": 191
-        },
         {
           "date": "2026-09-11",
           "new_reviews": 0,
@@ -813,9 +807,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 196
+        },
+        {
+          "date": "2026-11-11",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 196
         }
       ],
-      "last_synced": "2026-11-09T23:13:07Z"
+      "last_synced": "2026-11-10T20:39:04Z"
     },
     {
       "key": "bang_yai",
@@ -862,12 +862,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-10",
-          "new_reviews": 0,
-          "rating": 4.9,
-          "user_ratings_total": 149
-        },
         {
           "date": "2026-09-11",
           "new_reviews": 0,
@@ -1221,9 +1215,15 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 157
+        },
+        {
+          "date": "2026-11-11",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 157
         }
       ],
-      "last_synced": "2026-11-09T23:13:07Z"
+      "last_synced": "2026-11-10T20:39:04Z"
     },
     {
       "key": "rangsit",
@@ -1270,12 +1270,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-10",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 354
-        },
         {
           "date": "2026-09-11",
           "new_reviews": 0,
@@ -1629,9 +1623,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 360
+        },
+        {
+          "date": "2026-11-11",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 360
         }
       ],
-      "last_synced": "2026-11-09T23:13:07Z"
+      "last_synced": "2026-11-10T20:39:05Z"
     },
     {
       "key": "pattaya",
@@ -1679,12 +1679,6 @@
       ],
       "daily_log": [
         {
-          "date": "2026-09-10",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
           "date": "2026-09-11",
           "new_reviews": 0,
           "rating": 5,
@@ -2037,9 +2031,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 38
+        },
+        {
+          "date": "2026-11-11",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 38
         }
       ],
-      "last_synced": "2026-11-09T23:13:07Z"
+      "last_synced": "2026-11-10T20:39:05Z"
     },
     {
       "key": "chiang_mai",
@@ -2087,12 +2087,6 @@
       ],
       "daily_log": [
         {
-          "date": "2026-09-10",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 15
-        },
-        {
           "date": "2026-09-11",
           "new_reviews": 0,
           "rating": 5,
@@ -2445,9 +2439,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 16
+        },
+        {
+          "date": "2026-11-11",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 16
         }
       ],
-      "last_synced": "2026-11-09T23:13:07Z"
+      "last_synced": "2026-11-10T20:39:05Z"
     },
     {
       "key": "phra_ram_9",
@@ -2495,12 +2495,6 @@
       ],
       "daily_log": [
         {
-          "date": "2026-09-10",
-          "new_reviews": 0,
-          "rating": 4.8,
-          "user_ratings_total": 25
-        },
-        {
           "date": "2026-09-11",
           "new_reviews": 0,
           "rating": 4.8,
@@ -2853,9 +2847,15 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 27
+        },
+        {
+          "date": "2026-11-11",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 27
         }
       ],
-      "last_synced": "2026-11-09T23:13:07Z"
+      "last_synced": "2026-11-10T20:39:05Z"
     },
     {
       "key": "bang_na",
@@ -2903,12 +2903,6 @@
       ],
       "daily_log": [
         {
-          "date": "2026-09-10",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 20
-        },
-        {
           "date": "2026-09-11",
           "new_reviews": 0,
           "rating": 5,
@@ -3261,9 +3255,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 22
+        },
+        {
+          "date": "2026-11-11",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 22
         }
       ],
-      "last_synced": "2026-11-09T23:13:07Z"
+      "last_synced": "2026-11-10T20:39:05Z"
     },
     {
       "key": "pinklao",
@@ -3310,12 +3310,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-10",
-          "new_reviews": 0,
-          "rating": null,
-          "user_ratings_total": null
-        },
         {
           "date": "2026-09-11",
           "new_reviews": 0,
@@ -3669,9 +3663,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 8
+        },
+        {
+          "date": "2026-11-11",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 8
         }
       ],
-      "last_synced": "2026-11-09T23:13:08Z"
+      "last_synced": "2026-11-10T20:39:06Z"
     }
   ]
 }
