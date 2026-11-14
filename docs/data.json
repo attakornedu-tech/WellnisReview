@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T21:14:55Z",
+  "generated_at": "2026-11-14T18:53:51Z",
   "branches": [
     {
       "key": "bang_pu",
@@ -33,25 +33,19 @@
           "publish_time": "2026-08-12T08:05:37.638147700Z"
         },
         {
+          "author": "สุมณี พยอมหอม",
+          "rating": 3,
+          "text": "อยากให้ปรับปรุงเรื่องจัดการเวลา นัดไว้บ่าย3 จนจะบ่าย4ครึ่งยังไม่ได้พบหมอ เลยบอกถ้า4โมงครึ่งยังไม่ได้พบหมอ อาจจะขอมาใหม่รอบหน้านะคะ พอดีมีธุระต่อค่ะ ถึงได้เข้าพบตอนบ่าย4ครึ่ง เพราะหมอจะเข้าแค่ศุกร์-อาทิตย์เวลา 13.00-18.00 น. ช่วงทำการน้อยไป เลยติดหลายๆเคสชนกัน การปรึกษาพบหมอ ให้คำแนะนำโอเครค่ะ เข้าใจปัญหาผมบางผมร่วง เจ้าหน้าที่บริการดีค่ะ แต่ยังไม่ได้ตัดสินใจซื้อคอสกังวลเรื่องเวลา เลยลองตัวเซรั่มมาใช้ก่อนค่ะ",
+          "publish_time": "2026-06-19T14:54:14.166524015Z"
+        },
+        {
           "author": "phattaravarin promjak",
           "rating": 1,
           "text": "ระบบจัดการคิวมีปัญหาค่ะ นัด 13.00 ได้เข้าหาหมอจริงๆ 14.00 แล้วบอกว่าคิวไม่ว่าง หมอติดเคสเยอะ แต่งงว่าแล้วจะรับนัดบ่ายโมงทำไมถ้าไม่ว่าง นัดมา 14.00 ลูกค้าจะได้ไม่ต้องรอ\nส่วนรูปเปรียบเทียบการรักษาแต่ละครั้ง ไม่เคยได้ค่ะ เลยไม่รู้ว่ามี progress ไหมตอบไม่ได้จริงๆ ทางคลินิคแจ้งว่า ต้องรอ 3 เดือนก่อน ถึงจะขอรูปเปรียบเทียบได้ (ทั้งๆที่เป็นรูปของตัวเอง) ผ่านมา 3 เดือนแล้ว ก้ขอไปใหม่ ยังไม่ได้เลยค่ะ ดำเนินการช้ามาก เหมือนไม่ค่อยใส่ใจลูกค้า\nรักษาโปรแกรม hair regrowth สำหรับผมบางอยู่ค่ะ ส่วนตัวไม่ได้รู้สึกว่าผมร่วงน้อยลง รูปเปรียบเทียบ(ของตัวเอง) ทางคลินิคก็ไม่ให้ดู เลยไม่รู้ว่าดีขึ้นไหม ตอบไม่ได้ค่ะ",
           "publish_time": "2026-05-24T04:59:00.932476041Z"
-        },
-        {
-          "author": "asiya matiwat",
-          "rating": 5,
-          "text": "คุณหมอให้คำแนะนำดีมาก พนักงานบริการดี\nพื้นที่คลินิค สวย สะอาด\nเตียงที่นั่งระหว่างทำหัตการดีมากก นั่งปุ๊บหลับปั๊บ",
-          "publish_time": "2026-05-09T15:59:04.360708120Z"
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-13",
-          "new_reviews": 0,
-          "rating": 4.7,
-          "user_ratings_total": 97
-        },
         {
           "date": "2026-09-14",
           "new_reviews": 0,
@@ -405,9 +399,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 97
+        },
+        {
+          "date": "2026-11-15",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 97
         }
       ],
-      "last_synced": "2026-11-12T21:14:54Z"
+      "last_synced": "2026-11-14T18:53:50Z"
     },
     {
       "key": "saphan_khwai",
@@ -454,12 +454,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-13",
-          "new_reviews": 0,
-          "rating": 4.8,
-          "user_ratings_total": 191
-        },
         {
           "date": "2026-09-14",
           "new_reviews": 0,
@@ -813,9 +807,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 197
+        },
+        {
+          "date": "2026-11-15",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 197
         }
       ],
-      "last_synced": "2026-11-12T21:14:54Z"
+      "last_synced": "2026-11-14T18:53:50Z"
     },
     {
       "key": "bang_yai",
@@ -862,12 +862,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-13",
-          "new_reviews": 0,
-          "rating": 4.9,
-          "user_ratings_total": 149
-        },
         {
           "date": "2026-09-14",
           "new_reviews": 0,
@@ -1221,9 +1215,15 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 157
+        },
+        {
+          "date": "2026-11-15",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 157
         }
       ],
-      "last_synced": "2026-11-12T21:14:54Z"
+      "last_synced": "2026-11-14T18:53:50Z"
     },
     {
       "key": "rangsit",
@@ -1231,7 +1231,7 @@
       "maps_url": "https://maps.app.goo.gl/uj3Pvc3VCqMZJZvW9",
       "status": "ok",
       "rating": 5,
-      "user_ratings_total": 360,
+      "user_ratings_total": 367,
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
@@ -1263,19 +1263,13 @@
           "publish_time": "2026-04-23T07:36:49.477607217Z"
         },
         {
-          "author": "Duean's Crib",
+          "author": "jay pp",
           "rating": 5,
-          "text": "สถานที่สะอาด มีที่จอดรถเยอะ เดินทางสะดวก พนักงานทุกคนบริการดี พูดจาไพเราะ มีการตรวจโดยแพทย์เฉพาะทาง ให้คำปรึกษาดี-ชัดเจน เราทำโปรแกรม HRP กับทานยาและวิตามิน ร่วมกับทาที่ศีรษะ ทำมาได้ 2 เดือนแล้ว ผมร่วงน้อยลงและผมใหม่เริ่มงอก เห็นผลนะคะ แนะนำค่ะ",
-          "publish_time": "2025-10-20T07:49:49.618043285Z"
+          "text": "สถานที่สะดวก สะอาด ที่จอดรถมีเยอะ พนักงานบริการดีมาก คุณหมอให้คำแนะนำดี มีขั้นตอนการรักษา แจ้งรายละเอียดราคาชัดเจน เข้ารับการรักษาแล้วดีขึ้นจริงครับ",
+          "publish_time": "2025-09-20T05:05:09.174296128Z"
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-13",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 356
-        },
         {
           "date": "2026-09-14",
           "new_reviews": 0,
@@ -1629,9 +1623,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 360
+        },
+        {
+          "date": "2026-11-15",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 367
         }
       ],
-      "last_synced": "2026-11-12T21:14:54Z"
+      "last_synced": "2026-11-14T18:53:50Z"
     },
     {
       "key": "pattaya",
@@ -1679,12 +1679,6 @@
       ],
       "daily_log": [
         {
-          "date": "2026-09-13",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
           "date": "2026-09-14",
           "new_reviews": 0,
           "rating": 5,
@@ -2037,9 +2031,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 38
+        },
+        {
+          "date": "2026-11-15",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 38
         }
       ],
-      "last_synced": "2026-11-12T21:14:55Z"
+      "last_synced": "2026-11-14T18:53:50Z"
     },
     {
       "key": "chiang_mai",
@@ -2047,7 +2047,7 @@
       "maps_url": "https://maps.app.goo.gl/4Dyp4A6Xd6TBhXDc7",
       "status": "ok",
       "rating": 5,
-      "user_ratings_total": 16,
+      "user_ratings_total": 17,
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
@@ -2087,12 +2087,6 @@
       ],
       "daily_log": [
         {
-          "date": "2026-09-13",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 15
-        },
-        {
           "date": "2026-09-14",
           "new_reviews": 0,
           "rating": 5,
@@ -2445,17 +2439,23 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 16
+        },
+        {
+          "date": "2026-11-15",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 17
         }
       ],
-      "last_synced": "2026-11-12T21:14:55Z"
+      "last_synced": "2026-11-14T18:53:51Z"
     },
     {
       "key": "phra_ram_9",
       "name": "สาขาพระราม 9",
       "maps_url": "https://maps.app.goo.gl/5jmP8YQ1sWqZ4uE67",
       "status": "ok",
-      "rating": 4.8,
-      "user_ratings_total": 26,
+      "rating": 4.9,
+      "user_ratings_total": 44,
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
@@ -2495,12 +2495,6 @@
       ],
       "daily_log": [
         {
-          "date": "2026-09-13",
-          "new_reviews": 0,
-          "rating": 4.8,
-          "user_ratings_total": 26
-        },
-        {
           "date": "2026-09-14",
           "new_reviews": 0,
           "rating": 4.8,
@@ -2853,9 +2847,15 @@
           "new_reviews": 0,
           "rating": 4.8,
           "user_ratings_total": 26
+        },
+        {
+          "date": "2026-11-15",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 44
         }
       ],
-      "last_synced": "2026-11-12T21:14:55Z"
+      "last_synced": "2026-11-14T18:53:51Z"
     },
     {
       "key": "bang_na",
@@ -2903,12 +2903,6 @@
       ],
       "daily_log": [
         {
-          "date": "2026-09-13",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 21
-        },
-        {
           "date": "2026-09-14",
           "new_reviews": 0,
           "rating": 5,
@@ -3261,9 +3255,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 22
+        },
+        {
+          "date": "2026-11-15",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 22
         }
       ],
-      "last_synced": "2026-11-12T21:14:55Z"
+      "last_synced": "2026-11-14T18:53:51Z"
     },
     {
       "key": "pinklao",
@@ -3310,12 +3310,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-13",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 1
-        },
         {
           "date": "2026-09-14",
           "new_reviews": 0,
@@ -3669,9 +3663,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 8
+        },
+        {
+          "date": "2026-11-15",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 8
         }
       ],
-      "last_synced": "2026-11-12T21:14:55Z"
+      "last_synced": "2026-11-14T18:53:51Z"
     }
   ]
 }
