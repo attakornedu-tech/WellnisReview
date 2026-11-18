@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T21:57:28Z",
+  "generated_at": "2026-11-18T21:39:34Z",
   "branches": [
     {
       "key": "bang_pu",
@@ -46,12 +46,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-17",
-          "new_reviews": 0,
-          "rating": 4.7,
-          "user_ratings_total": 97
-        },
         {
           "date": "2026-09-18",
           "new_reviews": 0,
@@ -405,9 +399,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 97
+        },
+        {
+          "date": "2026-11-19",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 97
         }
       ],
-      "last_synced": "2026-11-17T21:57:27Z"
+      "last_synced": "2026-11-18T21:39:33Z"
     },
     {
       "key": "saphan_khwai",
@@ -454,12 +454,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-17",
-          "new_reviews": 0,
-          "rating": 4.8,
-          "user_ratings_total": 191
-        },
         {
           "date": "2026-09-18",
           "new_reviews": 0,
@@ -813,9 +807,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 197
+        },
+        {
+          "date": "2026-11-19",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 197
         }
       ],
-      "last_synced": "2026-11-17T21:57:27Z"
+      "last_synced": "2026-11-18T21:39:33Z"
     },
     {
       "key": "bang_yai",
@@ -862,12 +862,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-17",
-          "new_reviews": 0,
-          "rating": 4.9,
-          "user_ratings_total": 149
-        },
         {
           "date": "2026-09-18",
           "new_reviews": 0,
@@ -1221,9 +1215,15 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 158
+        },
+        {
+          "date": "2026-11-19",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 158
         }
       ],
-      "last_synced": "2026-11-17T21:57:27Z"
+      "last_synced": "2026-11-18T21:39:34Z"
     },
     {
       "key": "rangsit",
@@ -1231,7 +1231,7 @@
       "maps_url": "https://maps.app.goo.gl/uj3Pvc3VCqMZJZvW9",
       "status": "ok",
       "rating": 5,
-      "user_ratings_total": 373,
+      "user_ratings_total": 377,
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
@@ -1263,19 +1263,13 @@
           "publish_time": "2026-04-23T07:36:49.477607217Z"
         },
         {
-          "author": "jay pp",
+          "author": "Duean's Crib",
           "rating": 5,
-          "text": "สถานที่สะดวก สะอาด ที่จอดรถมีเยอะ พนักงานบริการดีมาก คุณหมอให้คำแนะนำดี มีขั้นตอนการรักษา แจ้งรายละเอียดราคาชัดเจน เข้ารับการรักษาแล้วดีขึ้นจริงครับ",
-          "publish_time": "2025-09-20T05:05:09.174296128Z"
+          "text": "สถานที่สะอาด มีที่จอดรถเยอะ เดินทางสะดวก พนักงานทุกคนบริการดี พูดจาไพเราะ มีการตรวจโดยแพทย์เฉพาะทาง ให้คำปรึกษาดี-ชัดเจน เราทำโปรแกรม HRP กับทานยาและวิตามิน ร่วมกับทาที่ศีรษะ ทำมาได้ 2 เดือนแล้ว ผมร่วงน้อยลงและผมใหม่เริ่มงอก เห็นผลนะคะ แนะนำค่ะ",
+          "publish_time": "2025-10-20T07:49:49.618043285Z"
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-17",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 356
-        },
         {
           "date": "2026-09-18",
           "new_reviews": 0,
@@ -1629,9 +1623,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 373
+        },
+        {
+          "date": "2026-11-19",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 377
         }
       ],
-      "last_synced": "2026-11-17T21:57:27Z"
+      "last_synced": "2026-11-18T21:39:34Z"
     },
     {
       "key": "pattaya",
@@ -1679,12 +1679,6 @@
       ],
       "daily_log": [
         {
-          "date": "2026-09-17",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
           "date": "2026-09-18",
           "new_reviews": 0,
           "rating": 5,
@@ -2037,9 +2031,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 38
+        },
+        {
+          "date": "2026-11-19",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 38
         }
       ],
-      "last_synced": "2026-11-17T21:57:27Z"
+      "last_synced": "2026-11-18T21:39:34Z"
     },
     {
       "key": "chiang_mai",
@@ -2087,12 +2087,6 @@
       ],
       "daily_log": [
         {
-          "date": "2026-09-17",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 15
-        },
-        {
           "date": "2026-09-18",
           "new_reviews": 0,
           "rating": 5,
@@ -2445,9 +2439,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 17
+        },
+        {
+          "date": "2026-11-19",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 17
         }
       ],
-      "last_synced": "2026-11-17T21:57:27Z"
+      "last_synced": "2026-11-18T21:39:34Z"
     },
     {
       "key": "phra_ram_9",
@@ -2494,12 +2494,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-17",
-          "new_reviews": 0,
-          "rating": 4.8,
-          "user_ratings_total": 26
-        },
         {
           "date": "2026-09-18",
           "new_reviews": 0,
@@ -2853,9 +2847,15 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 46
+        },
+        {
+          "date": "2026-11-19",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 46
         }
       ],
-      "last_synced": "2026-11-17T21:57:27Z"
+      "last_synced": "2026-11-18T21:39:34Z"
     },
     {
       "key": "bang_na",
@@ -2902,12 +2902,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-17",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 21
-        },
         {
           "date": "2026-09-18",
           "new_reviews": 0,
@@ -3261,9 +3255,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 22
+        },
+        {
+          "date": "2026-11-19",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 22
         }
       ],
-      "last_synced": "2026-11-17T21:57:28Z"
+      "last_synced": "2026-11-18T21:39:34Z"
     },
     {
       "key": "pinklao",
@@ -3310,12 +3310,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-17",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 1
-        },
         {
           "date": "2026-09-18",
           "new_reviews": 0,
@@ -3669,9 +3663,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 8
+        },
+        {
+          "date": "2026-11-19",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 8
         }
       ],
-      "last_synced": "2026-11-17T21:57:28Z"
+      "last_synced": "2026-11-18T21:39:34Z"
     }
   ]
 }
