@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T21:39:34Z",
+  "generated_at": "2026-11-19T21:55:13Z",
   "branches": [
     {
       "key": "bang_pu",
@@ -7,7 +7,7 @@
       "maps_url": "https://maps.app.goo.gl/RkZGhTjopWAgEPZDA",
       "status": "ok",
       "rating": 4.7,
-      "user_ratings_total": 97,
+      "user_ratings_total": 101,
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
@@ -33,25 +33,19 @@
           "publish_time": "2026-08-12T08:05:37.638147700Z"
         },
         {
-          "author": "สุมณี พยอมหอม",
-          "rating": 3,
-          "text": "อยากให้ปรับปรุงเรื่องจัดการเวลา นัดไว้บ่าย3 จนจะบ่าย4ครึ่งยังไม่ได้พบหมอ เลยบอกถ้า4โมงครึ่งยังไม่ได้พบหมอ อาจจะขอมาใหม่รอบหน้านะคะ พอดีมีธุระต่อค่ะ ถึงได้เข้าพบตอนบ่าย4ครึ่ง เพราะหมอจะเข้าแค่ศุกร์-อาทิตย์เวลา 13.00-18.00 น. ช่วงทำการน้อยไป เลยติดหลายๆเคสชนกัน การปรึกษาพบหมอ ให้คำแนะนำโอเครค่ะ เข้าใจปัญหาผมบางผมร่วง เจ้าหน้าที่บริการดีค่ะ แต่ยังไม่ได้ตัดสินใจซื้อคอสกังวลเรื่องเวลา เลยลองตัวเซรั่มมาใช้ก่อนค่ะ",
-          "publish_time": "2026-06-19T14:54:14.166524015Z"
+          "author": "ปุริญปรัชญ์ โพธิ์ขาว",
+          "rating": 5,
+          "text": "สระผมสบายมากค่ะ ฟิวดีมาก พี่พนักงานบริการดีแนะนำเลยสำหรับใครที่อยากผ่อนคลาย👍🏻",
+          "publish_time": "2025-02-18T09:06:01.714062Z"
         },
         {
-          "author": "phattaravarin promjak",
-          "rating": 1,
-          "text": "ระบบจัดการคิวมีปัญหาค่ะ นัด 13.00 ได้เข้าหาหมอจริงๆ 14.00 แล้วบอกว่าคิวไม่ว่าง หมอติดเคสเยอะ แต่งงว่าแล้วจะรับนัดบ่ายโมงทำไมถ้าไม่ว่าง นัดมา 14.00 ลูกค้าจะได้ไม่ต้องรอ\nส่วนรูปเปรียบเทียบการรักษาแต่ละครั้ง ไม่เคยได้ค่ะ เลยไม่รู้ว่ามี progress ไหมตอบไม่ได้จริงๆ ทางคลินิคแจ้งว่า ต้องรอ 3 เดือนก่อน ถึงจะขอรูปเปรียบเทียบได้ (ทั้งๆที่เป็นรูปของตัวเอง) ผ่านมา 3 เดือนแล้ว ก้ขอไปใหม่ ยังไม่ได้เลยค่ะ ดำเนินการช้ามาก เหมือนไม่ค่อยใส่ใจลูกค้า\nรักษาโปรแกรม hair regrowth สำหรับผมบางอยู่ค่ะ ส่วนตัวไม่ได้รู้สึกว่าผมร่วงน้อยลง รูปเปรียบเทียบ(ของตัวเอง) ทางคลินิคก็ไม่ให้ดู เลยไม่รู้ว่าดีขึ้นไหม ตอบไม่ได้ค่ะ",
-          "publish_time": "2026-05-24T04:59:00.932476041Z"
+          "author": "สุวจี พิมพ์เชื้อ",
+          "rating": 5,
+          "text": "สบายมากเลยค่ะ   บริการดีราคาคอร์ส   ไม่แพง\n\nอยากมาทำทุกวันเลยค่ะ",
+          "publish_time": "2025-02-04T12:45:21.386846Z"
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-18",
-          "new_reviews": 0,
-          "rating": 4.7,
-          "user_ratings_total": 97
-        },
         {
           "date": "2026-09-19",
           "new_reviews": 0,
@@ -405,9 +399,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 97
+        },
+        {
+          "date": "2026-11-20",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 101
         }
       ],
-      "last_synced": "2026-11-18T21:39:33Z"
+      "last_synced": "2026-11-19T21:55:11Z"
     },
     {
       "key": "saphan_khwai",
@@ -454,12 +454,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-18",
-          "new_reviews": 0,
-          "rating": 4.8,
-          "user_ratings_total": 191
-        },
         {
           "date": "2026-09-19",
           "new_reviews": 0,
@@ -813,9 +807,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 197
+        },
+        {
+          "date": "2026-11-20",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 197
         }
       ],
-      "last_synced": "2026-11-18T21:39:33Z"
+      "last_synced": "2026-11-19T21:55:11Z"
     },
     {
       "key": "bang_yai",
@@ -862,12 +862,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-18",
-          "new_reviews": 0,
-          "rating": 4.9,
-          "user_ratings_total": 149
-        },
         {
           "date": "2026-09-19",
           "new_reviews": 0,
@@ -1221,9 +1215,15 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 158
+        },
+        {
+          "date": "2026-11-20",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 158
         }
       ],
-      "last_synced": "2026-11-18T21:39:34Z"
+      "last_synced": "2026-11-19T21:55:12Z"
     },
     {
       "key": "rangsit",
@@ -1231,7 +1231,7 @@
       "maps_url": "https://maps.app.goo.gl/uj3Pvc3VCqMZJZvW9",
       "status": "ok",
       "rating": 5,
-      "user_ratings_total": 377,
+      "user_ratings_total": 378,
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
@@ -1270,12 +1270,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-18",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 356
-        },
         {
           "date": "2026-09-19",
           "new_reviews": 0,
@@ -1629,9 +1623,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 377
+        },
+        {
+          "date": "2026-11-20",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 378
         }
       ],
-      "last_synced": "2026-11-18T21:39:34Z"
+      "last_synced": "2026-11-19T21:55:12Z"
     },
     {
       "key": "pattaya",
@@ -1679,12 +1679,6 @@
       ],
       "daily_log": [
         {
-          "date": "2026-09-18",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
           "date": "2026-09-19",
           "new_reviews": 0,
           "rating": 5,
@@ -2037,9 +2031,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 38
+        },
+        {
+          "date": "2026-11-20",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 38
         }
       ],
-      "last_synced": "2026-11-18T21:39:34Z"
+      "last_synced": "2026-11-19T21:55:12Z"
     },
     {
       "key": "chiang_mai",
@@ -2052,7 +2052,7 @@
       "today_reviews": [],
       "low_rating_alerts_today": [],
       "last_review_time": "2026-10-22T07:33:20.320779329Z",
-      "last_review_relative": "3 สัปดาห์ที่แล้ว",
+      "last_review_relative": "4 สัปดาห์ที่แล้ว",
       "recent_reviews": [
         {
           "author": "adum fc",
@@ -2087,12 +2087,6 @@
       ],
       "daily_log": [
         {
-          "date": "2026-09-18",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 15
-        },
-        {
           "date": "2026-09-19",
           "new_reviews": 0,
           "rating": 5,
@@ -2445,9 +2439,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 17
+        },
+        {
+          "date": "2026-11-20",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 17
         }
       ],
-      "last_synced": "2026-11-18T21:39:34Z"
+      "last_synced": "2026-11-19T21:55:12Z"
     },
     {
       "key": "phra_ram_9",
@@ -2455,7 +2455,7 @@
       "maps_url": "https://maps.app.goo.gl/5jmP8YQ1sWqZ4uE67",
       "status": "ok",
       "rating": 4.9,
-      "user_ratings_total": 46,
+      "user_ratings_total": 47,
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
@@ -2494,12 +2494,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-18",
-          "new_reviews": 0,
-          "rating": 4.8,
-          "user_ratings_total": 26
-        },
         {
           "date": "2026-09-19",
           "new_reviews": 0,
@@ -2853,9 +2847,15 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 46
+        },
+        {
+          "date": "2026-11-20",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 47
         }
       ],
-      "last_synced": "2026-11-18T21:39:34Z"
+      "last_synced": "2026-11-19T21:55:12Z"
     },
     {
       "key": "bang_na",
@@ -2902,12 +2902,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-18",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 21
-        },
         {
           "date": "2026-09-19",
           "new_reviews": 0,
@@ -3261,9 +3255,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 22
+        },
+        {
+          "date": "2026-11-20",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 22
         }
       ],
-      "last_synced": "2026-11-18T21:39:34Z"
+      "last_synced": "2026-11-19T21:55:12Z"
     },
     {
       "key": "pinklao",
@@ -3310,12 +3310,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-18",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 1
-        },
         {
           "date": "2026-09-19",
           "new_reviews": 0,
@@ -3669,9 +3663,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 8
+        },
+        {
+          "date": "2026-11-20",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 8
         }
       ],
-      "last_synced": "2026-11-18T21:39:34Z"
+      "last_synced": "2026-11-19T21:55:13Z"
     }
   ]
 }
