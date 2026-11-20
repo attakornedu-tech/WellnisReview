@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T21:55:13Z",
+  "generated_at": "2026-11-20T21:37:16Z",
   "branches": [
     {
       "key": "bang_pu",
@@ -46,12 +46,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-19",
-          "new_reviews": 0,
-          "rating": 4.7,
-          "user_ratings_total": 97
-        },
         {
           "date": "2026-09-20",
           "new_reviews": 0,
@@ -405,9 +399,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 101
+        },
+        {
+          "date": "2026-11-21",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 101
         }
       ],
-      "last_synced": "2026-11-19T21:55:11Z"
+      "last_synced": "2026-11-20T21:37:11Z"
     },
     {
       "key": "saphan_khwai",
@@ -454,12 +454,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-19",
-          "new_reviews": 0,
-          "rating": 4.8,
-          "user_ratings_total": 191
-        },
         {
           "date": "2026-09-20",
           "new_reviews": 0,
@@ -813,9 +807,15 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 197
+        },
+        {
+          "date": "2026-11-21",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 197
         }
       ],
-      "last_synced": "2026-11-19T21:55:11Z"
+      "last_synced": "2026-11-20T21:37:11Z"
     },
     {
       "key": "bang_yai",
@@ -862,12 +862,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-19",
-          "new_reviews": 0,
-          "rating": 4.9,
-          "user_ratings_total": 149
-        },
         {
           "date": "2026-09-20",
           "new_reviews": 0,
@@ -1221,9 +1215,15 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 158
+        },
+        {
+          "date": "2026-11-21",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 158
         }
       ],
-      "last_synced": "2026-11-19T21:55:12Z"
+      "last_synced": "2026-11-20T21:37:11Z"
     },
     {
       "key": "rangsit",
@@ -1231,7 +1231,7 @@
       "maps_url": "https://maps.app.goo.gl/uj3Pvc3VCqMZJZvW9",
       "status": "ok",
       "rating": 5,
-      "user_ratings_total": 378,
+      "user_ratings_total": 379,
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
@@ -1270,12 +1270,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-19",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 357
-        },
         {
           "date": "2026-09-20",
           "new_reviews": 0,
@@ -1629,417 +1623,21 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 378
+        },
+        {
+          "date": "2026-11-21",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 379
         }
       ],
-      "last_synced": "2026-11-19T21:55:12Z"
+      "last_synced": "2026-11-20T21:37:11Z"
     },
     {
       "key": "pattaya",
       "name": "สาขาพัทยา",
       "maps_url": "https://maps.app.goo.gl/BKWza6347NqJyPEk7",
-      "status": "ok",
-      "rating": 5,
-      "user_ratings_total": 38,
-      "new_reviews_today": 0,
-      "today_reviews": [],
-      "low_rating_alerts_today": [],
-      "last_review_time": "2026-08-22T06:58:30.102289773Z",
-      "last_review_relative": "2 เดือนที่แล้ว",
-      "recent_reviews": [
-        {
-          "author": "Poon Visetsri",
-          "rating": 5,
-          "text": "คุณหมอและพนักงานให้คำแนะนำดีมากค่ะ",
-          "publish_time": "2026-08-22T06:58:30.102289773Z"
-        },
-        {
-          "author": "sirisiri Jsk",
-          "rating": 5,
-          "text": "ประทับใจ ทุกๆครั้งที่มา พนักงานดูแลเอาใจใส่ดีมากๆๆ❤️❤️❤️",
-          "publish_time": "2026-08-10T05:31:28.583952700Z"
-        },
-        {
-          "author": "louis Jamsai",
-          "rating": 5,
-          "text": "คลีนิคบริการดี เจ้าหน้าที่น่ารักกันเอง คลีนิคสะอาดหอม แอร์เย็นฉ่ำ รักษาได้ผลดี รอดูรวมๆผลระยะยาวอีกที",
-          "publish_time": "2026-07-13T04:15:46.841665347Z"
-        },
-        {
-          "author": "Yordpao Bhumee",
-          "rating": 5,
-          "text": "บริการดีเป็นกันเอง จนท/พนง.ให้คำปรึกษา ตอบข้อสงสัยครบถ้วน",
-          "publish_time": "2026-07-07T10:57:32.608435668Z"
-        },
-        {
-          "author": "ชรินทร มาเลิศ",
-          "rating": 5,
-          "text": "คลินิกบริการดี พนักงาน เจ้าหน้าที่ทุกคนดูแลดีมาก ทำมาได้ 3 เดือนรู้สึกผมหนาขึ้นแล้วครับ",
-          "publish_time": "2026-07-04T04:37:27.777568605Z"
-        }
-      ],
-      "daily_log": [
-        {
-          "date": "2026-09-19",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-09-20",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-09-21",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-09-22",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-09-24",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-09-25",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-09-26",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-09-27",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-09-28",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-09-29",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-09-30",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-10-01",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-10-02",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-10-03",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-10-04",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-10-05",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-10-06",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-10-07",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-10-08",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-10-09",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-10-10",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-10-11",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-10-12",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-10-13",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-10-14",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-10-15",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-10-16",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-10-17",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-10-18",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-10-20",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-10-21",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-10-22",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-10-23",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-10-24",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-10-25",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-10-26",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-10-27",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-10-28",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-10-29",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-10-30",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-10-31",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-11-01",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-11-02",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-11-03",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-11-04",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-11-05",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-11-06",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-11-07",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-11-08",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-11-09",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-11-10",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-11-11",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-11-12",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-11-13",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-11-15",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-11-16",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-11-17",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-11-18",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-11-19",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
-        {
-          "date": "2026-11-20",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        }
-      ],
-      "last_synced": "2026-11-19T21:55:12Z"
+      "status": "fetch_error"
     },
     {
       "key": "chiang_mai",
@@ -2087,12 +1685,6 @@
       ],
       "daily_log": [
         {
-          "date": "2026-09-19",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 15
-        },
-        {
           "date": "2026-09-20",
           "new_reviews": 0,
           "rating": 5,
@@ -2445,9 +2037,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 17
+        },
+        {
+          "date": "2026-11-21",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 17
         }
       ],
-      "last_synced": "2026-11-19T21:55:12Z"
+      "last_synced": "2026-11-20T21:37:16Z"
     },
     {
       "key": "phra_ram_9",
@@ -2459,32 +2057,32 @@
       "new_reviews_today": 0,
       "today_reviews": [],
       "low_rating_alerts_today": [],
-      "last_review_time": "2026-08-30T09:00:56.784918449Z",
-      "last_review_relative": "2 เดือนที่แล้ว",
+      "last_review_time": "2026-11-15T05:28:27.131963396Z",
+      "last_review_relative": "ในสัปดาห์ที่ผ่านมา",
       "recent_reviews": [
         {
-          "author": "Esariyaporn P.",
+          "author": "CK' Lookhin",
           "rating": 5,
-          "text": "ทำ HRG มา 3ครั้ง ผมร่วงลดลง  สถานที่สะอาดพนักงานดูแลดี บริการดีมากค่า",
-          "publish_time": "2026-08-30T09:00:56.784918449Z"
+          "text": "พนักงานบริการดี สถานที่สะอาด แนะนำสำหรับผู้ที่มีปัญหาเรื่องเส้นผม มาปรึกษาได้ที่นี่",
+          "publish_time": "2026-11-15T05:28:27.131963396Z"
+        },
+        {
+          "author": "Sunantha Phiwsuwan",
+          "rating": 5,
+          "text": "ได้ดูแลเส้นผมที่นี้คือไม่ผิดหวังค่ะ จากผมร่วงเป็นกำๆ ตอนนนี่ร่วงน้อยลงมาก ประทับใจกับการบริการ พนักงาน และผลการรักษาของที่นี่มากค่ะ",
+          "publish_time": "2026-11-14T07:30:40.632099003Z"
+        },
+        {
+          "author": "Nussaree Freedomman",
+          "rating": 5,
+          "text": "น้องพนักงานให้คำปรึกษาดีมาก บริการเป็นกันเอง น่ารัก น้องฮับซะ และ น้องวิน พูดจาดีมาก เป็นกันเอง",
+          "publish_time": "2026-11-14T05:09:58.173383813Z"
         },
         {
           "author": "Chaiwat Rod-udom",
           "rating": 5,
           "text": "บริการดี น้องๆ พนักงานต้อนรับน่ารัก ชอบตรงไม่ยัดเยียดการขาย คุณหมอให้คำแนะนำปรึกษาดี ตรงไปตรงมาคับ บรรยากาศเหมือนมาสปา ส่วนตัวแบบสุดๆ",
           "publish_time": "2026-08-06T05:03:42.559095109Z"
-        },
-        {
-          "author": "Thichanan Ramo-ar",
-          "rating": 5,
-          "text": "คลินิกสะอาดมากค่ะ พี่ๆทุกคนน่ารักมาก บริการดีมากค่ะ",
-          "publish_time": "2026-05-06T10:34:36.308906123Z"
-        },
-        {
-          "author": "Me Mi",
-          "rating": 5,
-          "text": "สาขานี้เปิดใหม่เดินทางสะดวกใกล้ MRTพระราม9 สาขานี้สะอาดวิวดีสวยเก้าอี้นั่งสบายมากพี่ๆพนักงานน่ารักมากค่ะ",
-          "publish_time": "2026-05-06T10:30:15.138771540Z"
         },
         {
           "author": "025 รุสดา สาและ",
@@ -2494,12 +2092,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-19",
-          "new_reviews": 0,
-          "rating": 4.8,
-          "user_ratings_total": 26
-        },
         {
           "date": "2026-09-20",
           "new_reviews": 0,
@@ -2853,9 +2445,15 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 47
+        },
+        {
+          "date": "2026-11-21",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 47
         }
       ],
-      "last_synced": "2026-11-19T21:55:12Z"
+      "last_synced": "2026-11-20T21:37:16Z"
     },
     {
       "key": "bang_na",
@@ -2902,12 +2500,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-19",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 21
-        },
         {
           "date": "2026-09-20",
           "new_reviews": 0,
@@ -3261,9 +2853,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 22
+        },
+        {
+          "date": "2026-11-21",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 22
         }
       ],
-      "last_synced": "2026-11-19T21:55:12Z"
+      "last_synced": "2026-11-20T21:37:16Z"
     },
     {
       "key": "pinklao",
@@ -3310,12 +2908,6 @@
         }
       ],
       "daily_log": [
-        {
-          "date": "2026-09-19",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 1
-        },
         {
           "date": "2026-09-20",
           "new_reviews": 0,
@@ -3669,9 +3261,15 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 8
+        },
+        {
+          "date": "2026-11-21",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 8
         }
       ],
-      "last_synced": "2026-11-19T21:55:13Z"
+      "last_synced": "2026-11-20T21:37:16Z"
     }
   ]
 }
