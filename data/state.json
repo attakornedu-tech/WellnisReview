@@ -3,12 +3,6 @@
     "bang_na": {
       "daily_log": [
         {
-          "date": "2026-09-21",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 21
-        },
-        {
           "date": "2026-09-22",
           "new_reviews": 0,
           "rating": 5,
@@ -361,12 +355,18 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 22
+        },
+        {
+          "date": "2026-11-23",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 22
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=13066266656441145210&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "2 เดือนที่แล้ว",
       "last_review_time": "2026-08-26T05:59:22.141136217Z",
-      "last_synced": "2026-11-21T20:18:15Z",
+      "last_synced": "2026-11-22T20:31:05Z",
       "rating": 5,
       "recent_reviews": [
         {
@@ -414,12 +414,6 @@
     },
     "bang_pu": {
       "daily_log": [
-        {
-          "date": "2026-09-21",
-          "new_reviews": 0,
-          "rating": 4.7,
-          "user_ratings_total": 97
-        },
         {
           "date": "2026-09-22",
           "new_reviews": 0,
@@ -773,12 +767,18 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 101
+        },
+        {
+          "date": "2026-11-23",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 101
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=4772761812627584046&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "2 เดือนที่แล้ว",
       "last_review_time": "2026-09-04T09:44:53.325439588Z",
-      "last_synced": "2026-11-21T20:18:14Z",
+      "last_synced": "2026-11-22T20:31:04Z",
       "rating": 4.7,
       "recent_reviews": [
         {
@@ -794,7 +794,7 @@
           "name": "places/ChIJIXupDkBZHTERLnQ315RBPEI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wamN6QnZPVnBWTlhCdU1td3pYMnRRTW5ZM1JFRRAB",
           "publish_time": "2026-08-24T09:43:27.571000312Z",
           "rating": 5,
-          "relative_time": "2 เดือนที่แล้ว",
+          "relative_time": "3 เดือนที่แล้ว",
           "text": "คุณหมอให้คำแนะนำดีมาก เข้าใจถึงปัญหาที่เราเข้าไปรักษา พนักงานบริการดี พื้นที่คลินิค สวย สะอาด มีพื้นที่นั่งรอเยอะ ที่จอดรถกว้างขวางสะดวกสบาย กับผู้ใช้บริการดีคะ"
         },
         {
@@ -826,12 +826,6 @@
     },
     "bang_yai": {
       "daily_log": [
-        {
-          "date": "2026-09-21",
-          "new_reviews": 0,
-          "rating": 4.9,
-          "user_ratings_total": 150
-        },
         {
           "date": "2026-09-22",
           "new_reviews": 0,
@@ -1185,12 +1179,18 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 158
+        },
+        {
+          "date": "2026-11-23",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 158
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=16287447197378131024&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "2 เดือนที่แล้ว",
       "last_review_time": "2026-09-05T12:20:22.040364880Z",
-      "last_synced": "2026-11-21T20:18:14Z",
+      "last_synced": "2026-11-22T20:31:04Z",
       "rating": 4.9,
       "recent_reviews": [
         {
@@ -1226,24 +1226,18 @@
           "text": "พนักงานบริการดีสุภาพเป็นกันเองน่ารักรับฟังปัญหาที่ลูกค้ากังวลใจได้ดีไม่เสนอขายคอร์ทจนกดดันดีมากๆๆๆให้ลูกค้ารู้สึกสบายใจ"
         },
         {
-          "author": "CHAYANONT BOOKBIG",
-          "name": "places/ChIJCVYCJh2P4jARULSnce6iCOI/reviews/Ci9DQUlRQUNvZENodHljRjlvT214R2JDMHRUbGRwYW1WUWFqQldabXB5YlhjeGNYYxAB",
-          "publish_time": "2026-01-11T11:25:38.247734397Z",
+          "author": "bee วรี",
+          "name": "places/ChIJCVYCJh2P4jARULSnce6iCOI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOa1RERm9UMjE0WVZocFoxVXhWbmRDVlhWb1dVRRAB",
+          "publish_time": "2026-04-17T09:12:32.055547681Z",
           "rating": 5,
-          "relative_time": "10 เดือนที่แล้ว",
-          "text": "หลังทำมา 2 เดือนเห็นผลแล้ว มีลูกผมขึ้นและผมร่วงน้อยลง อยากให้มาเปิดที่ สมุทรสาครบ้าง"
+          "relative_time": "7 เดือนที่แล้ว",
+          "text": "พนักงานน่ารักทุกคนค่ะมาครั้งแรก ประทับใจ แต่ผลลัพธ์ต้องดูอีกทีค่ะ  เห็นผลยังไงจะมารีวิวเพิ่มเติมให้ค่ะ"
         }
       ],
       "user_ratings_total": 158
     },
     "chiang_mai": {
       "daily_log": [
-        {
-          "date": "2026-09-21",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 15
-        },
         {
           "date": "2026-09-22",
           "new_reviews": 0,
@@ -1597,12 +1591,18 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 17
+        },
+        {
+          "date": "2026-11-23",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 17
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=8374106017266278080&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "เดือนที่แล้ว",
       "last_review_time": "2026-10-22T07:33:20.320779329Z",
-      "last_synced": "2026-11-21T20:18:15Z",
+      "last_synced": "2026-11-22T20:31:04Z",
       "rating": 5,
       "recent_reviews": [
         {
@@ -1650,12 +1650,6 @@
     },
     "pattaya": {
       "daily_log": [
-        {
-          "date": "2026-09-20",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 38
-        },
         {
           "date": "2026-09-21",
           "new_reviews": 0,
@@ -2009,12 +2003,18 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 38
+        },
+        {
+          "date": "2026-11-23",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 38
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=13495116063067392428&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "3 เดือนที่แล้ว",
       "last_review_time": "2026-08-22T06:58:30.102289773Z",
-      "last_synced": "2026-11-21T20:18:15Z",
+      "last_synced": "2026-11-22T20:31:04Z",
       "rating": 5,
       "recent_reviews": [
         {
@@ -2062,12 +2062,6 @@
     },
     "phra_ram_9": {
       "daily_log": [
-        {
-          "date": "2026-09-21",
-          "new_reviews": 0,
-          "rating": 4.8,
-          "user_ratings_total": 26
-        },
         {
           "date": "2026-09-22",
           "new_reviews": 0,
@@ -2421,14 +2415,44 @@
           "new_reviews": 0,
           "rating": 4.9,
           "user_ratings_total": 49
+        },
+        {
+          "date": "2026-11-23",
+          "new_reviews": 0,
+          "rating": 4.9,
+          "user_ratings_total": 53
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=8978487306560231518&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "สัปดาห์ที่แล้ว",
-      "last_review_time": "2026-11-14T07:30:40.632099003Z",
-      "last_synced": "2026-11-21T20:18:15Z",
+      "last_review_time": "2026-11-15T05:28:27.131963396Z",
+      "last_synced": "2026-11-22T20:31:05Z",
       "rating": 4.9,
       "recent_reviews": [
+        {
+          "author": "CK' Lookhin",
+          "name": "places/ChIJ7_snuiWf4jARXljgn6L-mXw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s4M2IwOTZVakZmTVROclpXeHlkVk5zYzNacWIyYxAB",
+          "publish_time": "2026-11-15T05:28:27.131963396Z",
+          "rating": 5,
+          "relative_time": "สัปดาห์ที่แล้ว",
+          "text": "พนักงานบริการดี สถานที่สะอาด แนะนำสำหรับผู้ที่มีปัญหาเรื่องเส้นผม มาปรึกษาได้ที่นี่"
+        },
+        {
+          "author": "patarasiri sarajindapong",
+          "name": "places/ChIJ7_snuiWf4jARXljgn6L-mXw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t3MWRFTndTMmQwTVhZNVdtaEVNSFJCWTIxRFpsRRAB",
+          "publish_time": "2026-11-14T10:00:46.514411055Z",
+          "rating": 5,
+          "relative_time": "สัปดาห์ที่แล้ว",
+          "text": "คุณหมอ และน้องๆพนักงานน่ารักมากๆ บรรยากาศคลีนิคสะอาด ทันสมัย ทำแล้วเห็นผลค่ะ แนะนำ🥰"
+        },
+        {
+          "author": "ชนม์ชุดา สงวนนวน",
+          "name": "places/ChIJ7_snuiWf4jARXljgn6L-mXw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOa09UWlBha2RvTFZKalZ6WklTWHBMV2xKdldVRRAB",
+          "publish_time": "2026-11-14T09:30:13.529619816Z",
+          "rating": 5,
+          "relative_time": "สัปดาห์ที่แล้ว",
+          "text": "ร้านสะอาด พี่พนักงานดูแลดีมากค่ะ คุณหมอให้คำปรึกละเอียด เดินทางมาสะดวก ใกล้กับ MRT พระราม9"
+        },
         {
           "author": "Sunantha Phiwsuwan",
           "name": "places/ChIJ7_snuiWf4jARXljgn6L-mXw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGTGRtRkpiV1Z1WjJ0VWRuUmxVVlp2TWxCblpYYxAB",
@@ -2438,48 +2462,18 @@
           "text": "ได้ดูแลเส้นผมที่นี้คือไม่ผิดหวังค่ะ จากผมร่วงเป็นกำๆ ตอนนนี่ร่วงน้อยลงมาก ประทับใจกับการบริการ พนักงาน และผลการรักษาของที่นี่มากค่ะ"
         },
         {
-          "author": "Nussaree Freedomman",
-          "name": "places/ChIJ7_snuiWf4jARXljgn6L-mXw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SUVFYTmlUMDFNVFhaS1NGQkJlVXAyVTAxNWNWRRAB",
-          "publish_time": "2026-11-14T05:09:58.173383813Z",
+          "author": "s. chittraporn",
+          "name": "places/ChIJ7_snuiWf4jARXljgn6L-mXw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sWVdYTlFXbkp2VGxRNVRrNUJjMmxoYkd4UFRrRRAB",
+          "publish_time": "2026-11-14T06:38:35.182754851Z",
           "rating": 5,
           "relative_time": "สัปดาห์ที่แล้ว",
-          "text": "น้องพนักงานให้คำปรึกษาดีมาก บริการเป็นกันเอง น่ารัก น้องฮับซะ และ น้องวิน พูดจาดีมาก เป็นกันเอง"
-        },
-        {
-          "author": "Tunchanok Visitsak",
-          "name": "places/ChIJ7_snuiWf4jARXljgn6L-mXw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kWlpqaFBTRlZZYURodFJFNTVaRXRLZDI5VlVFRRAB",
-          "publish_time": "2026-11-14T04:23:19.378478601Z",
-          "rating": 5,
-          "relative_time": "สัปดาห์ที่แล้ว",
-          "text": "บรรยากาศดีเหมือนอยู่สปา คลินิคสะอาด ถ้ามาเป็นคู่มีห้องคู่ให้บริการส่วนตัว"
-        },
-        {
-          "author": "Chaiwat Rod-udom",
-          "name": "places/ChIJ7_snuiWf4jARXljgn6L-mXw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twb1UxUnlYMmR6ZDFOT2RVcDVUMFZHYkUxNVlVRRAB",
-          "publish_time": "2026-08-06T05:03:42.559095109Z",
-          "rating": 5,
-          "relative_time": "3 เดือนที่แล้ว",
-          "text": "บริการดี น้องๆ พนักงานต้อนรับน่ารัก ชอบตรงไม่ยัดเยียดการขาย คุณหมอให้คำแนะนำปรึกษาดี ตรงไปตรงมาคับ บรรยากาศเหมือนมาสปา ส่วนตัวแบบสุดๆ"
-        },
-        {
-          "author": "025 รุสดา สาและ",
-          "name": "places/ChIJ7_snuiWf4jARXljgn6L-mXw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GR1pIWllNM2xCVlZsa1J6WTBTMFJFVWt4QllsRRAB",
-          "publish_time": "2026-05-06T10:24:16.434050343Z",
-          "rating": 5,
-          "relative_time": "6 เดือนที่แล้ว",
-          "text": "คลินิกสวย สบาย สะอาดมากก หมอให้คำแนะนำตรงจุด มารักษาผมแล้วเหมือนได้พักผ่อนไปในตัว ชอบมากก 100/10 แนะนำเลยค่ะ"
+          "text": "คลีนิกสะอาด บรรยากาศดีมากเว่อ พนักงานน่ารัก ต้อนรับดีทุกคน บริการดีม๊าก ที่สำคัญคือ ไม่ต้องกังวลเรื่องที่จอดรถ"
         }
       ],
-      "user_ratings_total": 49
+      "user_ratings_total": 53
     },
     "pinklao": {
       "daily_log": [
-        {
-          "date": "2026-09-21",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 1
-        },
         {
           "date": "2026-09-22",
           "new_reviews": 0,
@@ -2833,12 +2827,18 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 8
+        },
+        {
+          "date": "2026-11-23",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 8
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=1801119609578184508&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "เดือนที่แล้ว",
       "last_review_time": "2026-10-10T07:56:28.684361421Z",
-      "last_synced": "2026-11-21T20:18:15Z",
+      "last_synced": "2026-11-22T20:31:05Z",
       "rating": 5,
       "recent_reviews": [
         {
@@ -2886,12 +2886,6 @@
     },
     "rangsit": {
       "daily_log": [
-        {
-          "date": "2026-09-21",
-          "new_reviews": 0,
-          "rating": 5,
-          "user_ratings_total": 357
-        },
         {
           "date": "2026-09-22",
           "new_reviews": 0,
@@ -3245,12 +3239,18 @@
           "new_reviews": 0,
           "rating": 5,
           "user_ratings_total": 381
+        },
+        {
+          "date": "2026-11-23",
+          "new_reviews": 0,
+          "rating": 5,
+          "user_ratings_total": 381
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=6627011122346499865&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "สัปดาห์ที่แล้ว",
       "last_review_time": "2026-11-14T09:59:23.697484600Z",
-      "last_synced": "2026-11-21T20:18:14Z",
+      "last_synced": "2026-11-22T20:31:04Z",
       "rating": 5,
       "recent_reviews": [
         {
@@ -3298,12 +3298,6 @@
     },
     "saphan_khwai": {
       "daily_log": [
-        {
-          "date": "2026-09-21",
-          "new_reviews": 0,
-          "rating": 4.8,
-          "user_ratings_total": 191
-        },
         {
           "date": "2026-09-22",
           "new_reviews": 0,
@@ -3657,12 +3651,18 @@
           "new_reviews": 0,
           "rating": 4.7,
           "user_ratings_total": 197
+        },
+        {
+          "date": "2026-11-23",
+          "new_reviews": 0,
+          "rating": 4.7,
+          "user_ratings_total": 197
         }
       ],
       "google_maps_uri": "https://maps.google.com/?cid=16047547344402416693&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "last_review_relative": "เดือนที่แล้ว",
       "last_review_time": "2026-09-30T14:50:21.337860276Z",
-      "last_synced": "2026-11-21T20:18:14Z",
+      "last_synced": "2026-11-22T20:31:04Z",
       "rating": 4.7,
       "recent_reviews": [
         {
